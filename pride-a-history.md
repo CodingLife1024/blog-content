@@ -21,11 +21,11 @@ After midnight on Friday, several plainclothes police officers entered the bar w
 
 Meanwhile, a crowd formed outside the bar. A police van arrived and loaded Stonewall employees and cross-dressers inside.
 
-**Early hours of June 28, 1969:** Transgender women resist arrest.
+**Early hours of June 28, 1969:** Transwomen resist arrest.
 
 Accounts vary, but according to witness reports, the crowd erupted after the police roughed up a woman dressed in masculine attire. People started taunting the police, throwing pennies and bottles at them. Tyres of the police vans were slashed.
 
-Two transgender women of color, Marsha P. Johnson and Sylvia Rivera, were said to have resisted arrest and thrown the first bottle (or brick or stone) at the cops, respectively. Although Johnson later said in a 1987 podcast interview with historian Eric Marcus that she had not arrived until the uprising was well underway.
+Two transwomen of color, Marsha P. Johnson and Sylvia Rivera, were said to have resisted arrest and thrown the first bottle (or brick or stone) at the cops, respectively. Although Johnson later said in a 1987 podcast interview with historian Eric Marcus that she had not arrived until the uprising was well underway.
 
 The exact breakdown of who did what first remains unclear. This was way before the smartphone revolution.
 
