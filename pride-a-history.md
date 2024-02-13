@@ -37,7 +37,7 @@ Some rioters used a parking meter as a battering ram to break through the door; 
 
 More police officers arrived, along with squadrons of the Tactical Patrol Force (TPF), the city’s riot police. As the helmeted officers marched in formation down Christopher Street, protesters outsmarted them by running away, then circling back up behind the officers.
 
-Finally, sometime after 4 a.m., things settled down. Amazingly, no one died or was critically injured on the first night of rioting, though a few police officers reported injuries.
+Finally, sometime after 4 a.m., things settled down. However, no one died or was critically injured on the first night of rioting, though a few police officers reported injuries.
 
 **June 28 - 29: Stonewall reopens, supporters gather:** Police beat and tear gas the crowd.
 
