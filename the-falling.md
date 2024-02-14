@@ -16,8 +16,6 @@ Lydia does not cry at Abbie's funeral. Her behavior becomes increasingly unstabl
 
 Lydia becomes increasingly rebellious and is eventually expelled from the school. She is consumed by her memories of Abbie and her hatred for her mother. After her mother catches her and Kenneth sleeping together, she reveals that Lydia and Kenneth are half-siblings, and implies that Lydia is the result of the rape. She runs out of the house: there is a full moon, and she climbs the large symbolic tree that overshadows the lake. She proclaims that she is at last 'free', 'real', and fully 'conscious' – although it is not clear whether she then jumps into the lake, or simply slips and falls by accident. She is pursued by Eileen (who struggles with flashbacks of the rape). She jumps or falls from a large tree into the lake outside the school. Her mother hugs her body and cries, as Lydia regains consciousness. The two women hold each other and cry. 
 
-![Lydia](https://github.com/CodingLife1024/blog-content/blob/main/images/fall2.jpg?raw=true)
-
 ## The Fainting Epidemic
 
 The Falling blurs the boundary between dream and reality. It is never specified whether the girls are pretending or just fainting uncontrollably. There may be a kind of empathic contagion here. Lydia is to some extent copying the circumstances of Abbie's death, and the other girls appear to copy Lydia. 
@@ -43,3 +41,5 @@ In the final act of the film, Lydia is systematically isolated – and isolates 
 ## Conclusion
 
 For all its melodrama, the ending seems to provide some kind of resolution for Eileen, not least in that she leaves the house for the first time in years. She and Lydia hold each other closely in the last scene, suggesting a possible reconciliation between the mother and daughter. 
+
+![Lydia](https://github.com/CodingLife1024/blog-content/blob/main/images/fall2.jpg?raw=true)
