@@ -16,7 +16,7 @@ Lydia does not cry at Abbie's funeral. Her behaviour becomes increasingly unstab
 
 Lydia becomes increasingly rebellious and is eventually expelled from the school. She is consumed by her memories of Abbie and hatred for her mother. After her mother catches her and Kenneth sleeping together, she reveals that Lydia and Kenneth are half-siblings, and implies that Lydia is the result of the rape. She runs out of the house: there is a full moon, and she climbs the large symbolic tree that overshadows the lake. She proclaims that she is at last 'free', 'real' and fully 'conscious' – although it is not clear whether she then jumps into the lake, or simply slips and falls by accident. She is pursued by Eileen (who struggles with flashbacks of the rape). She jumps or falls from a large tree into the lake outside the school. Her mother hugs her body and cries, as Lydia regains consciousness. The two women hold each other and cry. 
 
-![The Movie](https://github.com/CodingLife1024/blog-content/blob/main/images/fall2.jpg?raw=true)
+![Lydia](https://github.com/CodingLife1024/blog-content/blob/main/images/fall2.jpg?raw=true)
 
 ## The Fainting Epidemic
 
