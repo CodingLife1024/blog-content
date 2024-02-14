@@ -12,4 +12,4 @@ Trouble starts when Abbie gets pregnant by a boy and they try to figure out how 
 
 After serving detention after school one day, Abbie absent-mindedly remarks that she wants to keep the baby. Lydia argues with her about about her increasingly out-of-character behaviour, as Abbie suffers from a nosebleed snd faints. She dies soon after.
 
-Lydia does not cry at Abbie's funeral. 
+Lydia does not cry at Abbie's funeral. Her behaviour becomes increasingly unstable, culminating in her going into a trance-like state and performing a slow, creepy dance in art class, followed by her falling unconscious. After this, almost all her classmates suffer from fainting spells without any apparent medical cause. After a mass fainting incident in the school assembly, the principal gets all the girls hospitalised. No medical cause is found, and a psychiatrist diagnoses them with mass hysteria. 
