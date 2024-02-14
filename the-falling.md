@@ -28,7 +28,7 @@ Miss Alvaro believes that Lydia is faking: at one point when she passes out in h
 
 There is the implication of Lydia being in love with Abbie. She asks Kenneth about what it was like to have sex with Abbie. She gets closer to Kenneth following her death, culminating with her having sex with Kenneth (soon getting caught by their mother) as an extension for Abbie, as he was the last person to have gotten to know her sexually. 
 
-Abbie represents everything Lydia yearns for - acceptance, intimacy, and understanding. However, Abbie's inability to reciprocate Lydia's intense feelings serves to make her feel alienated. 
+Abbie represents everything Lydia yearns for - acceptance, intimacy, and understanding. However, Abbie's inability to reciprocate Lydia's intense feelings makes her feel alienated. 
 
 ## Maternal Detachment
 
