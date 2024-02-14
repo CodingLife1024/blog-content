@@ -3,7 +3,7 @@
 
 A few days ago, I watched a film titled, "The Falling". It was released in 2014 and had Carol Morley as its director. It is an enigmatic portrayal of adolescence and female friendships against the backdrop of a conservative all-girls school in the 1960s. 
 
-![The Movie](https://github.com/CodingLife1024/blog-content/blob/main/images/fall1.jpg?raw=true)
+![The Movie](https://github.com/CodingLife1024/blog-content/blob/main/images/fall1.jpg?raw=true){:width="50%"}
 
 
 At the heart of the film is Lydia Lamont (played by Maisie Williams, of The Game of Thrones fame). She and her best friend Abbie Mortimer (played by Florence Pugh, from Midsommar) are both 16 and are partners in crime and love. Lydia is fixated on Abbie and looks up to her, possibly in a subconscious attempt to experience the love of her distant and agoraphobic mother. 
@@ -20,7 +20,11 @@ Lydia becomes increasingly rebellious and is eventually expelled from the school
 
 ## The Fainting Epidemic
 
-The Falling blurs the boundary between dream and reality. It is never made specified whether the girls are pretending or just fainting uncontrollably. There may be a kind of empathic contagion here. Lydia is to some extent copying the circumstances of Abbie's death; and the other girls appear to copy Lydia. Miss Alvaro believes that Lydia is faking: at one point, when she passes out in her office, Miss Alvaro pricks her with a pin to wake her up.  After large numbers of girls are taken to hospital, several recover fairly quickly; but the others begin to compete with each other as to whether they are in the more or less 'advanced stages' of the condition, and they later accuse each other of being 'fake'. 
+The Falling blurs the boundary between dream and reality. It is never made specified whether the girls are pretending or just fainting uncontrollably. There may be a kind of empathic contagion here. Lydia is to some extent copying the circumstances of Abbie's death; and the other girls appear to copy Lydia. 
+
+There is a kind of solidarity among the group – the girls smile faintly to each other as the fainting fits occur, as though they recognize something that cannot be spoken aloud. There are power struggles within the group as well; Lydia is rude to Susan who attempts to take Abbie's place by trying to et close to her. 
+
+Miss Alvaro believes that Lydia is faking: at one point, when she passes out in her office, Miss Alvaro pricks her with a pin to wake her up.  After large numbers of girls are taken to hospital, several recover fairly quickly; but the others begin to compete with each other as to whether they are in the more or less 'advanced stages' of the condition, and they later accuse each other of being 'fake'. 
 
 ## Unrequited Love
 
@@ -32,6 +36,10 @@ Abbie represents everything Lydia yearns for - acceptance, intimacy, and underst
 
 The void left by Eileen's detachment makes Lydia defiant and vulnerable. Without the secure foundations of maternal love, Lydia latches on to Abbie and becomes increasingly upset with the prospect of Abbie having a dimension in her life separate from Lydia (her pregnancy and sex life). This unrequited love on her part serves as a catalyst to her unravelling after her death. 
 
+## The Ending
+
+In the final act of the film, Lydia is systematically isolated – and isolates herself – from the other girls; her growing aggression towards her mother, and the shocking scene of her having sex with Kenneth (whom she believes is her brother) show her crossing all sorts of lines. Her final attempt to confront the authority of the school fails: she urges the other girls to 'kill the system', but they do not join her, and she is drowned out by a collective rendition of the hymn 'To Be A Pilgrim'. The movie creates an air of mystery and foreboding: the neo-Gothic school buildings, the lake and the large tree, and the autumnal nature. 
+
 ## Conclusion
 
-For all its melodrama, the ending seems to provide some kind of resolution for her, not least in that she leaves the house for the first time in years.         
+For all its melodrama, the ending seems to provide some kind of resolution for Eileen, not least in that she leaves the house for the first time in years. She and Lydia hold each other closely in the last scene, suggesting a possible reconciliation between the mother and daughter. 
