@@ -1,7 +1,7 @@
 # Pride: A History
 ## 14/01/2024
 
-Yesterday and today marked the 2nd edition of Vibhinn, an LGBTQIA+ pride fest conducted on the IIT Delhi campus. Themed "Information and Injustice," the event featured many prominent gay and trans rights activists as speakers. One such individual was Shabnam Mausi, the only transgender person to get elected as an MLA in India, and Sr. Adv. Saurabh Kirpal, a senior advocate at the Delhi High Court, who has taken up cases to further sexual and gender rights, and has written extensively on the subject.
+Yesterday and today marked the 2nd edition of Vibhinn, an LGBTQIA+ pride fest conducted on the IIT Delhi campus. Themed "Information and Injustice," the event featured many prominent gay and trans rights activists as speakers. One such individual was Sr. Adv. Saurabh Kirpal, a senior advocate at the Delhi High Court, who has taken up cases to further sexual and gender rights, and has written extensively on the subject.
 
 As a 6th-semester student, I must admit that this is the first time I have ever participated in any activity conducted by Indradhanu, the Queer Collective at IIT Delhi. Although I have believed in the importance of LGBTQIA+ rights for a few years now, I never joined Indradhanu or participated due to personal misgivings, fear of reputation loss, prejudice towards the transgender community, and annoyance at what some term the "pronoun brigade."
 
