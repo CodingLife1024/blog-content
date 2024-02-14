@@ -11,3 +11,5 @@ At the heart of the film is Lydia Lamont (played by Maisie Williams, of The Game
 Trouble starts when Abbie gets pregnant by a boy and they try to figure out how to proceed after this revelation. In an attempt to abort the pregnancy, Abbie sleeps with Lydia's older brother Kenneth, who talks about spells and magic and ley lines. This bothers Lydia, who is jealously possessive of Abbie.
 
 After serving detention after school one day, Abbie absent-mindedly remarks that she wants to keep the baby. Lydia argues with her about about her increasingly out-of-character behaviour, as Abbie suffers from a nosebleed snd faints. She dies soon after.
+
+Lydia does not cry at Abbie's funeral. 
