@@ -36,7 +36,7 @@ The void left by Eileen's detachment makes Lydia defiant and vulnerable. Without
 
 ## The Ending
 
-In the final act of the film, Lydia is systematically isolated – and isolates herself – from the other girls; her growing aggression towards her mother, and the shocking scene of her having sex with Kenneth (whom she believes is her brother) shows her crossing all sorts of lines. Her final attempt to confront the authority of the school fails: she urges the other girls to 'kill the system', but they do not join her, and she is drowned out by a collective rendition of the hymn 'To Be A Pilgrim'. The movie creates an air of mystery and foreboding: the neo-Gothic school buildings, the lake and the large tree, and the autumnal nature. 
+In the final act of the film, Lydia is systematically isolated – and isolates herself – from the other girls; her growing aggression towards her mother, and the shocking scene of her having sex with Kenneth (whom she believes is her brother) shows her crossing all sorts of lines. Her final attempt to confront the authority of the school fails: she yells at the other girls to 'kill the system', but they do not join her, and she is drowned out by them collectively singing 'To Be A Pilgrim'. The movie creates an air of mystery and foreboding: the Gothic school buildings and the lake and the large tree. 
 
 ## Conclusion
 
