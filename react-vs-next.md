@@ -1,5 +1,5 @@
 # React vs Next.js
-## February 17, 2024
+## 17/02/2024
 
 ![React vs Next.js](https://github.com/CodingLife1024/blog-content/blob/main/images/rvn.jpg?raw=true)
 
