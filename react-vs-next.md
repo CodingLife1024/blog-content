@@ -1,5 +1,7 @@
 # React vs Next.js
-## 14/02/2024
+## 17/02/2024
+
+![Picture](https://github.com/CodingLife1024/blog-content/blob/main/images/rvn.jpg?raw=true)
 
 In the realm of modern web development, ReactJS and Next.js have emerged as two prominent frameworks, each offering unique features and advantages. ReactJS, developed by Meta, has become a cornerstone for building interactive user interfaces, while Next.js, a framework built on top of React, adds server-side rendering, routing, and other features to enhance the development experience. In this essay, we will delve into the intricacies of ReactJS and Next.js, exploring their strengths, weaknesses, and use cases.
 
