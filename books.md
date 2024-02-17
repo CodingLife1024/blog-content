@@ -1,2 +1,2 @@
 - [ ] (for unchecked checkbox)
-- [x] Venus
+- [x] Venus 
