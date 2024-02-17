@@ -1,1 +1,2 @@
-☑️ Checked Box
+- [ ] (for unchecked checkbox)
+- [x] Venus
