@@ -5,6 +5,8 @@
 
 Picture this: you're knee-deep in textbooks, drowning in caffeine, and praying for a miracle to ace your exams. Lo and behold, outside your window, a cool, refreshing wind is blowing, the heat and the coolness are balanced just right, even the clouds behave and let in just the perfect amount of sunlight and it feels like the universe is mocking your misery. Welcome to the world of exam week weather, where the forecast always seems to be "sunny with a 100% chance of stress." In this blog post, we'll dive into the  strange phenomenon of why it's always nice weather during exam week, only for it to turn into a soggy, depression-inducing mess once the exams are over. 
 
+![Before and after exams](https://github.com/CodingLife1024/blog-content/blob/main/images/weather2.jpg?raw=true)
+
 ## The Consistency of Coincidence:
 
 Alright, let's get real for a moment. We're talking about a coincidence so consistent it's practically begging for its own sitcom. Like clockwork, every time exams roll around, so does the good weather. It's as if Mother Nature has a twisted sense of humor, throwing sunshine and blue skies into the mix just to mess with our already frazzled brains. And then, like a cosmic punchline, the moment the last exam is over, boom! Cue the thunderstorms, blazing heat and teeth-chattering weather. Coincidence? Perhaps. I think not.
