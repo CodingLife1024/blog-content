@@ -1,2 +1,4 @@
-- [ ] (for unchecked checkbox)
-- [x] Venus 
+Books for 2024
+
+- ~~AGame of Thrones, George R R Martin~~
+
