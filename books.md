@@ -11,3 +11,5 @@
 - A Dance with Dragons (2011), George R R Martin
 
 - Carmilla
+
+- My Year of Rest and Relaxation, Ottessa Moshfegh
