@@ -1,3 +1,13 @@
-Watchlist for 2024
+# Watchlist for 2024
 
-- <s>The Falling(2015)</s>
+## Movies
+
+~~The Falling (2015)~~
+
+~~The Awakening~~
+
+Impetigore
+
+## Series
+
+Money Heist
