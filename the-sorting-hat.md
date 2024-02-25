@@ -39,7 +39,7 @@ The houses seem to be a crucial element in the Harry Potter lore, yet we do not 
 
 Who knows, maybe Voldemort would never have become Voldemort and become Professor Riddle, the best Defence Against the Dark Arts teacher in Hogwarts' history, had he not been sorted into Slytherin?
 
-![Voldemort](https://github.com/CodingLife1024/blog-content/blob/main/images/hp2.jpg?raw=true)
+![Voldemort](https://github.com/CodingLife1024/blog-content/blob/main/images/hp1.jpg?raw=true)
 
 Tom Riddle was sorted into Slytherin due to his cunning and his ambition. His peers in Slytherin who were adherents of Pureblood ideology might have influenced him to become more like them and believe in Pureblood supremacy. Had he been sorted into Gryffindor, Ravenclaw or Hufflepuff, his trajectory might have been altered—though whether for better or worse remains speculative. He was after all, a half-blood himself as he had a muggle father. Then again, he might still have turned out to be just as sadistic, as there is a theory that since Voldemort was conceived under the influence of love-potion, he was incapable of love.  
 
