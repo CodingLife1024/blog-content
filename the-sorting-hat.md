@@ -32,3 +32,8 @@ Harry gripped the edges of the stool and thought, Not Slytherin, not Slytherin.
 ```
 
 From the Hat's dialogue with Harry, it does seem to take his talents into account. This again does not line up with the previous theory. 
+
+The houses seem to be a crucial element in the Harry Potter lore, yet we do not know much about the Sorting Hat. Rivalries, friendships and relationships are formed within house lines, which influence major events in the Harry Potter Universe. 
+
+Who knows, maybe Voldemort would never have become Voldemort and become Professor Riddle, the best Defence Against the Dark Arts teacher in Hogwarts' history, had he not been sorted into Slytherin?
+
