@@ -3,6 +3,8 @@
 
 Like many long time fans of the Harry Potter series, I have been fascinated by the Sorting Hat and its thought process in categorising students in different houses. There are 4 houses in Harry Potter lore - Gryffindor (for courage and bravery), Hufflepuff (for kindness and hardwork), Ravenclaw (for wisdom and intellect) and Slytherin (for cunning and shrewdness). These houses are integral to J. K. Rowlings' magical Universe. All students are sorted into one of the 4 houses when they come into their first year. 
 
+![Houses](https://github.com/CodingLife1024/blog-content/blob/main/images/hp2.jpg?raw=true)
+
 Yet, upon closer examination, it becomes evident that the Sorting Hat's methodology is not as straightforward as it may initially seem. There is plenty that is wrong with this system. When the new students come to Hogwarts, they are _11 years old_. Their personalities haven't been fully formed yet. 
 
 Does the hat take their personality _at the time of sorting_ as a parameter? This seems to be false, as at the time of sorting, Neville Longbottom is pretty timid and under his overbearing grandmother's thumb, although he does grow up to be brave. 
