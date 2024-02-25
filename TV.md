@@ -6,10 +6,14 @@
 
 ~~The Awakening~~
 
-Impetigore
+Impetigore 
 
 ## Series
+
+~~Criminal Minds~~
 
 Money Heist
 
 Anne with an E
+
+Dublin Murders
