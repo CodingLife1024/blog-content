@@ -5,27 +5,24 @@ In the Harry Potter wizarding history, Salazar Slytherin is widely regarded as e
 
 Salazar Slytherin was born in 934 - 935 A.D. (according to Pottermore). In the Chamber of Secrets, Professor Binns says:
 
-```
-"You all know, of course, that Hogwarts was founded over a thousand years ago – the precise date is uncertain – by the four greatest witches and wizards of the age."
+> "You all know, of course, that Hogwarts was founded over a thousand years ago – the precise date is uncertain – by the four greatest witches and wizards of the age."
+>
+> (Professor Binns, Chamber of Secrets)
 
-(Professor Binns, Chamber of Secrets)
-```
 
 This matches up with the data. 
 
 When you consider that, aside from hearsay and legend, we literally know nothing about who Salazar Slytherin was, historical context becomes even more important. Also according to the book lore, Gryffindor and Slytherin used to be best friends before Slytherin went his own way. So, if Slytherin were a dark wizard, why would the other founders have let him into their circle? Even if he were an actor, the other founders would have seen through it with how talented they were said to be.
 
-```
-"And at last there came a morning.
-
-When old Slytherin departed.
-
-And though the fighting then died out.
-
-He left us quite downhearted."
-
-(Sorting hat, Order of the Phoenix)
-```
+>"And at last there came a morning.
+>
+>When old Slytherin departed.
+>
+>And though the fighting then died out.
+>
+>He left us quite downhearted."
+>
+>(Sorting hat, Order of the Phoenix)`
 
 So it seems the other founders were sad at his leaving, which leaves reason to suspect that their friendship would still be intact.
 
@@ -56,11 +53,9 @@ Four different views, one common goal: survival.
 
 However, add in the factor of Muggleborn witches and wizards, and more complications arise. In days where magic and wizardry were thought to come from the devil, the notion of having a wizard or witch in the family would not be welcomed. Even if magic was accepted by parents out of love, what about their neighbors ?Would a young wizard, born from Muggle parents who hate magic (and likely themselves as well), so readily acclimate to the wizarding world and its norms? They could tell the secrets of the wizarding world, wither out of malice or loyalty to their muggle family. Would it be possible that they all could be put at risk by accepting Muggleborns and Half-borns? This is where Slytherin began to diverge from the other founders and his reputation for prejudice would arise. He may have seen these all as possibilities, and his value on self-preservation would lead him to opinions and actions the others would not agree with.
 
-```
-"He disliked taking students of Muggle parentage, believing them to be untrustworthy." 
-
-(Professor Binns, Chamber of Secrets)
-```
+>"He disliked taking students of Muggle parentage, believing them to be untrustworthy." 
+>
+>(Professor Binns, Chamber of Secrets)
 
 Untrustworthy, not lesser or undesirable. This reinforces the point that it was more likely for his exclusion to result from fear than blind hate. Even with protections around Hogwarts, if someone who knew the way led others, all the hard work put into keeping their secret would be lost. Spies and double agents with muggle parentage would have posed a threat to Hogwarts and the safety of Wizards in general. From his perspective, they were more likely to have divided loyalties than pureblood magical folks. Rowling directly says that Muggles and wizards were working together against the interests of Hogwarts.
 
