@@ -23,15 +23,13 @@ As this [reddit post](https://www.reddit.com/r/FanTheories/comments/5zdqfh/harry
 
 However in this passage, 
 
-```
-The last thing Harry saw before the hat dropped over his eyes was the hall full of people craning to get a good look at him. Next second he was looking at the black inside of the hat. He waited.
-
-"Hmm," said a small voice in his ear. "Difficult. Very difficult. Plenty of courage, I see. Not a bad mind either. There's talent, oh my goodness, yes — and a nice thirst to prove yourself, now that's interesting... So where shall I put you?"
-
-Harry gripped the edges of the stool and thought, Not Slytherin, not Slytherin.
-
-"Not Slytherin, eh?" said the small voice. "Are you sure? You could be great, you know, it's all here in your head, and Slytherin will help you on the way to greatness, no doubt about that — no? Well, if you're sure — better be GRYFFINDOR!"
-```
+>The last thing Harry saw before the hat dropped over his eyes was the hall full of people craning to get a good look at him. Next second he was looking at the black inside of the hat. He waited.
+>
+>"Hmm," said a small voice in his ear. "Difficult. Very difficult. Plenty of courage, I see. Not a bad mind either. There's talent, oh my goodness, yes — and a nice thirst to prove yourself, now that's interesting... So where shall I put you?"
+>
+>Harry gripped the edges of the stool and thought, Not Slytherin, not Slytherin.
+>
+>"Not Slytherin, eh?" said the small voice. "Are you sure? You could be great, you know, it's all here in your head, and Slytherin will help you on the way to greatness, no doubt about that — no? Well, if you're sure — better be GRYFFINDOR!"
 
 From the Hat's dialogue with Harry, it does seem to take his his courage, intellect, and ambition into account. This again does not line up with the previous theory. This nuance contradicts the theory that it merely reflects students' values, suggesting a more multifaceted assessment.
 
