@@ -7,7 +7,7 @@ Salazar Slytherin was born in 934 - 935 A.D. (according to Pottermore). In the C
 
 > "You all know, of course, that Hogwarts was founded over a thousand years ago – the precise date is uncertain – by the four greatest witches and wizards of the age."
 >
-> (Professor Binns, Chamber of Secrets)
+> ~(Professor Binns, Chamber of Secrets)
 
 
 This matches up with the data. 
@@ -22,7 +22,7 @@ When you consider that, aside from hearsay and legend, we literally know nothing
 >
 >He left us quite downhearted."
 >
->(Sorting hat, Order of the Phoenix)`
+> ~(Sorting hat, Order of the Phoenix)
 
 So it seems the other founders were sad at his leaving, which leaves reason to suspect that their friendship would still be intact.
 
