@@ -1,7 +1,7 @@
 # Confessions of a Chronic Binge-watcher
 ## 03/03/2024
 
-Procrastination – the art of delaying the inevitable with reckless abandon. As a self-proclaimed connoisseur of this fine art, I've perfected the craft to new heights, especially when it comes to my addiction to binge-watching crime shows during exam season.
+Procrastination – the art of delaying the task at hand till the absolute last minute. As a self-proclaimed connoisseur of this fine art, I've painstakingly perfected the craft and taken it to new heights, especially when it comes to my addiction to binge-watching crime shows during exam season.
 
 It all starts normally enough. There I am, sitting at my desk, surrounded by textbooks and notes, ready to conquer the world (or at least my upcoming exams). But then, like a siren's call from the depths of the internet, I hear it – the enticing call of the urge to take a break (after 15 minutes of study). And just like that, my fate is sealed.
 
