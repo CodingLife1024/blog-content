@@ -55,7 +55,7 @@ However, add in the factor of Muggleborn witches and wizards, and more complicat
 
 >"He disliked taking students of Muggle parentage, believing them to be untrustworthy." 
 >
->(Professor Binns, Chamber of Secrets)
+> ~(Professor Binns, Chamber of Secrets)
 
 Untrustworthy, not lesser or undesirable. This reinforces the point that it was more likely for his exclusion to result from fear than blind hate. Even with protections around Hogwarts, if someone who knew the way led others, all the hard work put into keeping their secret would be lost. Spies and double agents with muggle parentage would have posed a threat to Hogwarts and the safety of Wizards in general. From his perspective, they were more likely to have divided loyalties than pureblood magical folks. Rowling directly says that Muggles and wizards were working together against the interests of Hogwarts.
 
