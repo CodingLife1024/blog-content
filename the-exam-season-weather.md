@@ -1,11 +1,7 @@
 # The Exam Week Weather: A Ironic of Weather and Study Stress
 ## 20/02/2024
 
-![During exams](https://github.com/CodingLife1024/blog-content/blob/main/images/weather1.jpg?raw=true)
-
-Picture this: you're knee-deep in textbooks, drowning in caffeine, and praying for a miracle to ace your exams. Lo and behold, outside your window, a cool, refreshing wind is blowing, the heat and the coolness are balanced just right, even the clouds behave and let in just the perfect amount of sunlight and it feels like the universe is mocking your misery. Welcome to the world of exam week weather, where the forecast always seems to be "sunny with a 100% chance of stress." In this blog post, we'll dive into the  strange phenomenon of why it's always nice weather during exam week, only for it to turn into a soggy, depression-inducing mess once the exams are over. 
-
-![Before and after exams](https://github.com/CodingLife1024/blog-content/blob/main/images/weather2.jpg?raw=true)
+Picture this: you're knee-deep in textbooks, drowning in caffeine, and praying for a miracle to ace your exams. Lo and behold, outside your window, a cool, refreshing wind is blowing, the heat and the coolness are balanced just right, even the clouds behave and let in just the perfect amount of sunlight and it feels like the universe is mocking your misery. Welcome to the world of exam week weather, where the forecast always seems to be "sunny with a 100% chance of stress." In this blog post, we'll dive into the  strange phenomenon of why it's always nice weather during exam week, only for it to turn into a soggy, depression-inducing mess once the exams are over.
 
 ## The Consistency of Coincidence:
 
@@ -22,6 +18,13 @@ Sure, there might be some scientific stuff about atmospheric pressure and season
 ## Cultural and Societal Influences:
 
 Ah, let's not forget the cultural and societal influences at play here. In a world where academic success is practically a competitive sport, we've elevated exam season to mythical proportions. It's like the Olympics of stress, and there might as well be medal ceremonies for the most sleep-deprived and caffeine-addicted. And what better backdrop for this grand spectacle than a windy day? It's like the universe is giving us a thumbs-up for our valiant efforts to understand Socratean soliloquies at 3 AM. But hey, at least we're all in this together, united by our shared struggle against the forces of procrastination and bad weather. 
+
+![During exams](https://github.com/CodingLife1024/blog-content/blob/main/images/weather1.jpg?raw=true)
+*How it feels like going to give exams*
+
+![Before and after exams](https://github.com/CodingLife1024/blog-content/blob/main/images/weather2.jpg?raw=true)
+*How the weather seems like before and after exam season*
+
 
 ## Conclusion:
 
