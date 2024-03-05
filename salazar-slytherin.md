@@ -5,7 +5,7 @@ In the Harry Potter wizarding history, Salazar Slytherin is widely regarded as e
 
 Salazar Slytherin was born in 934 - 935 A.D. (according to Pottermore). In the Chamber of Secrets, Professor Binns says:
 
-> "You all know, of course, that Hogwarts was founded over a thousand years ago – the precise date is uncertain – by the four greatest witches and wizards of the age."
+> "You all know, of course, that Hogwarts was founded over a thousand years ago-the precise date is uncertain-by the four greatest witches and wizards of the age."
 >
 > ~(Professor Binns, Chamber of Secrets)
 
