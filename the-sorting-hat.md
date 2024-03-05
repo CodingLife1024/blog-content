@@ -29,7 +29,7 @@ However in this passage,
 >
 >Harry gripped the edges of the stool and thought, Not Slytherin, not Slytherin.
 >
->"Not Slytherin, eh?" said the small voice. "Are you sure? You could be great, you know, it's all here in your head, and Slytherin will help you on the way to greatness, no doubt about that — no? Well, if you're sure — better be GRYFFINDOR!"
+>"Not Slytherin, eh?" said the small voice. "Are you sure? You could be great, you know, it's all here in your head, and Slytherin will help you on the way to greatness, no doubt about that - no? Well, if you're sure - better be GRYFFINDOR!"
 
 From the Hat's dialogue with Harry, it does seem to take his his courage, intellect, and ambition into account. This again does not line up with the previous theory. This nuance contradicts the theory that it merely reflects students' values, suggesting a more multifaceted assessment.
 
@@ -39,7 +39,7 @@ Who knows, maybe Voldemort would never have become Voldemort and become Professo
 
 ![Voldemort](https://github.com/CodingLife1024/blog-content/blob/main/images/hp1.jpg?raw=true)
 
-Tom Riddle was sorted into Slytherin due to his cunning and his ambition. His peers in Slytherin who were adherents of Pureblood ideology might have influenced him to become more like them and believe in Pureblood supremacy. Had he been sorted into Gryffindor, Ravenclaw or Hufflepuff, his trajectory might have been altered—though whether for better or worse remains speculative. He was after all, a half-blood himself as he had a muggle father. Then again, he might still have turned out to be just as sadistic, as there is a theory that since Voldemort was conceived under the influence of love-potion, he was incapable of love.  
+Tom Riddle was sorted into Slytherin due to his cunning and his ambition. His peers in Slytherin who were adherents of Pureblood ideology might have influenced him to become more like them and believe in Pureblood supremacy. Had he been sorted into Gryffindor, Ravenclaw or Hufflepuff, his trajectory might have been altered - though whether for better or worse remains speculative. He was after all, a half-blood himself as he had a muggle father. Then again, he might still have turned out to be just as sadistic, as there is a theory that since Voldemort was conceived under the influence of love-potion, he was incapable of love.  
 
 Similarly, had Dumbledore been sorted into Slytherin, he might have had a completely different life path. He had bad experiences with muggles (his sister Ariana was permanently disabled by muggles and his father was prosecuted for going after the muggle boys who harmed her) and he was also affliated with Grindelwald in his youth. He also believed in a complete revamp of wizard-muggle relations supposedly "for the greater good". 
 

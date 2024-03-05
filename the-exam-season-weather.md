@@ -13,7 +13,7 @@ I admit there could be confirmation bias at play here. Me and my friends bemoan 
 
 ## Environmental Factors:
 
-Sure, there might be some scientific stuff about atmospheric pressure and seasonal variations, but let's be real — who has time for that when you're mugging for a linear algebra exam? Besides, who needs meteorological explanations when you can blame everything on the whims of a mischievous weather god? Picture this: somewhere in the heavens, there's a deity with a twisted sense of humor, gleefully orchestrating sunshine and rainbows just to mess with us poor mortals. I like to imagine them sitting on a fluffy cloud, sipping on a sangria, and cackling maniacally as students everywhere scramble to memorize the class topper's notes.
+Sure, there might be some scientific stuff about atmospheric pressure and seasonal variations, but let's be real - who has time for that when you're mugging for a linear algebra exam? Besides, who needs meteorological explanations when you can blame everything on the whims of a mischievous weather god? Picture this: somewhere in the heavens, there's a deity with a twisted sense of humor, gleefully orchestrating sunshine and rainbows just to mess with us poor mortals. I like to imagine them sitting on a fluffy cloud, sipping on a sangria, and cackling maniacally as students everywhere scramble to memorize the class topper's notes.
 
 ## Cultural and Societal Influences:
 
