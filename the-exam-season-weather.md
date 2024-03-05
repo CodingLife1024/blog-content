@@ -5,7 +5,7 @@ Picture this: you're knee-deep in textbooks, drowning in caffeine, and praying f
 
 ## The Consistency of Coincidence:
 
-Alright, let's get real for a moment. We're talking about a coincidence so consistent it's practically begging for its own sitcom. Like clockwork, every time exams roll around, so does the good weather. It's as if Mother Nature has a twisted sense of humor, throwing sunshine and blue skies into the mix just to mess with our already frazzled brains. And then, like a cosmic punchline, the moment the last exam is over, boom! Cue the thunderstorms, blazing heat and teeth-chattering weather. Coincidence? Perhaps. I think not.
+Alright, let's get real for a moment. We're talking about a coincidence so consistent it's practically begging for its own telenovela. Like clockwork, every time exams roll around, so does the good weather. It's as if Mother Nature has a twisted sense of humor, throwing sunshine and blue skies into the mix just to mess with our already frazzled brains. And then, like a cosmic punchline, the moment the last exam is over, boom! Cue the thunderstorms, blazing heat and teeth-chattering weather. Coincidence? Perhaps. I think not.
 
 ## Psychological Perspectives:
 
