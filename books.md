@@ -2,7 +2,7 @@
 
 - ~~AGame of Thrones (1996), George R R Martin~~
 
-- [ ] (A Clash of Kings (1998), George R R Martin)
+- [ ] A Clash of Kings (1998), George R R Martin
 
 - A Storm of Swords (2000), George R R Martin
 
