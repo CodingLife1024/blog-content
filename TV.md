@@ -2,22 +2,22 @@
 
 ## Movies
 
-~~The Falling (2014)~~
+&#x2705; The Falling (2014)
 
-~~The Awakening (2011)~~
+&#x2705; The Awakening (2011)
 
-Impetigore 
+&#x23F8; Impetigore 
 
-The Green Mile
+&#x23F8; The Green Mile
 
-The Woman in Black
+&#x23F8; The Woman in Black
 
 ## Series
 
-~~Criminal Minds~~
+&#x2705; Criminal Minds
 
-Money Heist
+&#x23F8; Money Heist
 
-Anne with an E
+&#x23F8; Anne with an E
 
-Dublin Murders 
+&#x23F8; Dublin Murders 
