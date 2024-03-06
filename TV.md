@@ -6,18 +6,18 @@
 
 &#x2705; The Awakening (2011)
 
-&#x23F8; Impetigore 
+&#x2B1C; Impetigore 
 
-&#x23F8; The Green Mile
+&#x2B1C; The Green Mile
 
-&#x23F8; The Woman in Black
+&#x2B1C; The Woman in Black
 
 ## Series
 
 &#x2705; Criminal Minds
 
-&#x23F8; Money Heist
+&#x2B1C; Money Heist
 
-&#x23F8; Anne with an E
+&#x2B1C; Anne with an E
 
 &#x23F8; Dublin Murders 
