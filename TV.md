@@ -29,3 +29,5 @@
 &#x23F8; Lie to Me
 
 &#x2705; Midnight Mass
+
+&#x2B1C; The Haunting of Hill House
