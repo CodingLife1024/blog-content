@@ -27,8 +27,5 @@
 &#x23F8; Dublin Murders 
 
 &#x23F8; Lie to Me
-<<<<<<< HEAD
 
 &#x2705; Midnight Mass
-=======
->>>>>>> fec3bade0ce946c584e7bc67494347b75e2a1c0f
