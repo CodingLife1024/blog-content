@@ -23,3 +23,5 @@
 &#x23F8; Dublin Murders 
 
 &#x23F8; Lie to Me
+
+&#x2705; Midnight Mass
