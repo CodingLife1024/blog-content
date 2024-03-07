@@ -12,6 +12,10 @@
 
 &#x2B1C; The Woman in Black
 
+&#x2B1C; Dune (2021)
+
+&#x2B1C; Dune Part two (2024)
+
 ## Series
 
 &#x2705; Criminal Minds
@@ -23,5 +27,8 @@
 &#x23F8; Dublin Murders 
 
 &#x23F8; Lie to Me
+<<<<<<< HEAD
 
 &#x2705; Midnight Mass
+=======
+>>>>>>> fec3bade0ce946c584e7bc67494347b75e2a1c0f
