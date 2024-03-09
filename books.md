@@ -12,4 +12,4 @@
 
 &#x2B1C; Carmilla (1897), Sheridan Le Fanu
 
-&#x2B1C; My Year of Rest and Relaxation (2018), Ottessa Moshfegh
+&#x2B1C; My Year of Rest and Relaxation (2018), Ottessa Moshfegh 
