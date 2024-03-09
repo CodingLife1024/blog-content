@@ -1,8 +1,8 @@
 # Books for 2024
 
-&#x23F8; A Game of Thrones (1996), George R R Martin
+&#x2705; A Game of Thrones (1996), George R R Martin
 
-&#x2B1C; A Clash of Kings (1998), George R R Martin
+&#x23F8; A Clash of Kings (1998), George R R Martin
 
 &#x2B1C; A Storm of Swords (2000), George R R Martin
 
