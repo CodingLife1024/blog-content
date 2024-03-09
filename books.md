@@ -10,6 +10,6 @@
 
 &#x2B1C; A Dance with Dragons (2011), George R R Martin
 
-&#x2B1C; Carmilla
+&#x2B1C; Carmilla (1897), Sheridan Le Fanu
 
-&#x2B1C; My Year of Rest and Relaxation, Ottessa Moshfegh
+&#x2B1C; My Year of Rest and Relaxation (2018), Ottessa Moshfegh
