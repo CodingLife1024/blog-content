@@ -31,3 +31,5 @@
 &#x2705; Midnight Mass
 
 &#x2B1C; The Haunting of Hill House
+
+&#x2B1C; The Haunting of Bly Manor
