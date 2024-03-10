@@ -2,8 +2,8 @@
 
 ## Movies
 
-| | Movie Name | Year of Release | My Rating |
-|-|------------|-----------------|-----------|
+|          | Movie Name | Year of Release | My Rating |
+|----------|------------|-----------------|-----------|
 | &#x2705; | The Falling | 2014 | &#11088; &#11088; &#11088; |
 | &#x2705; | The Awakening | 2011 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | Impetigore | 2019 | |
@@ -14,8 +14,8 @@
 
 ## Series
 
-| | Series Name | Year Running | My Rating |
-|-|-------------|--------------|-----------|
+|          | Series Name | Year Running | My Rating |
+|----------|-------------|--------------|-----------|
 | &#x2705; | Criminal Minds | 2005 - 2021 | &#11088; &#11088; &#11088;  |
 | &#x2B1C; | Money Heist | 2017 - 2021 |  |
 | &#x2B1C; | Anne with an E | 2017 - 2020 |  |
