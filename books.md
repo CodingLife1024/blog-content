@@ -1,7 +1,7 @@
 # Books for 2024
 
-| | Book Name | Year of Release | Author | My Rating |
-|-|-----------|-----------------|--------|-----------|
+|          | Book Name | Year of Release | Author | My Rating |
+|----------|-----------|-----------------|--------|-----------|
 | &#x2705; | A Game of Thrones | 1996 | George R R Martin | &#11088; &#11088; &#11088; |
 | &#x23F8; | A Clash of Kings | 1998 | George R R Martin |  |
 | &#x2B1C; | A Storm of Swords | 2000 | George R R Martin |  |
