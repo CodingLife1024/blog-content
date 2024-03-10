@@ -20,7 +20,7 @@
 | &#x2B1C; | Money Heist | 2017 - 2021 |  |
 | &#x2B1C; | Anne with an E | 2017 - 2020 |  |
 | &#x2705; | Dublin Murders | 2019 | &#11088; &#11088; |
-| &#x2B1C; | Lie to Me | 2009 - 2011 |  |
+| &#x23f8; | Lie to Me | 2009 - 2011 |  |
 | &#x2705; | Midnight Mass | 2021 | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Haunting of Hill House | 2018 |  |
 | &#x2B1C; | The Haunting of Bly Manor | 2020 |  |
