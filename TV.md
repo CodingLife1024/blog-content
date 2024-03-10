@@ -16,6 +16,11 @@
 
 &#x2B1C; Dune Part two (2024)
 
+| Movie Name | Year released | Current Status |
+|-----------------|-----------------|-----------------|
+| The Falling | 2014 | &#x2705; |
+| The Awakening | 2011 | &#x2705; |
+
 ## Series
 
 &#x2705; Criminal Minds
