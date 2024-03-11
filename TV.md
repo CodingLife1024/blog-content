@@ -11,6 +11,7 @@
 | &#x2B1C; | The Woman in Black | 2012 | |
 | &#x2B1C; | Dune | 2021 | |
 | &#x2B1C; | Dune Part two | 2024 | |
+| &#x2B1C; | The Scent of a Woman | 1992 | |
 
 ## Series
 
