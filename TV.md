@@ -23,5 +23,6 @@
 | &#x2705; | Dublin Murders | 2019 | &#11088; &#11088; |
 | &#x23f8; | Lie to Me | 2009 - 2011 |  |
 | &#x2705; | Midnight Mass | 2021 | &#11088; &#11088; &#11088; &#11088; &#11088; |
-| &#x23f8; | The Haunting of Hill House | 2018 |  |
+| &#x2705; | The Haunting of Hill House | 2018 |  &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Haunting of Bly Manor | 2020 |  |
+| &#x2B1C; | The Fall of the House of Usher | 2023 |  |
