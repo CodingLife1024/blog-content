@@ -37,4 +37,4 @@ Father Paul (formerly Father Pruitt) was in an illicit relationship with one of 
 
 In present day, Mildred suffers from dementia and is wholly dependent on her daughter. Father Paul brings the Creature back to the island with him in a misguided attempt to cure Mildred and restore her youth, as it did for him. He feeds her the sacramental wine mixed with the Creature's blood, which do improve her health and reverse her aging, but it also gets her killed in the last episode. 
 
-His devotion towards his parishioners also leads him to 
+His devotion towards his parishioners also leads him to feed them the contaminated wine, which does make them happier and healthier in the short term, but eventually leads to the massacre of the whole town as they all start turning. 
