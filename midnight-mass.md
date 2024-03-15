@@ -17,3 +17,4 @@ Father Paul mysteriously falls ill during a meeting and miraculously revives aga
 
  Only Leeza and Warren survive, and they escape by boat. As they drift farther and farther away from the shore, they see the Creature burn and die. Leeza, with a samll laugh of relief, says that she has lost feeling in her legs again, signifying the end of all that it began when it turned Father Pruitt/Paul. Since Warren and Leeza have never died and their blood wasn't contaminated enough by the Creature's blood, they are safe from the sunlight and its affects on the Turned. 
 
+![The Movie](https://github.com/CodingLife1024/blog-content/blob/main/images/mm2.jpg?raw=true)
