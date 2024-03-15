@@ -1,5 +1,5 @@
 # Midnight Mass: When Faith goes Wrong
-## 14/03/2024
+## 16/03/2024
 
 ![The Movie](https://github.com/CodingLife1024/blog-content/blob/main/images/mm.jpg?raw=true)
 
@@ -36,3 +36,4 @@ The last characteristic of fanaticism is putting the act of devotion over the su
 Father Paul (formerly Father Pruitt) was in an illicit relationship with one of the town's residents, Mildred Gunning. This results in Mildred's illegitimate daughter, Sarah. This is the reason Bev looks down upon them. According to the show, Father Paul loved her but the couple couldn't marry due to his vows. 
 
 In present day, Mildred suffers from dementia and is wholly dependent on her daughter. Father Paul brings the Creature back to the island with him in a misguided attempt to cure Mildred and restore her youth, as it did for him. 
+
