@@ -31,7 +31,7 @@ A binary worldview is another characteristic of fanatics (and cult members) that
 
 The fanaticism characteristic of unhealthy self-sacrifice is the most common characteristic of fanatics. In “Midnight Mass”, the inhabitants of Crocket island depicted this characteristic when they willingly drank the poison that Bev served them. During this part of the show, the inhabitants have begun to develop blind devotion to Father Paul due to the miracles that have happened during his stay on the island. The inhabitants became fanatics and willingly committed self-intoxication to show their faith. 
 
-The last characteristic of fanaticism is putting the act of devotion over the subject of the belief. Fanatics tend to create rationalizations for their actions using holy scriptures, testimonies, and other texts that they associate with their beliefs. In “Midnight Mass”, the inhabitants began to blindly follow the teachings of Father Paul instead of worshipping God. When the priest asked them to drink the poison to show their devotion, it showcased that the inhabitants value the act of loyalty over their relationship with God. Ali, for example, was a Muslim that converted to Christianity and he tried to show his faith by drinking poison. His action is a perfect representation of putting the act of devotion over the subject since he followed Father Paul’s instructions rather than developing a relationship with God.
+The last characteristic of fanaticism is putting the act of devotion over the subject of the belief. Fanatics tend to create rationalizations for their actions using holy scriptures, testimonies, and other texts that they associate with their beliefs. In "Midnight Mass", the inhabitants began to blindly follow the teachings of Father Paul instead of worshipping God. When the priest asked them to drink the poison to show their devotion, it showcased that the inhabitants value the act of loyalty over their relationship with God. Ali, for example, was a Muslim that converted to Christianity and he tried to show his faith by drinking poison. His action is a perfect representation of putting the act of devotion over the subject since he followed Father Paul’s instructions rather than developing a relationship with God.
 
 ### When Devotion Goes Wrong
 
@@ -39,4 +39,10 @@ Father Paul (formerly Father Pruitt) was in an illicit relationship with one of 
 
 In present day, Mildred suffers from dementia and is wholly dependent on her daughter. Father Paul brings the Creature back to the island with him in a misguided attempt to cure Mildred and restore her youth, as it did for him. He feeds her the sacramental wine mixed with the Creature's blood, which do improve her health and reverse her aging, but it also gets her killed in the last episode. 
 
-His devotion towards his parishioners also leads him to feed them the contaminated wine, which does make them happier and healthier in the short term, but eventually leads to the massacre of the whole town as they all start turning. 
+His devotion towards his parishioners also leads him to feed them the contaminated wine, which does make them happier and healthier in the short term, but eventually leads to the massacre of the whole town as they all start turning. He also encourages the church attendees to poison themselves as a show of faith and belief in their own revival. He makes them put their faith in him blindly over their own personal relationship with God and their faith.
+
+His devotion to God and his faith also leads him to assume the Creature as an angel, instead of a vampire. He never stops to think if it could have any malevolent intentions and if bringing it to the island would have any ill-effects. 
+
+### Religion is not always Fanaticism
+
+### Questioning religion
