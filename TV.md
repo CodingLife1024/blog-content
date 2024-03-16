@@ -12,6 +12,7 @@
 | &#x2B1C; | Dune | 2021 | |
 | &#x2B1C; | Dune Part two | 2024 | |
 | &#x2B1C; | The Scent of a Woman | 1992 | |
+| &#x2705; | My Neighbor Totoro | 1988 | &#11088; &#11088; &#11088; |
 
 ## Series
 
