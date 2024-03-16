@@ -23,7 +23,7 @@ Father Paul mysteriously falls ill during a meeting and miraculously revives aga
 
 Now for the major themes of the show: religious fanaticism and devotion, and how it can go terribly wrong when done badly. 
 
-### Religious fanaticism in Midnight Mass
+### Religious fanaticism and the Cult of Personality in Midnight Mass
 
 The Merriam Webster Dictionary defines fanaticism as "as exhibited by excessive enthusiasm, unreasoning zeal, or wild and extravagant notions on some subject". Fanatics also tend to try to impose their views on others. This is depicted by Bev, when she tries to push Bible classes in the public school. Another example is Father Paul’s action of mixing the angel's blood with the sacramental wine. As mentioned earlier, the angel’s blood symbolizes the spread of fanatical ideas. His action of feeding angel blood to the people without their consent is a depiction of forceful indoctrination. 
 
@@ -47,10 +47,12 @@ His devotion to God and his faith also leads him to assume the Creature as an an
 
 While the story of “Midnight Mass” highlighted the dangers of fanaticism, it also aimed to differentiate the idea from religion. The Christian religion dominated the show’s themes but characters like Sheriff Hassan and Riley represented different beliefs which were Islam and atheism. These characters had scenes that explained their beliefs and acted as anti-fanatical characters.
 
-The characters of Mildred and Sarah Gunning and Erin Greene depicted authentic religious beliefs while Father Paul and his followers were religious fanatics. The former were the individuals that refused to consume the poison and turn into blood-thirsty creatures while the latter caused the tragedy that befell Crockett island. Religion understands that an individual cannot know God completely (Sharma). So when Father Paul and Bev Keane began to rationalize their unethical actions by quoting scriptures, they were not practicing authentic religion but fanaticism. During the last episode, Bev Keane decided to burn all the houses on Crocket island except for the church and the recreation center. She claimed that the flame will act as the flood while the church and the recreation center will be the ark that saves the chosen. 
+The characters of Mildred and Sarah Gunning and Erin Greene depicted authentic religious beliefs while Father Paul and his followers were religious fanatics. The former were the individuals that refused to consume the poison and turn into blood-thirsty creatures while the latter caused the tragedy that befell Crockett island. Religion understands that an individual cannot know God completely. So when Father Paul and Bev Keane began to rationalize their unethical actions by quoting scriptures, they were not practicing authentic religion but fanaticism. During the last episode, Bev Keane decided to burn all the houses on Crocket island except for the church and the recreation center. She claimed that the flame will act as the flood while the church and the recreation center will be the ark that saves the chosen. 
 
 ### The Conclusion
 
-Midnight Mass was one of the most gripping horror stories that I have watched. Its pacing is a bit on the slow side, and it focuses a lot on establishing character and mood in early episodes before getting to the horror elements. 
+The pacing of Midnight Mass is a bit on the slow side, and it focuses a lot on establishing character and mood in early episodes before getting to the horror elements. Midnight Mass repeatedly uses real prayers, hymns, and Bible passages. The episodes are named after Biblical passages. To summon his demonic "angel", Paul frantically repeats the traditional Guardian Angel prayer.
 
-It is a story of connection, among individuals and between individuals and their faith. 
+> "Angel of God, my guardian dear, to whom God's love commits me here. Ever this day, be at my side, to light and guard, to rule and guide."
+
+The last 5 minutes of the final episode are easily the most haunting scenes in the entire show. Against the background score of the hymn "Nearer, my God, to Thee", the residents gather around the beach and sing the hymn together. Father Paul/Pruitt and Mildred Gunning cradle the body of their dead daughter, as Father Paul throws away his priest's collar. Sheriff Hassan and his son Ali are seen doing namaaz on the beach as they face the certainty of their death. Their silhouettes fade away against the rising sun. Leeza and Warren float along the sea in their boat. Couples slow dance and kiss as the sun comes up and turns them all to ash. 
