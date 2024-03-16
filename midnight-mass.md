@@ -49,5 +49,8 @@ While the story of “Midnight Mass” highlighted the dangers of fanaticism, it
 
 The characters of Mildred and Sarah Gunning and Erin Greene depicted authentic religious beliefs while Father Paul and his followers were religious fanatics. The former were the individuals that refused to consume the poison and turn into blood-thirsty creatures while the latter caused the tragedy that befell Crockett island. Religion understands that an individual cannot know God completely (Sharma). So when Father Paul and Bev Keane began to rationalize their unethical actions by quoting scriptures, they were not practicing authentic religion but fanaticism. During the last episode, Bev Keane decided to burn all the houses on Crocket island except for the church and the recreation center. She claimed that the flame will act as the flood while the church and the recreation center will be the ark that saves the chosen. 
 
-### Questioning religion and Atheism 
+### The Conclusion
 
+Midnight Mass was one of the most gripping horror stories that I have watched. Its pacing is a bit on the slow side, and it focuses a lot on establishing character and mood in early episodes before getting to the horror elements. 
+
+It is a story of connection, among individuals and between individuals and their faith. 
