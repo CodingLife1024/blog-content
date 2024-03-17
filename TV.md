@@ -13,6 +13,12 @@
 | &#x2B1C; | Dune Part two | 2024 | |
 | &#x2B1C; | The Scent of a Woman | 1992 | |
 | &#x2705; | My Neighbor Totoro | 1988 | &#11088; &#11088; &#11088; |
+| &#x2B1C; | Only Yesterday | 1991 | |
+| &#x2B1C; | Kiki's Delivery Service | 1989 | |
+| &#x2B1C; | Grave of the Fireflies | 1988 | |
+| &#x2B1C; | The Boy and the Heron | 2023 | |
+| &#x2B1C; | The Secret World of Arrietty | 2010 | |
+| &#x2B1C; | When Marnie was There | 2014 | |
 
 ## Series
 
