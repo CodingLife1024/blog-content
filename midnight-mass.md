@@ -45,7 +45,7 @@ His devotion to God and his faith also leads him to assume the Creature as an an
 
 ### Religion is not always Fanaticism
 
-While the story of “Midnight Mass” highlighted the dangers of fanaticism, it also aimed to differentiate the idea from religion. The Christian religion dominated the show's themes but characters like Sheriff Hassan and Riley represented different beliefs which were Islam and atheism. These characters had scenes that explained their beliefs and acted as anti-fanatical characters.
+While the story of "Midnight Mass" highlighted the dangers of fanaticism, it also aimed to differentiate the idea from religion. The Christian religion dominated the show's themes but characters like Sheriff Hassan and Riley represented different beliefs which were Islam and atheism. These characters had scenes that explained their beliefs and acted as anti-fanatical characters.
 
 The characters of Mildred and Sarah Gunning and Erin Greene depicted authentic religious beliefs while Father Paul and his followers were religious fanatics. The former were the individuals that refused to consume the poison and turn into blood-thirsty creatures while the latter caused the tragedy that befell Crockett island. Religion understands that an individual cannot know God completely. So when Father Paul and Bev Keane began to rationalize their unethical actions by quoting scriptures, they were not practicing authentic religion but fanaticism. During the last episode, Bev Keane decided to burn all the houses on Crocket island except for the church and the recreation center. She claimed that the flame will act as the flood while the church and the recreation center will be the ark that saves the chosen. 
 
