@@ -17,6 +17,10 @@ Plus, Carrie's mother _did_ stab her.
 
 ![Thanos](https://github.com/CodingLife1024/blog-content/blob/main/images/vv2.jpg?raw=true)
 
+Most of us would agree that the solution to overpopulation is _not_ mass murder. However Thanos is not a native earth-dweller. From his point of view, he was trying to reduce human (and all other living creature) suffering by reducing the demand of natural resources and space. There is, after all, no dearth of pain, suffering and scarcity on earth.  
+
+However, 
+
 ### Frankenstein's Monster (Frankenstein)
 
 ### Doctor Frankenstein (Frankenstein)
