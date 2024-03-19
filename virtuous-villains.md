@@ -19,7 +19,11 @@ Plus, Carrie's mother _did_ stab her.
 
 Most of us would agree that the solution to overpopulation is _not_ mass murder. However Thanos is not a native earth-dweller. From his point of view, he was trying to reduce human (and all other living creature) suffering by reducing the demand of natural resources and space. There is, after all, no dearth of pain, suffering and scarcity on earth.  
 
-However, 
+However, we are a constantly evolving species. We can solve the scarcity of natural resources through technology (this has to be possible in MCU, where Tony Stark built a working model of the Iron Man suit from what was basically scrap metal. In captivity, too.) 
+
+Also, if this were not true, halving the population would only be a temporary solution to the "problem". 
+
+Why couldn't Thanos have snapped us into infinite space and resources?
 
 ### Frankenstein's Monster (Frankenstein)
 
