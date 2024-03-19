@@ -15,6 +15,8 @@ Plus, Carrie's mother _did_ stab her.
 
 ### Thanos (Marvel Cinematic Universe)
 
+![Thanos](https://github.com/CodingLife1024/blog-content/blob/main/images/vv2.jpg?raw=true)
+
 ### Frankenstein's Monster (Frankenstein)
 
 ### Doctor Frankenstein (Frankenstein)
