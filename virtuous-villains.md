@@ -39,7 +39,13 @@ We could argue that Victor Frankenstein was the true villain, as his actions (cr
 
 ![Frankenstein](https://github.com/CodingLife1024/blog-content/blob/main/images/vv4.jpg?raw=true)
 
+In a partial continuation of the previous argument, even Victor Frankenstein can be defended as he was trying to advance science and medicine by creating completely new life in his monster.
+
+He definitely was callous and irresponsible in how he treated his own creation, and he paid a heavy price for it. He never took any responsibility for the life he himself created knowingly and willingly, and made it look hideous and never taught him how to survive in the world.
+
 ### Light Yagami: Death Note
+
+![yagami](https://github.com/CodingLife1024/blog-content/blob/main/images/vv5.jpg?raw=true)
 
 ### Parker Crane (Insidious: Chapter 2)
 
