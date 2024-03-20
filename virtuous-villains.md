@@ -49,6 +49,12 @@ He definitely was callous and irresponsible in how he treated his own creation, 
 
 ### Parker Crane (Insidious: Chapter 2)
 
+![Parker Crane](https://github.com/CodingLife1024/blog-content/blob/main/images/vv6.jpg?raw=true)
+
 ### Killmonger (Marvel Cinematic Universe)
 
+![Killmonger](https://github.com/CodingLife1024/blog-content/blob/main/images/vv7.jpg?raw=true)
+
 ### Gorr, the God Butcher (Marvel Cinematic Universe)
+
+![Gorr](https://github.com/CodingLife1024/blog-content/blob/main/images/vv8.jpg?raw=true)
