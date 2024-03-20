@@ -47,6 +47,12 @@ He definitely was callous and irresponsible in how he treated his own creation, 
 
 ![yagami](https://github.com/CodingLife1024/blog-content/blob/main/images/vv5.jpg?raw=true)
 
+In his defense, we could argue that he was trying to rid his country (and the world in general) of crime. What he does is basically vigilante justice, and he was careful to only kill the people convicted of the worst crimes (initially). Crime did drop off a while after Light Yagami killed criminals with relative impunity. 
+
+However, vigilante justice never works out well when an individual is the one calling the shots. He is bound to get some wrong. In the pursuit of his "justice", he kill several people who are involved in the Kira investigation who had not done any criminal activities, including his own father. 
+
+Also, his method of killing allowed him to kill without directly doing anything, which likely partially absolved the guilt that one would feel on killing someone with their own hands. At the end, he had become one of the same serial killers that he despised enough to want to rid the world of them. He killed his father and some of his colleagues, and betrayed them by doing so. 
+
 ### Parker Crane (Insidious: Chapter 2)
 
 ![Parker Crane](https://github.com/CodingLife1024/blog-content/blob/main/images/vv6.jpg?raw=true)
