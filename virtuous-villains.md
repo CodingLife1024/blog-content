@@ -1,7 +1,7 @@
 # Virtuous Villains: Villains who were Sort of Justified in their Actions
 ## 23/03/2024
 
-Most of the fictional villains cause a lot of pain and suffering on screen. But some of the do occassionally get the right idea (and execute it wrongly). 
+Villains often occupy a space of pure malevolence, driving conflict and creating chaos wherever they go. Yet, amidst their malicious deeds, there are those whose motivations stem from a twisted sense of righteousness or a tragic past. These characters, while still antagonists, offer a complex narrative tapestry where there are a lot of shades of gray bulrring the line between heroism and villainy. 
 
 ### Carrie (Carrie)
 
@@ -63,9 +63,17 @@ Parker Crane was severely abused by his mother Michelle from his childhood. His 
 
 This is not to say that what Parker did in life and death is inexcusable. He killed several women dressed as the Bride in Black at his mother's behest and never got out of her clutches even as an adult. 
 
-### Killmonger (Marvel Cinematic Universe)
+### Killmonger (Marvel Cinematic Universe, Black Panther)
 
 ![Killmonger](https://github.com/CodingLife1024/blog-content/blob/main/images/vv7.jpg?raw=true)
+
+Killmonger, a villain from the 2018 Marvel film Black Panther, is right about freeing Black people from oppression, bringing justice to the world, and extending Wakanda's protection. He also has other goals, including allowing Black people to share in Wakanda's prosperity and making Wakanda a world leader. 
+
+However, he goes too far when he becomes consumed by rage and becomes a villain. Some say that Killmonger's philosophy is wrong (vengeance and subjugation) and his methods are wrong (kill white people). However, others say that his basis for his ideals is correct.
+
+However he does have imperialist visions for Wakanda and wants genocide upon raceshe sees as being exploitative (whites). He's selfish and malevolent, too wrapped up in hatred to see straight. He's not a character to follow, but to pity, and his death was exactly that. He was someone who should've been by T'Challa's side from the start, and we see his potential wasted on hatred. 
+
+To be a king you must be diplomatic and not a tyrant. He put his own selfish ambition and pride before he thought about his kingdom his people and race.
 
 ### Gorr, the God Butcher (Marvel Cinematic Universe, Thor: Love and Thunder)
 
