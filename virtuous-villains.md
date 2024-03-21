@@ -67,7 +67,7 @@ This is not to say that what Parker did in life and death is inexcusable. He kil
 
 ![Killmonger](https://github.com/CodingLife1024/blog-content/blob/main/images/vv7.jpg?raw=true)
 
-### Gorr, the God Butcher (Marvel Cinematic Universe)
+### Gorr, the God Butcher (Marvel Cinematic Universe, Thor: Love and Thunder)
 
 ![Gorr](https://github.com/CodingLife1024/blog-content/blob/main/images/vv8.jpg?raw=true)
 
@@ -75,3 +75,4 @@ In the MCU, Gorr is an intergalactic being who seeks to kill all the gods in all
 
 However, when Gorr was human, he watched his daughter die in his arms. He then encounters Rapu, who is the god he believes in and is devoted to. Rapu has no compassion for Gorr and mocks his religious fervor. Not only could this god not care less about his followers, but he informs Gorr that the afterlife he believed he was working towards - and where he would be reunited with his daughter - doesn’t exist. 
 
+He realises that the gods do not care about them and that all the human suffering in the world does not have any meaning. The movie could have gone this way: Gorr uses his wish to resurrect his daughter instead of going after all the gods in the universe. But this would go against what Gorr stands for. He genuinely believes that killing all the gods would help all beings in the universe. He is not doing it for himself or his daughter, he is doing it for everyone. Because he is not selfish. 
