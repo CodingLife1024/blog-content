@@ -71,4 +71,7 @@ This is not to say that what Parker did in life and death is inexcusable. He kil
 
 ![Gorr](https://github.com/CodingLife1024/blog-content/blob/main/images/vv8.jpg?raw=true)
 
-In the MCU, Gorr is an intergalactic being who seeks to kill all the gods in all the universes to see his vision of a universe without gods being a reality. 
+In the MCU, Gorr is an intergalactic being who seeks to kill all the gods in all the universes to see his vision of a universe without gods being a reality. He was wrong in kidnapping thr children of New Asgard to do this. 
+
+However, when Gorr was human, he watched his daughter die in his arms. He then encounters Rapu, who is the god he believes in and is devoted to. Rapu has no compassion for Gorr and mocks his religious fervor. Not only could this god not care less about his followers, but he informs Gorr that the afterlife he believed he was working towards - and where he would be reunited with his daughter - doesn’t exist. 
+
