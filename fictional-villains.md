@@ -1,4 +1,4 @@
-# Virtuous Villains: Villains who were Sort of Justified in their Actions
+# Fictional Villains: Shades of Gray in Fictional Antagonists
 ## 23/03/2024
 
 Villains often occupy a space of pure malevolence, driving conflict and creating chaos wherever they go. Yet, amidst their malicious deeds, there are those whose motivations stem from a twisted sense of righteousness or a tragic past. These characters, while still antagonists, offer a complex narrative tapestry where there are a lot of shades of gray bulrring the line between heroism and villainy. 
