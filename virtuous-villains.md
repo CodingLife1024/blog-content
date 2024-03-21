@@ -1,5 +1,5 @@
 # Virtuous Villains: Villains who were Sort of Justified in their Actions
-## 21/03/2024
+## 23/03/2024
 
 Most of the fictional villains cause a lot of pain and suffering on screen. But some of the do occassionally get the right idea (and execute it wrongly). 
 
