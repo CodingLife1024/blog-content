@@ -1,6 +1,8 @@
 # Virtuous Villains: Villains who were Sort of Justified in their Actions
 ## 21/03/2024
 
+Most of the fictional villains cause a lot of pain and suffering on screen. But some of the do occassionally get the right idea (and execute it wrongly). 
+
 ### Carrie (Carrie)
 
 ![Carrie](https://github.com/CodingLife1024/blog-content/blob/main/images/vv1.jpg?raw=true)
@@ -57,6 +59,10 @@ Also, his method of killing allowed him to kill without directly doing anything,
 
 ![Parker Crane](https://github.com/CodingLife1024/blog-content/blob/main/images/vv6.jpg?raw=true)
 
+Parker Crane was severely abused by his mother Michelle from his childhood. His mother forced him to deny his own name, Parker, which was given to him by his father and forced the name "Marilyn" onto him and made him wear feminine clothing. This caused him to have issues with his gender as a man and he turned to killing women (for his mother) dressed in bridal attire (hence, "The Bride in Black"). Even after Michelle's death, she continued to influence him and his killings from across the veil as "Mater Mortis" (Mother of Death). Parker Crane literally had no peace, either in life or in death, either his or his mother's. He only (maybe) gets peace when Mater Mortis is eradicated from the further and he just fades away. His mother's spirit had been keeping him tethered to the Further. In the further, child Parker helps Elise destroy Michelle's memories and save the Lambert family, because he just wanted to have a normal childhood and Elise convinces him that helping her would help him get that. 
+
+This is not to say that what Parker did in life and death is inexcusable. He killed several women dressed as the Bride in Black at his mother's behest and never got out of her clutches even as an adult. 
+
 ### Killmonger (Marvel Cinematic Universe)
 
 ![Killmonger](https://github.com/CodingLife1024/blog-content/blob/main/images/vv7.jpg?raw=true)
@@ -64,3 +70,5 @@ Also, his method of killing allowed him to kill without directly doing anything,
 ### Gorr, the God Butcher (Marvel Cinematic Universe)
 
 ![Gorr](https://github.com/CodingLife1024/blog-content/blob/main/images/vv8.jpg?raw=true)
+
+In the MCU, Gorr is an intergalactic being who seeks to kill all the gods in all the universes to see his vision of a universe without gods being a reality. 
