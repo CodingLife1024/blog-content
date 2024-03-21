@@ -15,7 +15,7 @@ She does kill innocent people while on the telekinetic rampage and this is not i
 
 Plus, Carrie's mother _did_ stab her.
 
-### Thanos (Marvel Cinematic Universe)
+### Thanos (Marvel Cinematic Universe, Infinity Wars)
 
 ![Thanos](https://github.com/CodingLife1024/blog-content/blob/main/images/vv2.jpg?raw=true)
 
