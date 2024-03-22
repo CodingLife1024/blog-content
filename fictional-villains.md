@@ -35,7 +35,7 @@ In both the book and the films, Frankenstein's monster goes on a rampage and kil
 
 In his defense, he was right in wanting his creator to take responsibility for him. He was basically abandoned at birth(?) and given no tools to survive among humans. He was also made to be hideous and large which caused him to be ostracised by many people. Also, he was the only kind of his species, which musthave contributed to his rage at his creator, especially after he destroys the body of his companion after building it. 
 
-We could argue that Victor Frankenstein was the true villain, as his actions (creating and giving life to the monster without taking responsibility for it) caused the death of manyof his friends and family, as they came in the path of his creation's rage towards himself.
+We could argue that Victor Frankenstein was the true villain, as his actions (creating and giving life to the monster without taking responsibility for it) caused the death of many of his friends and family, as they came in the path of his creation's rage towards himself.
 
 ### Doctor Frankenstein (Frankenstein)
 
