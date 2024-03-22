@@ -71,7 +71,7 @@ Killmonger, a villain from the 2018 Marvel film Black Panther, is right about fr
 
 However, he goes too far when he becomes consumed by rage and becomes a villain. Some say that Killmonger's philosophy is wrong (vengeance and subjugation) and his methods are wrong (kill white people). However, others say that his basis for his ideals is correct.
 
-However he does have imperialist visions for Wakanda and wants genocide upon raceshe sees as being exploitative (whites). He's selfish and malevolent, too wrapped up in hatred to see straight. He's not a character to follow, but to pity, and his death was exactly that. He was someone who should've been by T'Challa's side from the start, and we see his potential wasted on hatred. 
+However he does have imperialist visions for Wakanda and wants genocide upon races he sees as being exploitative (whites). He's selfish and malevolent, too wrapped up in hatred to see straight. He's not a character to follow, but to pity, and his death was exactly that. He was someone who should've been by T'Challa's side from the start, and we see his potential wasted on hatred. 
 
 To be a king you must be diplomatic and not a tyrant. He put his own selfish ambition and pride before he thought about his kingdom his people and race.
 
