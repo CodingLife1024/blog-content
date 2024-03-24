@@ -18,7 +18,7 @@
 | &#x2B1C; | Grave of the Fireflies | 1988 | |
 | &#x2705; | The Boy and the Heron | 2023 | &#11088; &#11088; |
 | &#x2B1C; | The Secret World of Arrietty | 2010 | |
-| &#x2B1C; | When Marnie was There | 2014 | |
+| &#x2705; | When Marnie was There | 2014 | &#11088; &#11088; &#11088; &#11088; |
 
 ## Series
 
