@@ -13,7 +13,7 @@
 | &#x2B1C; | Dune Part two | 2024 | |
 | &#x2B1C; | The Scent of a Woman | 1992 | |
 | &#x2705; | My Neighbor Totoro | 1988 | &#11088; &#11088; &#11088; |
-| &#x2B1C; | Only Yesterday | 1991 | |
+| &#x2705; | Only Yesterday | 1991 | &#11088; &#11088; |
 | &#x2B1C; | Kiki's Delivery Service | 1989 | |
 | &#x2705; | Grave of the Fireflies | 1988 | &#11088; &#11088; &#11088; |
 | &#x2705; | The Boy and the Heron | 2023 | &#11088; &#11088; |
