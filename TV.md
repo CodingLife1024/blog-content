@@ -6,18 +6,18 @@
 |----------|------------|-----------------|-----------|
 | &#x2705; | The Falling | 2014 | &#11088; &#11088; &#11088; |
 | &#x2705; | The Awakening | 2011 | &#11088; &#11088; &#11088; &#11088; |
-| &#x2B1C; | Impetigore | 2019 | |
-| &#x2B1C; | The Green Mile | 1999 | |
-| &#x2B1C; | The Woman in Black | 2012 | |
+| &#x2B1C; | Impetigore | 2019 |  |
+| &#x2B1C; | The Green Mile | 1999 |  |
+| &#x2B1C; | The Woman in Black | 2012 |  |
 | &#x2B1C; | Dune | 2021 | |
-| &#x2B1C; | Dune Part two | 2024 | |
+| &#x2B1C; | Dune Part two | 2024 |  |
 | &#x2B1C; | The Scent of a Woman | 1992 | |
 | &#x2705; | My Neighbor Totoro | 1988 | &#11088; &#11088; &#11088; |
 | &#x2705; | Only Yesterday | 1991 | &#11088; &#11088; |
 | &#x2B1C; | Kiki's Delivery Service | 1989 | |
 | &#x2705; | Grave of the Fireflies | 1988 | &#11088; &#11088; &#11088; |
 | &#x2705; | The Boy and the Heron | 2023 | &#11088; &#11088; |
-| &#x2B1C; | The Secret World of Arrietty | 2010 | |
+| &#x2B1C; | The Secret World of Arrietty | 2010 |  |
 | &#x2705; | When Marnie was There | 2014 | &#11088; &#11088; &#11088; &#11088; |
 
 ## Series
