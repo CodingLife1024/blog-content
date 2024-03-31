@@ -15,6 +15,12 @@ AI generated art allows individuals to generate and post more artwork than they'
 
 ### Should we consider AI-generated images art?
 
+Debates about what should be considered art have always existed. Many artists were uneasy at the development of the camera, which they perceived as a replacement for human talent. Purists in the 20th century also condemned digital editing tools and computer-assisted design programs for relying too heavily on the work of untrained human collaborators. 
+
+In 2018, the painting entitled Portrait of Edmond Belamy became the first-ever piece created by artificial intelligence to be sold at a major auction.
+
+Experts and art critics 
+
 ### Legal considerations for AI art
 
 #### Who owns AI art?
