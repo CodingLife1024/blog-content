@@ -19,13 +19,23 @@ Debates about what should be considered art have always existed. Many artists we
 
 In 2018, the painting entitled Portrait of Edmond Belamy became the first-ever piece created by artificial intelligence to be sold at a major auction.
 
-Experts and art critics 
+![Portrait of Edmond Belamy](https://github.com/CodingLife1024/blog-content/blob/main/images/ai1.jpg?raw=true)
+
+However, experts and art critics say that AI art lacks real creativity as they are trained using already existing images of different artists and cannot truly come up with its own original styles.
 
 ### Legal considerations for AI art
 
+Legal frameworks are still evolving with AI, and its legalities can vary with area and circumstances. 
+
 #### Who owns AI art?
 
+Concerns have been raised about the ownership and copyright of AI generated artwork. Is it the artist who engineered the prompt, the AI algorithm itself or the developers of the AI? This question becomes even more complicated when the AI is trained on copyrighted works. 
+
+One notable example of this is Getty Images' suit against Stability AI, which was accused of having "unlawfully copied and processed millions of images protected by copyright and the associated metadata owned or represented by Getty Images".
+
 #### Can AI art be copyrighted?
+
+The specific copyright laws vary from area to area. In India, the current Copyright Act of 1957 doesn't acknowledge AI as an author or address AI-generated works. The law requires that a work be original and creative to qualify for copyright protection, but generative AI can produce responses without relying on original works. This makes it difficult to award copyright to an AI-generated work under the Indian Traditional Originality Framework. 
 
 ### Unethical data collection
 
