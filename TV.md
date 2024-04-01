@@ -14,7 +14,7 @@
 | &#x2B1C; | The Scent of a Woman | 1992 | |
 | &#x2705; | My Neighbor Totoro | 1988 | &#11088; &#11088; &#11088; |
 | &#x2705; | Only Yesterday | 1991 | &#11088; &#11088; |
-| &#x2B1C; | Kiki's Delivery Service | 1989 | |
+| &#x2705; | Kiki's Delivery Service | 1989 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Grave of the Fireflies | 1988 | &#11088; &#11088; &#11088; |
 | &#x2705; | The Boy and the Heron | 2023 | &#11088; &#11088; |
 | &#x2B1C; | The Secret World of Arrietty | 2010 |  |
@@ -28,9 +28,9 @@
 | &#x2B1C; | Money Heist | 2017 - 2021 |  |
 | &#x2B1C; | Anne with an E | 2017 - 2020 |  |
 | &#x2705; | Dublin Murders | 2019 | &#11088; &#11088; |
-| &#x23f8; | Lie to Me | 2009 - 2011 |  |
+| &#x23f8; | Lie to Me | 2009 - 2011 | &#11088; |
 | &#x2705; | Midnight Mass | 2021 | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Haunting of Hill House | 2018 |  &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Haunting of Bly Manor | 2020 | &#11088; &#11088; &#11088; &#11088; |
-| &#x2B1C; | The Fall of the House of Usher | 2023 |  |
+| &#x23f8; | The Fall of the House of Usher | 2023 |  |
 | &#x2B1C; | Absentia | 2017 - 2020 |  |
