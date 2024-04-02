@@ -39,6 +39,8 @@ The specific copyright laws vary from area to area. In India, the current Copyri
 
 ### Unethical data collection
 
+One of the biggest problems digital artists cite with AI art generators is the issue of how they got the data they use to create new works.
+
 #### Consent, and lack thereof
 
 #### A question of respect
