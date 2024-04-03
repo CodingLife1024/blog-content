@@ -32,5 +32,5 @@
 | &#x2705; | Midnight Mass | 2021 | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Haunting of Hill House | 2018 |  &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Haunting of Bly Manor | 2020 | &#11088; &#11088; &#11088; &#11088; |
-| &#x23f8; | The Fall of the House of Usher | 2023 |  |
+| &#x2705; | The Fall of the House of Usher | 2023 | &#11088; &#11088; &#11088; |
 | &#x2B1C; | Absentia | 2017 - 2020 |  |
