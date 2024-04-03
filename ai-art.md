@@ -59,6 +59,8 @@ It might be tempting to say that modern technology (like AI) just helps people g
 
 #### Negative impact on income
 
+While not everyone who calls themselves an artist makes a living off of their work or aims to sell art online, plenty do. Business growth is difficult to achieve when losing clients and leads to cheap or free AI art generators.
+
 #### Creation vs prompting
 
 #### Time and effort
