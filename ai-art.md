@@ -43,9 +43,19 @@ One of the biggest problems digital artists cite with AI art generators is the i
 
 #### Consent, and lack thereof
 
+One of the biggest problems digital artists cite with AI art generators is the issue of how they got the data they use to create new works. The training data in the form of images are often procured throught web-scraping of art on the internet on sites like DeviantArt and Pinterest. 
+
+And since AI tools can’t generate art out of nothing, that training wasn’t passive either. It’s not the same as a human learning from Da Vinci by studying his work and trying to paint like him.
+
 #### A question of respect
 
+A big reason for plenty of artists' anger is the apparent lack of respect for their work.
+
+Imagine learning that an app you worked hard on was bought from your original client, and it had its name changed. The new owner then decides they 'created' the app all alone, merely because they changed a few lines of the code (while still using large chunks of what you and your team wrote).
+
 ### Devaluation of human work
+
+It might be tempting to say that modern technology (like AI) just helps people get things done more efficiently. If anything, the way AI art has suddenly exploded onto the scene is more comparable to the introduction of computers that could handle complex calculations. Back in the day, this came as a shock to human calculators at institutions like NASA, who were left wondering whether their work would still have a place in the future. AI art generators can't fully replace human artists right now, but that doesn’t mean it isn’t still devaluing human art all the same.
 
 #### Negative impact on income
 
