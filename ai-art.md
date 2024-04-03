@@ -63,8 +63,30 @@ While not everyone who calls themselves an artist makes a living off of their wo
 
 #### Creation vs prompting
 
+For better or worse, AI ‘artists’ create their pieces by entering prompts into a machine. They may or may not choose to edit the results they get from that machine, but that’s the extent of the work they contribute to its initial creation.
+
+Digital and traditional artists, meanwhile, usually start with a blank canvas. They have to learn how to create art, put in hours and hours of practice, and then finally use all their accumulated knowledge to turn a thought into something others will appreciate looking at.
+
+And those two kinds of creation processes are not alike. To suggest they raise quite serious ethical concerns and is a big factor in angering some artists.
+
 #### Time and effort
+
+No artist is born knowing how to create masterpieces. Everyone who’s interested in creating art has to spend time practicing, learning, studying, and generally working on their skills to reach a point where they can consistently create pieces they’re proud of.
+
+AI-produced art casts a grim light on all of this time and effort.
+
+When art is available with a quick prompt instead of hours of hard work, the value of that hard work goes down. That’s bad news for artists, because it makes it much harder for them to both charge living wages for their work, and to see value in the effort they put in.
 
 #### Unique styles and their value
 
+Before AI art, an artist could spend years developing a unique and difficult-to-imitate style. People who loved that style would then be able to commission that artist for a one-of-a-kind piece, so they could enjoy the specific art style for themselves.
+
+However, AI art generators can now be taught to copy almost any kind of style. This disincentivizes original approaches – why put in all that work just for someone to come along and feed all your pieces to a generator without paying you a penny?
+
+This might be less infuriating to artists if they were compensated every time their work was used in this way, but this is almost never the case.
+
 ### Conclusion
+
+Decades ago, futurists dreamed of a time when computers would take over all the drudge work so that humans could be free to spend their lives doing what they most enjoyed. For many people, this vision included an idea of creativity: writing poetry, composing music... and making art.
+
+So it’s not surprising that many artists are a little disillusioned that the modern reality of AI seems to be making the opposite happen. While we’ve only really scraped the surface so far in terms of what AI is capable of, AI-produced art is likely to remain controversial for the foreseeable future.
