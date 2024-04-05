@@ -87,6 +87,6 @@ This might be less infuriating to artists if they were compensated every time th
 
 ### Conclusion
 
-Decades ago, futurists dreamed of a time when computers would take over all the drudge work so that humans could be free to spend their lives doing what they most enjoyed. For many people, this vision included an idea of creativity: writing poetry, composing music... and making art.
+Decades ago, futurists dreamed of a time when computers would take over all the drudge work so that humans could be free to spend their lives doing what they most enjoyed. For many people, this vision included an idea of creativity - writing poetry, composing music... and making art.
 
 So it’s not surprising that many artists are a little disillusioned that the modern reality of AI seems to be making the opposite happen. While we’ve only really scraped the surface so far in terms of what AI is capable of, AI-produced art is likely to remain controversial for the foreseeable future.
