@@ -45,7 +45,7 @@ One of the biggest problems digital artists cite with AI art generators is the i
 
 One of the biggest problems digital artists cite with AI art generators is the issue of how they got the data they use to create new works. The training data in the form of images are often procured throught web-scraping of art on the internet on sites like DeviantArt and Pinterest. 
 
-And since AI tools can’t generate art out of nothing, that training wasn’t passive either. It’s not the same as a human learning from Da Vinci by studying his work and trying to paint like him.
+And since AI tools can't generate art out of nothing, that training wasn't passive either. It's not the same as a human learning from Da Vinci by studying his work and trying to paint like him.
 
 #### A question of respect
 
@@ -55,7 +55,7 @@ Imagine learning that an app you worked hard on was bought from your original cl
 
 ### Devaluation of human work
 
-It might be tempting to say that modern technology (like AI) just helps people get things done more efficiently. If anything, the way AI art has suddenly exploded onto the scene is more comparable to the introduction of computers that could handle complex calculations. Back in the day, this came as a shock to human calculators at institutions like NASA, who were left wondering whether their work would still have a place in the future. AI art generators can't fully replace human artists right now, but that doesn’t mean it isn’t still devaluing human art all the same.
+It might be tempting to say that modern technology (like AI) just helps people get things done more efficiently. If anything, the way AI art has suddenly exploded onto the scene is more comparable to the introduction of computers that could handle complex calculations. Back in the day, this came as a shock to human calculators at institutions like NASA, who were left wondering whether their work would still have a place in the future. AI art generators can't fully replace human artists right now, but that doesn't mean it isn't still devaluing human art all the same.
 
 #### Negative impact on income
 
@@ -63,7 +63,7 @@ While not everyone who calls themselves an artist makes a living off of their wo
 
 #### Creation vs prompting
 
-For better or worse, AI ‘artists’ create their pieces by entering prompts into a machine. They may or may not choose to edit the results they get from that machine, but that’s the extent of the work they contribute to its initial creation.
+For better or worse, AI ‘artists' create their pieces by entering prompts into a machine. They may or may not choose to edit the results they get from that machine, but that's the extent of the work they contribute to its initial creation.
 
 Digital and traditional artists, meanwhile, usually start with a blank canvas. They have to learn how to create art, put in hours and hours of practice, and then finally use all their accumulated knowledge to turn a thought into something others will appreciate looking at.
 
@@ -71,11 +71,11 @@ And those two kinds of creation processes are not alike. To suggest they raise q
 
 #### Time and effort
 
-No artist is born knowing how to create masterpieces. Everyone who’s interested in creating art has to spend time practicing, learning, studying, and generally working on their skills to reach a point where they can consistently create pieces they’re proud of.
+No artist is born knowing how to create masterpieces. Everyone who's interested in creating art has to spend time practicing, learning, studying, and generally working on their skills to reach a point where they can consistently create pieces they're proud of.
 
 AI-produced art casts a grim light on all of this time and effort.
 
-When art is available with a quick prompt instead of hours of hard work, the value of that hard work goes down. That’s bad news for artists, because it makes it much harder for them to both charge living wages for their work, and to see value in the effort they put in.
+When art is available with a quick prompt instead of hours of hard work, the value of that hard work goes down. That's bad news for artists, because it makes it much harder for them to both charge living wages for their work, and to see value in the effort they put in.
 
 #### Unique styles and their value
 
@@ -89,4 +89,4 @@ This might be less infuriating to artists if they were compensated every time th
 
 Decades ago, futurists dreamed of a time when computers would take over all the drudge work so that humans could be free to spend their lives doing what they most enjoyed. For many people, this vision included an idea of creativity - writing poetry, composing music... and making art.
 
-So it’s not surprising that many artists are a little disillusioned that the modern reality of AI seems to be making the opposite happen. While we’ve only really scraped the surface so far in terms of what AI is capable of, AI-produced art is likely to remain controversial for the foreseeable future.
+So it's not surprising that many artists are a little disillusioned that the modern reality of AI seems to be making the opposite happen. While we've only really scraped the surface so far in terms of what AI is capable of, AI-produced art is likely to remain controversial for the foreseeable future.
