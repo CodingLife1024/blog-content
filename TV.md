@@ -20,6 +20,7 @@
 | &#x2B1C; | The Secret World of Arrietty | 2010 |  |
 | &#x2705; | When Marnie was There | 2014 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Children of the Corn | 2020 | &#11088; &#11088; &#11088; |
+| &#x2705; | 12 Angry Men | 1957 | &#11088; &#11088; &#11088; &#11088; |
 
 ## Series
 
