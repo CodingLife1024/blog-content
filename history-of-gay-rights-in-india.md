@@ -5,7 +5,7 @@
 
 India’s first-ever protests demanding rights for gay individuals happened on August 11, 1992. It was held by the AIDS Bhedbhav Virodhi Andolan (ABVA) outside ITO Police headquarters in Delhi to protest the arrest of men from Central Park in Connaught Place on the suspicion of homosexuality. In those days, this kind of harassment was still a 'normal' practice.
 
-![ABVA 1992 Protest](https://github.com/CodingLife1024/blog-content/blob/main/images/gayrights.jpeg?raw=true)
+![ABVA 1992 Protest](https://github.com/CodingLife1024/blog-content/blob/main/images/gayrights1.jpeg?raw=true)
 
 That same year, ABVA filed a PIL in the Delhi High Court challenging the constitutional validity of Section 377 of the Indian Penal Code, widely considered one of the first legal protests against government repression of LGBTQ rights in India. It was dismissed in 2001. Section 377 of the Indian Penal Code, a Victorian relic, criminalised sex "against the order of nature."
 
@@ -31,7 +31,15 @@ In 2017, the Supreme Court, in a seminal judgement, ruled that privacy was a fun
 
 This set a judicial precedent that helped the legal battles of the LGBTQ community. On September 6, 2018, the Supreme Court ruled that Section 377 was unconstitutional "in so far as it criminalises consensual sexual conduct between adults of the same sex", thus legalising "consensual same-sex acts between homosexuals, heterosexuals, lesbians and other sexual minorities."
 
+Justice Indu Malhotra had remarked in her reading of the judgment that sexuality lies at the core of a human being's innate identity, and "society owes an apology to the LGBTQ community for the years of stigma imposed on them".
+
+Justice Chandrachud questioned the very meaning of the oft-used phrase "order of nature". 
+
+He said, "Who decides what is natural and what is unnatural? Can the state be allowed to decide? Denial of the right to sexual orientation is a denial of privacy rights. Courts have the task not to allow to push citizens' lives into obscurity because of some colonial law".
+
 In a historic and unanimous judgment, the Supreme Court of India decriminalised Section 377 of the IPC, in a verdict handed down by a five-judge Constitutional Bench on September 06, 2018.
+
+![Decriminalisation of Homosexuality in 2018](https://github.com/CodingLife1024/blog-content/blob/main/images/gayrights2.jpeg?raw=true)
 
 ### Social Progress Through Pride 
 
