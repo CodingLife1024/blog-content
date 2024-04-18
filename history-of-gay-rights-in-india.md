@@ -39,7 +39,7 @@ He said, "Who decides what is natural and what is unnatural? Can the state be al
 
 In a historic and unanimous judgment, the Supreme Court of India decriminalised Section 377 of the IPC, in a verdict handed down by a five-judge Constitutional Bench on September 06, 2018.
 
-![Decriminalisation of Homosexuality in 2018](https://github.com/CodingLife1024/blog-content/blob/main/images/gayrights2.jpeg?raw=true)
+![Decriminalisation of Homosexuality in 2018](https://github.com/CodingLife1024/blog-content/blob/main/images/gayrights2.jpg?raw=true)
 
 ### Social Progress Through Pride 
 
