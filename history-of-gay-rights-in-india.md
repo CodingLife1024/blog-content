@@ -11,11 +11,11 @@ That same year, ABVA filed a PIL in the Delhi High Court challenging the constit
 
 ### India's HIV Crisis
 
-By 2002, India’s HIV-affected population was placed by the government at around 3.97 million — second only to South Africa. While the country's queer community was ravaged by the epidemic, the police continued to harass those who came forward for treatment.
+By 2002, India's HIV-affected population was placed by the government at around 3.97 million — second only to South Africa. While the country's queer community was ravaged by the epidemic, the police continued to harass those who came forward for treatment.
 
 ### Delhi High Court Verdict (2009)
 
-India’s gay community repeatedly mounted legal challenges post its failure in 1994. In 2009, the Delhi High Court held in Naz Foundation vs Govt. of NCT Delhi that treating gay sex between consenting adults as a crime was a gross violation of the fundamental right to privacy enshrined in the Indian Constitution.
+India's gay community repeatedly mounted legal challenges post its failure in 1994. In 2009, the Delhi High Court held in Naz Foundation vs Govt. of NCT Delhi that treating gay sex between consenting adults as a crime was a gross violation of the fundamental right to privacy enshrined in the Indian Constitution.
 
 ### Supreme Court Reversal (2013)
 
@@ -43,7 +43,7 @@ In a historic and unanimous judgment, the Supreme Court of India decriminalised 
 
 ### Social Progress Through Pride 
 
-On a social front, India held its first pride parade, incidentally also South Asia's first, on July 2, 1999, in Kolkata— called the Kolkata Rainbow Pride Walk. Pride events have now been held in over 21 Indian cities. Delhi, Mumbai and Bangalore saw their first pride parades in 2008, and Bhubaneswar and Chennai followed suit in 2009. Kerala’s first march was in 2010 and Pune in 2011. Guwahati was the first to hold a Pride Parade in the Northeast in 2014.
+On a social front, India held its first pride parade, incidentally also South Asia's first, on July 2, 1999, in Kolkata— called the Kolkata Rainbow Pride Walk. Pride events have now been held in over 21 Indian cities. Delhi, Mumbai and Bangalore saw their first pride parades in 2008, and Bhubaneswar and Chennai followed suit in 2009. Kerala's first march was in 2010 and Pune in 2011. Guwahati was the first to hold a Pride Parade in the Northeast in 2014.
 
 ### Post Decriminalisation in 2018
 
