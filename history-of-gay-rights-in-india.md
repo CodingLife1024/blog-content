@@ -3,15 +3,15 @@
 
 ### The Beginning (1992)
 
-India’s first-ever protests demanding rights for gay individuals happened on August 11, 1992. It was held by the AIDS Bhedbhav Virodhi Andolan (ABVA) outside ITO Police headquarters in Delhi to protest the arrest of men from Central Park in Connaught Place on the suspicion of homosexuality. In those days, this kind of harassment was still a 'normal' practice.
+India's first-ever protests demanding rights for gay individuals happened on August 11, 1992. It was held by the AIDS Bhedbhav Virodhi Andolan (ABVA) outside ITO Police headquarters in Delhi to protest the arrest of men from Central Park in Connaught Place on the suspicion of homosexuality. In those days, this kind of harassment was considered a 'normal' practice.
 
 ![ABVA 1992 Protest](https://github.com/CodingLife1024/blog-content/blob/main/images/gayrights1.jpeg?raw=true)
 
-That same year, ABVA filed a PIL in the Delhi High Court challenging the constitutional validity of Section 377 of the Indian Penal Code, widely considered one of the first legal protests against government repression of LGBTQ rights in India. It was dismissed in 2001. Section 377 of the Indian Penal Code, a Victorian relic, criminalised sex "against the order of nature."
+That same year, ABVA filed a PIL in the Delhi High Court challenging the constitutional validity of Section 377 of the Indian Penal Code, which is considered one of the first legal protests against government repression of LGBTQ rights in India. It was dismissed in 2001. Section 377 of the Indian Penal Code, criminalised sex that was "against the order of nature."
 
 ### India's HIV Crisis
 
-By 2002, India’s HIV-affected population was placed by the government at around 3.97 million — second only to South Africa. While the country’s homosexual community was ravaged by the epidemic, police continued to harass members if they came forward for treatment.
+By 2002, India’s HIV-affected population was placed by the government at around 3.97 million — second only to South Africa. While the country's queer community was ravaged by the epidemic, the police continued to harass those who came forward for treatment.
 
 ### Delhi High Court Verdict (2009)
 
@@ -19,11 +19,11 @@ India’s gay community repeatedly mounted legal challenges post its failure in 
 
 ### Supreme Court Reversal (2013)
 
-However, in 2013, the Supreme Court overturned the Delhi High Court's ruling in Suresh Kumar Koushal vs Naz Foundation.
+In 2013, the Supreme Court overturned the Delhi High Court's ruling in Suresh Kumar Koushal vs Naz Foundation.
 
 ### Private Member Bills to Decriminalise Homosexuality
 
-In 2015, MP Shashi Tharoor introduced a private member's bill in the Lok Sabha seeking to decriminalize homosexuality by amending Section 377 of the IPC. But it failed to pass in the Lok Sabha. Again, in March 2016, the Lok Sabha voted against the introduction of Tharoor's Indian Penal Code (Amendment) Bill 2016 to amend Section 377— the second time in three months.
+In 2015, MP Shashi Tharoor introduced a private member's bill in the Lok Sabha seeking to decriminalize homosexuality by amending Section 377 of the IPC. But it failed to pass in the Lok Sabha. Again, in March 2016, the Lok Sabha voted against the introduction of Tharoor's Indian Penal Code (Amendment) Bill 2016 to amend Section 377.
 
 ### Final Decriminalization (2018)
 
@@ -31,7 +31,7 @@ In 2017, the Supreme Court, in a seminal judgement, ruled that privacy was a fun
 
 This set a judicial precedent that helped the legal battles of the LGBTQ community. On September 6, 2018, the Supreme Court ruled that Section 377 was unconstitutional "in so far as it criminalises consensual sexual conduct between adults of the same sex", thus legalising "consensual same-sex acts between homosexuals, heterosexuals, lesbians and other sexual minorities."
 
-Justice Indu Malhotra had remarked in her reading of the judgment that sexuality lies at the core of a human being's innate identity, and "society owes an apology to the LGBTQ community for the years of stigma imposed on them".
+Justice Indu Malhotra had remarked in her reading of the judgment that sexuality lies at the core of a human being's innate identity, and "society owes an apology to the LGBTQ community for the years of stigma imposed on them."
 
 Justice Chandrachud questioned the very meaning of the oft-used phrase "order of nature". 
 
@@ -53,7 +53,7 @@ In November 2022, two gay couples filed writ petitions in the Supreme Court seek
 
 Similar petitions pending before the Delhi and Kerala High Courts have now been transferred to the Supreme Court. A Constitution Bench began hearing the matter in April 2023, and post a 10-day hearing, the Court has now reserved its judgement. The Union government has been firm in stating that the decriminalisation of same-sex relationships does not signify acceptance of same-sex marriage and that this is not in line with Indian society. It has urged the Supreme Court to leave the matter to the Parliament.  
 
-In June 2022, the Kerala High Court set a precedent by allowing a lesbian couple to live together after they were forcibly separated by their parents. The Court simply asked the couple if they wished to live together, to which they replied with a 'yes.'
+In June 2022, the Kerala High Court set a precedent by allowing a lesbian couple to live together after they were forcibly separated by their parents. The Court simply asked the couple if they wished to live together, to which they replied 'yes.'
 
 ### On Conversion Therapy
 
