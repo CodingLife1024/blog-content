@@ -35,7 +35,7 @@
 | &#x2705; | The Haunting of Hill House | 2018 |  &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Haunting of Bly Manor | 2020 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Fall of the House of Usher | 2023 | &#11088; &#11088; &#11088; |
-| &#x23f8; | Absentia | 2017 - 2020 |  |
+| &#x2705; | Absentia | 2017 - 2020 | &#11088; |
 | &#x2B1C; | American Horror Story | 2011 - 2024 |  |
 | &#x2B1C; | The Haunted | 2009 - 2011 |  |
 | &#x2B1C; | Penny Dreadful | 2014 - 2016 |  |
