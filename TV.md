@@ -17,10 +17,11 @@
 | &#x2705; | Kiki's Delivery Service | 1989 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Grave of the Fireflies | 1988 | &#11088; &#11088; &#11088; |
 | &#x2705; | The Boy and the Heron | 2023 | &#11088; &#11088; |
-| &#x2B1C; | The Secret World of Arrietty | 2010 |  |
+| &#x2705; | The Secret World of Arrietty | 2010 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | When Marnie was There | 2014 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Children of the Corn | 2020 | &#11088; &#11088; &#11088; |
 | &#x2705; | 12 Angry Men | 1957 | &#11088; &#11088; &#11088; &#11088; |
+| &#x2705; | Castle in the Sky | 1986 | &#11088; &#11088; &#11088; |
 
 ## Series
 
@@ -36,7 +37,7 @@
 | &#x2705; | The Haunting of Bly Manor | 2020 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Fall of the House of Usher | 2023 | &#11088; &#11088; &#11088; |
 | &#x2705; | Absentia | 2017 - 2020 | &#11088; |
-| &#x2B1C; | American Horror Story | 2011 - 2024 |  |
+| &#x23f8; | American Horror Story | 2011 - 2024 |  |
 | &#x2B1C; | The Haunted | 2009 - 2011 |  |
 | &#x2B1C; | Penny Dreadful | 2014 - 2016 |  |
 | &#x2B1C; | Marianne | 2019 |  |
