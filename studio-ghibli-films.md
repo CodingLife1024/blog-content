@@ -18,4 +18,4 @@ Here, we discuss how popular Ghibli films and protagonists are reflections of ou
 ## Spirited Away
 
 Like many others, this was my introduction to Studio Ghibli and its works. Released in 2001, 
-its story of a young girl taking on a mission of saving her parents in a magical world proves to be a transformative journey for her and many others she encounters along the way. 
+its story of a young girl, Chihiro taking on a mission of saving her parents in a magical world proves to be a transformative journey for her and many others she encounters along the way. At the start of the movie, Chihoro is a typical 10 year old - fearful and dependent on her parents. To save her parents who have turned into pigs, she is takes a job at the bathhouse, which works as a metaphor for adult responsibilities. She rediscovers who she is and her identity, when she reclaims her name from Yubaba. She 
