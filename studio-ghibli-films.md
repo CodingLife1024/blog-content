@@ -39,3 +39,18 @@ Both girls deal differently with the uncertainty of their mother's illness. Thei
 ## Only Yesterday
 
 ![Only Yesterday](https://github.com/CodingLife1024/blog-content/blob/main/images/sg3.jpg?raw=true)
+
+This film is quite different from others. Rather than having a child as a protagonist who becomes wiser through new experiences, it follows a young woman, Taeko as she visits her hometown and revisits her long-forgotten childhood memories and emerges with a deeper understanding of herself and her life. 
+
+## Kiki's Delivery Service
+
+![Kiki's Delivery Service](https://github.com/CodingLife1024/blog-content/blob/main/images/sg4.jpeg?raw=true)
+
+
+## When Marnie was There
+
+![When Marnie was There](https://github.com/CodingLife1024/blog-content/blob/main/images/sg5.jpg?raw=true)
+
+## The Secret World of Arrietty
+
+![The Secret World of Arrietty](https://github.com/CodingLife1024/blog-content/blob/main/images/sg6.jpg?raw=true)
