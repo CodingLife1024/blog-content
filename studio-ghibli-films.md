@@ -15,7 +15,14 @@ In conclusion, Studio Ghibli films go beyond mere entertainment. They touch upon
 
 Here, we discuss how popular Ghibli films and protagonists are reflections of ourselves and our collective experiences.
 
+![Spirited Away](https://github.com/CodingLife1024/blog-content/blob/main/images/sg1.jpg?raw=true)
+
 ## Spirited Away
 
 Like many others, this was my introduction to Studio Ghibli and its works. Released in 2001, 
-its story of a young girl, Chihiro taking on a mission of saving her parents in a magical world proves to be a transformative journey for her and many others she encounters along the way. At the start of the movie, Chihoro is a typical 10 year old - fearful and dependent on her parents. To save her parents who have turned into pigs, she is takes a job at the bathhouse, which works as a metaphor for adult responsibilities. She rediscovers who she is and her identity, when she reclaims her name from Yubaba. She 
+its story of a young girl, Chihiro taking on a mission of saving her parents in a magical world proves to be a transformative journey for her and many others she encounters along the way. At the start of the movie, Chihoro is a typical 10 year old - fearful and dependent on her parents. To save her parents who have turned into pigs, she is takes a job at the bathhouse, which works as a metaphor for adult responsibilities. She rediscovers who she is and her identity, when she reclaims her name from Yubaba. Chihiro learns the importance of empathy and kindness. She helps others selflessly, whether it's aiding the polluted river spirit or showing compassion to No-Face. By the end of the film, Chihiro has matured enough to let go of her attachment to the spirit world and move forward with her life. This ability to let go of the past and face the future is a critical aspect of maturing. 
+
+In summary, "Spirited Away" uses the fantastical journey of Chihiro to illustrate the real-world process of growing up.
+
+## My Neighbour Totoro
+
