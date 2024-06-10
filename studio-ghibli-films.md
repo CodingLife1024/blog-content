@@ -1,7 +1,7 @@
 # Studio Ghibli films: The Theme of Growing Up
 ## 15/05/2024
 
-While Studio Ghibli's **The Boy and The Heron** got this 2024's Best Animated Feature at the Oscars, it isn't the best work of either Miyazaki or the animation studio. Within the films, there are layered, complex narratives, often interwined with elements of fantasy, folklore the supernatural. The engaging worldbuilding and adventures of the characters (who are usually children) appeals to other children, and the deeper themes and messages about common human experiences makes them emotionally engaging to adults. The films deal with universal human experiences such as growing up, friendship, parental conflict, and death. Some delve into emotionally weighty themes like the stark realities of war and the heartbreaking experience of losing parents. Several delve into a protagonist's search for and/or (re)discovery of oneself. 
+While Studio Ghibli's **The Boy and The Heron** got this 2024's Best Animated Feature at the Oscars, it isn't the best work of either Miyazaki or the animation studio. Within the films, there are layered, complex narratives, often interwined with elements of fantasy, folklore the supernatural. The engaging worldbuilding and adventures of the characters (who are usually children) appeals to other children, and the deeper themes and messages about common human experiences makes them emotionally engaging to adults. The films deal with universal human experiences such as growing up, friendship, parental conflict, illness and death. Some delve into emotionally weighty themes like the stark realities of war and the heartbreaking experience of losing one or both parents. Several delve into a protagonist's search for and/or (re)discovery of oneself. 
 
 <!-- Studio Ghibli films often explore the theme of self-discovery and personal growth. In movies like **Spirited Away** and **Howl's Moving Castle**, we witness young protagonists embarking on transformative journeys that lead them to discover their true selves. These coming-of-age stories resonate with audiences of all ages, as they capture the universal struggle of finding one's place in the world.
 
@@ -25,4 +25,6 @@ its story of a young girl, Chihiro taking on a mission of saving her parents in 
 In summary, "Spirited Away" uses the fantastical journey of Chihiro to illustrate the real-world process of growing up.
 
 ## My Neighbour Totoro
+
+This film focuses more on family relationships and dealing with uncertainty and illness.
 
