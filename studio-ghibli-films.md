@@ -44,7 +44,7 @@ This film is quite different from others. Rather than having a child as a protag
 
 ## Kiki's Delivery Service
 
-![Kiki's Delivery Service](https://github.com/CodingLife1024/blog-content/blob/main/images/sg4.jpeg?raw=true)
+![Kiki's Delivery Service](https://github.com/CodingLife1024/blog-content/blob/main/images/sg4.jpg?raw=true)
 
 
 ## When Marnie was There
@@ -53,4 +53,4 @@ This film is quite different from others. Rather than having a child as a protag
 
 ## The Secret World of Arrietty
 
-![The Secret World of Arrietty](https://github.com/CodingLife1024/blog-content/blob/main/images/sg6.jpg?raw=true)
+![The Secret World of Arrietty](https://github.com/CodingLife1024/blog-content/blob/main/images/sg6.webp?raw=true)
