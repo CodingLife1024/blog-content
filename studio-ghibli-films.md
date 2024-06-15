@@ -1,5 +1,5 @@
 # Studio Ghibli films: The Theme of Growing Up
-## 15/05/2024
+## 16/06/2024
 
 While Studio Ghibli's **The Boy and The Heron** got this 2024's Best Animated Feature at the Oscars, it isn't the best work of either Miyazaki or the animation studio. Within the films, there are layered, complex narratives, often interwined with elements of fantasy, folklore the supernatural. The engaging worldbuilding and adventures of the characters (who are usually children) appeals to other children, and the deeper themes and messages about common human experiences makes them emotionally engaging to adults. The films deal with universal human experiences such as growing up, friendship, parental conflict, illness and death. Some delve into emotionally weighty themes like the stark realities of war and the heartbreaking experience of losing one or both parents. Several delve into a protagonist's search for and/or (re)discovery of oneself. 
 
