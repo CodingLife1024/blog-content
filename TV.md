@@ -43,3 +43,4 @@
 | &#x2B1C; | Marianne | 2019 |  |
 | &#x2B1C; | The Outsider | 2020 |  |
 | &#x2B1C; | Dark | 2017 - 2020 |  |
+| &#x2B1C; | Castle Rock | 2018 - 2019 |  |
