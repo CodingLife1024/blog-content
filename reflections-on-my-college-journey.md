@@ -1,4 +1,4 @@
-# Living in a Hostel: Pros and Cons
+# Reflections on my College Journey: As a Final year student
 ## 26/07/2024 
 
 I started writing this blog entry on the first day of my final year of college. As I sit in my hostel room, the familiar surroundings suddenly seem to carry a heavy sense of nostalgia and reflection. This final year marks the culmination of countless experiences, friendships, and lessons learned within these walls. Hostel life has been an incredible journey, filled with highs and lows, and as I begin this entry, I find myself thinking about the unique of pros and cons that have defined my years here. 
