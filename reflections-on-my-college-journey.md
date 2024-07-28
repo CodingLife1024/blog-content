@@ -14,11 +14,11 @@ When I came to campus in 2021 (in my 2nd semester), we were assigned rooms in In
 ![NIlgiri Night Mess](https://github.com/CodingLife1024/blog-content/blob/main/images/clg-nm.jpg?raw=true)
 *The Nilgiri night mess, which saw me on most nights.*
 
-From my 3rd semester onwards, I have lived in Himadri Hostel. Here, I was much closer to my seniors, and they helped me out with academics and life. My seniors played a pivotal role during this time, guiding me through academic challenges and offering invaluable life advice. The pink walls, now as familiar as my own home, witnessed my journey from a hesitant sophomore to a confident senior. I cannot count the number of times I have cried on the shoulder of a senior dues to academic stress or other life issues. 
+From my 3rd semester onwards, I have lived in Himadri Hostel. Here, I was much closer to my seniors, and they helped me out with academics and life. My seniors played a pivotal role during this time, guiding me through academic challenges and offering invaluable life advice. The pink walls, now as familiar as my own home, witnessed my journey from a hesitant faccha to a confident senior. I cannot count the number of times I have cried on the shoulder of a senior dues to academic stress or other life issues. 
 
-The late-night conversations in the hostel corridors, where we discussed everything from academic issues and politics to future plans, are memories I will always think back fondly. 
+The late-night conversations in the hostel corridors and rooms, where we discussed everything from academic issues and politics to future plans, are memories I will always think back fondly. 
 
-Another highlight has been the adventures and outings with friends. Exploring the city and participating in college events added a layer of excitement and spontaneity to my college life. These experiences have not only been fun but also taught me the importance of balancing work and life.
+Another highlight has been the outings with friends. Exploring the city and participating in various events added a layer of excitement and spontaneity to my college life. These experiences have not only been fun but also taught me the importance of balancing work and life.
 
 ### Academic Pursuits: Lessons Beyond the Classroom
 
