@@ -1,5 +1,5 @@
 # Internship Experiences: An Essay to Future Me
-## 03/08/2024 
+## 02/08/2024 
 
 Last month, I finished my summer internship. Coincidentally, I got the location in Mumbai (luckily or unluckily), quite close to where I actually live (when not on campus, at least). 
 
