@@ -17,7 +17,7 @@ However, as time passed, I began to see the positives to the daily train journey
 
 ##### How to build production level Python libraries
 
-I had to look up the open source code of several other Python libraries (like Scikit-learn and ast) to find the best practices for developing them. In the process, I learned how to deploy my own libraries to PyPi (although, the library I built within the firm was not deployed publicly). 
+I had to look up the open source code of several other Python libraries (like scikit-learn, scipy and ast) to find the best practices for developing them. In the process, I learned how to deploy my own libraries to PyPi (although, the library I built within the firm was not deployed publicly). 
 
 ##### Practices to follow while writing code that will later be reviewed and modified by other developers (to make their and your own future selves' lives easier)
 
