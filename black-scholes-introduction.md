@@ -13,6 +13,6 @@ __Underlying Asset Price/Stock Price (S)__: The current price of the asset on wh
 
 __Volatility ($\sigma$)__: Volatility refers to the degree of variation in the price of the underlying asset over time. In the Black-Scholes model, volatility is a key input and is usually expressed as the standard deviation of the asset's returns. It reflects the market's expectation of the asset's future price fluctuations.
 
-$$
+$
 \sigma = \sqrt{\frac{1}{T} \sum_{t=1}^{T} (r_t - \bar{r})^2}
-$$
+$
