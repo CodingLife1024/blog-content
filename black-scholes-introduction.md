@@ -11,4 +11,4 @@ __Strike Price (K)__: The strike price, also known as the exercise price, is the
 
 __Underlying Asset Price/Stock Price (S)__: The current price of the asset on which the option is written. This is the price that will be compared to the strike price to determine the payoff of the option at expiration.
 
-__Volatility (`\sigma`)__: Volatility refers to the degree of variation in the price of the underlying asset over time. In the Black-Scholes model, volatility is a key input and is usually expressed as the standard deviation of the asset's returns. It reflects the market's expectation of the asset's future price fluctuations.
+__Volatility (\sigma)__: Volatility refers to the degree of variation in the price of the underlying asset over time. In the Black-Scholes model, volatility is a key input and is usually expressed as the standard deviation of the asset's returns. It reflects the market's expectation of the asset's future price fluctuations.
