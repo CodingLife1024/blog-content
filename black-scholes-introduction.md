@@ -30,15 +30,11 @@ Mathematical Expressions:
 Call Option Price (C):
 
 $
-\[
 C = S_0 \cdot N(d_1) - K \cdot e^{-rT} \cdot N(d_2)
-\]
 $
 
 Put Option Price (P):
 
 $
-\[
 P = K \cdot e^{-rT} \cdot N(-d_2) - S_0 \cdot N(-d_1)
-\]
 $
