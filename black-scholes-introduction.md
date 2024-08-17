@@ -38,3 +38,19 @@ Put Option Price (P):
 $
 P = K \cdot e^{-rT} \cdot N(-d_2) - S_0 \cdot N(-d_1)
 $
+
+Definitions of d1 and d2:
+
+$
+d_1 = \frac{\ln\left(\frac{S_0}{K}\right) + \left(r + \frac{\sigma^2}{2}\right)T}{\sigma\sqrt{T}}
+$
+
+$
+d_2 = d_1 - \sigma\sqrt{T}
+$
+
+where, 
+
+$
+N(d) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{d} e^{-\frac{x^2}{2}} \, dx
+$
