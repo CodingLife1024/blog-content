@@ -54,3 +54,5 @@ where,
 $
 N(d) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{d} e^{-\frac{x^2}{2}} \, dx
 $
+
+N(d) is the cumulative distribution function of the standard normal distribution.
