@@ -13,6 +13,32 @@ __Underlying Asset Price/Stock Price (S)__: The current price of the asset on wh
 
 __Volatility ($\sigma$)__: Volatility refers to the degree of variation in the price of the underlying asset over time. In the Black-Scholes model, volatility is a key input and is usually expressed as the standard deviation of the asset's returns. It reflects the market's expectation of the asset's future price fluctuations.
 
+Mathematical Expression:
+
 $
 \sigma = \sqrt{\frac{1}{T} \sum_{t=1}^{T} (r_t - \bar{r})^2}
+$
+
+__Time to Maturity (in years) (T)__: This represents the remaining time until the option's expiration date.
+
+__Risk-Free Interest Rate (r)__: The risk-free interest rate is the theoretical rate of return on an investment with zero risk of financial loss. It is often represented by the yield on government bonds. In the Black-Scholes model, the risk-free rate is used to discount the expected payoff of the option to present value.
+
+__Option Price (C or P)__: The option price refers to the premium or cost of the option. The Black-Scholes model provides a formula to calculate the theoretical price of both call options (denoted as C) and put options (denoted as P).
+
+Mathematical Expressions: 
+
+Call Option Price (C):
+
+$
+\[
+C = S_0 \cdot N(d_1) - K \cdot e^{-rT} \cdot N(d_2)
+\]
+$
+
+Put Option Price (P):
+
+$
+\[
+P = K \cdot e^{-rT} \cdot N(-d_2) - S_0 \cdot N(-d_1)
+\]
 $
