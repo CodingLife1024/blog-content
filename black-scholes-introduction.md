@@ -56,3 +56,16 @@ N(d) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{d} e^{-\frac{x^2}{2}} \, dx
 $
 
 N(d) is the cumulative distribution function of the standard normal distribution.
+
+__The Greeks__: The "Greeks" are various risk measures that describe how the option price is sensitive to various factors like the underlying asset's price, volatility, and time. Some common Greeks include:
+
+1. __Delta ($\Delta$)__: Measures the sensitivity of the option price to changes in the underlying asset's price.
+
+2. __Gamma ($\Gamma$)__: Measures the sensitivity of Delta to changes in the underlying asset's price.
+
+3. __Theta ($\Theta$)__: Measures the sensitivity of the option price to the passage of time (time decay).
+
+4. __Vega ($\nu$)__: Measures the sensitivity of the option price to changes in volatility.
+
+5. __Rho ($\rho$)__: Measures the sensitivity of the option price to changes in the risk-free interest rate.
+
