@@ -245,15 +245,36 @@ $
 
 To solve this PDE, we make a change of variables to simplify the equation:
 
-- Let \( \tau = T - t \), where \( \tau \) represents the time to maturity. As time progresses towards maturity, \( \tau \) decreases to zero.
-  
-- Define \( x = \ln(S) \), a logarithmic transformation of the stock price.
+- Let 
 
-This change of variables is useful because it simplifies the nonlinear term \( S \frac{\partial V}{\partial S} \) in the PDE.
+$
+\tau = T - t
+$, 
+
+where \( $\tau$ \) represents the time to maturity. As time progresses towards maturity, \( $\tau$ \) decreases to zero.
+  
+- Define 
+
+$
+x = \ln(S),
+$
+
+a logarithmic transformation of the stock price.
+
+This change of variables is useful because it simplifies the nonlinear term 
+
+$
+S \frac{\partial V}{\partial S}
+$
+
+in the PDE.
 
 #### 2. Transformation to Simplify the PDE
 
-We propose that the solution \( V(S, t) \) can be factored into a product of a known function \( e^{-r(T-t)} \) and an unknown function \( u(x, \tau) \):
+We propose that the solution \( $V(S, t)$ \) can be factored into a product of a known function \( $e^{-r(T-t)}$ \) and an unknown function 
+
+$
+u(x, \tau)$:
 
 $
 V(S, t) = e^{-r(T-t)} u(x, \tau)
@@ -261,13 +282,31 @@ $
 
 Here’s the reasoning behind this transformation:
 
-- The term \( e^{-r(T-t)} \) is chosen because it matches the discounting factor for the option's future payoff under the risk-free rate \( r \). This helps to "remove" the \( rV \) term on the right-hand side of the PDE.
+- The term 
+
+$
+e^{-r(T-t)}
+$
+
+is chosen because it matches the discounting factor for the option's future payoff under the risk-free rate \( r \). This helps to "remove" the \( rV \) term on the right-hand side of the PDE.
   
-- The function \( u(x, \tau) \) is an unknown function of the new variables \( x \) and \( \tau \) that we want to solve for.
+- The function 
+
+$
+u(x, \tau)
+$
+
+is an unknown function of the new variables \( x \) and \( $\tau$ \) that we want to solve for.
 
 #### 3. Substituting into the Black-Scholes PDE
 
-Next, we substitute \( V(S, t) = e^{-r(T-t)} u(x, \tau) \) into the original Black-Scholes PDE.
+Next, we substitute 
+
+$
+V(S, t) = e^{-r(T-t)} u(x, \tau)
+$
+
+into the original Black-Scholes PDE.
 
 First, we calculate the partial derivatives:
 
