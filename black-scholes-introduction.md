@@ -283,11 +283,9 @@ $
 is chosen because it matches the discounting factor for the option's future payoff under the risk-free rate \( r \). This helps to "remove" the \( rV \) term on the right-hand side of the PDE.
   
 - The function 
-
 $
 u(x, \tau)
 $
-
 is an unknown function of the new variables \( x \) and \( $\tau$ \) that we want to solve for.
 
 #### 3. Substituting into the Black-Scholes PDE
