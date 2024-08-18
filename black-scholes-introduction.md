@@ -244,7 +244,6 @@ $
 To solve this PDE, we make a change of variables to simplify the equation:
 
 - Let 
-
 $
 \tau = T - t
 $, 
