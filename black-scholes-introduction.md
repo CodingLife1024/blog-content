@@ -234,20 +234,20 @@ To solve the PDE, we use the following transformation to reduce it to the heat e
 - Define a new variable 
 
 $
-\( \tau = T - t \)
+\tau = T - t
 $ 
 
 where \( \tau \) represents the time to maturity.
 - Define the option price as 
 
 $
-\( V(S, t) = e^{-r(T-t)} u(x, \tau) \), 
+V(S, t) = e^{-r(T-t)} u(x, \tau), 
 $
 
 where 
 
 $
-\( x = \ln(S) \).
+x = \ln(S).
 $
 
 Substituting these transformations into the Black-Scholes PDE, we obtain a PDE in the form of the heat equation:
