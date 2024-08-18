@@ -95,7 +95,7 @@ The Black-Scholes equation is a partial differential equation that describes the
 
 #### Step 2: Portfolio Construction
 
-Consider a portfolio \( $\Pi$ \) consisting of a long position in one option and a short position in \( \Delta \) units of the underlying asset. The value of the portfolio at time \( t \) is:
+Consider a portfolio \( $\Pi$ \) consisting of a long position in one option and a short position in \( $\Delta$ \) units of the underlying asset. The value of the portfolio at time \( t \) is:
 
 $\Pi$ = V($S_t$, t) - $\Delta$ $S_t$
 
