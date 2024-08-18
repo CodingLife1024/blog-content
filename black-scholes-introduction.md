@@ -206,8 +206,11 @@ $
 
 where:
 - \( S \) is the underlying asset price,
+
 - \( t \) is time,
+
 - \( r \) is the risk-free interest rate,
+
 - \( \sigma \) is the volatility of the asset.
 
 #### Step 2: Boundary Conditions for Call and Put Options
