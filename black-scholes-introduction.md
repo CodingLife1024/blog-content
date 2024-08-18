@@ -192,57 +192,77 @@ $
 
 The Black-Scholes equation, along with the boundary conditions, can be solved to find the price of European options.
 
-### Solution of the Black-Scholes Equation with Boundary Conditions
+### Derivation of the Black-Scholes Formula by Applying Boundary Conditions
 
-To derive the explicit formulas for the European call and put options, we start by solving the Black-Scholes partial differential equation under the given boundary conditions.
+Let's derive the Black-Scholes formula for European call and put options by applying the boundary conditions to the Black-Scholes partial differential equation (PDE).
 
-The general solution to the Black-Scholes equation for a European call option is of the form:
+#### Step 1: Recall the Black-Scholes PDE
 
-$
-C(S_t, t) = S_t N(d_1) - K e^{-r(T-t)} N(d_2)
-$
-
-For a European put option, the solution is:
+The Black-Scholes PDE for the value \( V(S, t) \) of an option is given by:
 
 $
-P(S_t, t) = K e^{-r(T-t)} N(-d_2) - S_t N(-d_1)
+\frac{\partial V}{\partial t} + rS \frac{\partial V}{\partial S} + \frac{1}{2} \sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} = rV
 $
 
 where:
+- \( S \) is the underlying asset price,
+- \( t \) is time,
+- \( r \) is the risk-free interest rate,
+- \( \sigma \) is the volatility of the asset.
 
-$
-d_1 = \frac{\ln\left(\frac{S_t}{K}\right) + \left(r + \frac{\sigma^2}{2}\right)(T-t)}{\sigma\sqrt{T-t}}
-$
+#### Step 2: Boundary Conditions for Call and Put Options
 
-$
-d_2 = d_1 - \sigma\sqrt{T-t}
-$
-
-Here, \( N(d) \) is the cumulative distribution function of the standard normal distribution.
-
-### Applying the Boundary Conditions
-
-1. **Call Option**: At maturity \( t = T \), the value of a call option is:
+1. **Call Option**: The boundary condition at maturity \( t = T \) for a European call option with strike price \( K \) is:
 
    $
    C(S_T, T) = \max(S_T - K, 0)
    $
 
-   This condition reflects that the call option will be worth the difference between the stock price and the strike price if it is positive, and zero otherwise.
+   This means that at expiration, the value of the call option is the difference between the stock price and the strike price if the stock price is above the strike price, otherwise, it is zero.
 
-2. **Put Option**: At maturity \( t = T \), the value of a put option is:
+2. **Put Option**: The boundary condition at maturity \( t = T \) for a European put option with strike price \( K \) is:
 
    $
    P(S_T, T) = \max(K - S_T, 0)
    $
 
-   This condition reflects that the put option will be worth the difference between the strike price and the stock price if it is positive, and zero otherwise.
+   This means that at expiration, the value of the put option is the difference between the strike price and the stock price if the strike price is above the stock price, otherwise, it is zero.
 
-To solve the Black-Scholes equation with these boundary conditions, we use the method of transforming variables and applying the Feynman-Kac theorem. This method leads to the closed-form solutions above for both call and put options.
+#### Step 3: Transforming the PDE
 
-### Final Black-Scholes Formulas
+To solve the PDE, we use the following transformation to reduce it to the heat equation:
+- Define a new variable \( \tau = T - t \), where \( \tau \) represents the time to maturity.
+- Define the option price as \( V(S, t) = e^{-r(T-t)} u(x, \tau) \), where \( x = \ln(S) \).
 
-After applying the boundary conditions and solving the partial differential equation, we obtain the famous Black-Scholes formulas:
+Substituting these transformations into the Black-Scholes PDE, we obtain a PDE in the form of the heat equation:
+
+$
+\frac{\partial u}{\partial \tau} = \frac{1}{2} \sigma^2 \frac{\partial^2 u}{\partial x^2}
+$
+
+#### Step 4: Solve the Heat Equation
+
+The heat equation can be solved using standard techniques. The solution \( u(x, \tau) \) will depend on the boundary conditions applied at \( \tau = 0 \) (which corresponds to \( t = T \)).
+
+For a **call option**:
+
+$
+u(x, 0) = \max(e^x - K, 0)
+$
+
+For a **put option**:
+
+$
+u(x, 0) = \max(K - e^x, 0)
+$
+
+#### Step 5: Use the Solution to the Heat Equation
+
+The general solution to the heat equation is a convolution of the initial condition with the heat kernel. Applying this to our transformed variables, we eventually recover the Black-Scholes formula.
+
+#### Step 6: Applying the Solution Back to Original Variables
+
+Transforming back to the original variables, we derive the famous Black-Scholes formulas:
 
 - **Call Option**:
 
@@ -266,4 +286,4 @@ $
 d_2 = d_1 - \sigma\sqrt{T}
 $
 
-These are the final pricing formulas for European call and put options derived from the Black-Scholes equation with the appropriate boundary conditions applied.
+These formulas are derived from the Black-Scholes PDE by applying the appropriate boundary conditions for European call and put options. The boundary conditions enforce that the option's value at maturity must match the payoff structure of the option, which then propagates backward through time to give the current option price.
