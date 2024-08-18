@@ -103,7 +103,7 @@ where \( V($S_t$, t) \) is the value of the option at time \( t \).
 
 #### Step 3: Applying Ito's Lemma
 
-Using Ito's Lemma, we can express the differential of the option price \( V \) as:
+Using [Ito's Lemma](https://en.wikipedia.org/wiki/It%C3%B4%27s_lemma), we can express the differential of the option price \( V \) as:
 
 $
 dV = \frac{\partial V}{\partial t} dt + \frac{\partial V}{\partial S} dS_t + \frac{1}{2} \frac{\partial^2 V}{\partial S^2} (dS_t)^2
