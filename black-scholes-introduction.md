@@ -233,7 +233,6 @@ where:
 
 #### Step 3: Transforming the PDE
 
-
 The Black-Scholes partial differential equation (PDE) for the value \( V(S, t) \) of an option is given by:
 
 $
@@ -253,19 +252,15 @@ $,
 where \( $\tau$ \) represents the time to maturity. As time progresses towards maturity, \( $\tau$ \) decreases to zero.
   
 - Define 
-
 $
 x = \ln(S),
 $
-
 a logarithmic transformation of the stock price.
 
 This change of variables is useful because it simplifies the nonlinear term 
-
 $
 S \frac{\partial V}{\partial S}
 $
-
 in the PDE.
 
 #### 2. Transformation to Simplify the PDE
