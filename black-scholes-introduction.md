@@ -323,7 +323,7 @@ $
 e^{-r(T-t)} \left[\frac{\partial u}{\partial \tau} + \frac{1}{2} \sigma^2 \frac{\partial^2 u}{\partial x^2} \right] = 0
 $
 
-This simplifies to the following heat equation for \( u(x, \tau) \):
+This simplifies to the following heat equation for \( $u(x, \tau)$ \):
 
 $
 \frac{\partial u}{\partial \tau} = \frac{1}{2} \sigma^2 \frac{\partial^2 u}{\partial x^2}
@@ -338,16 +338,14 @@ V(S, t) = e^{-r(T-t)} u(x, \tau)
 $
 
 reduces the Black-Scholes PDE to a simpler form, known as the heat equation, which is much easier to solve. The heat equation is a well-known PDE with established methods for finding solutions, which allows us to proceed with solving for 
-
 $
 u(x, \tau)
 $
-
 and thus obtaining the option price \( V(S, t) \).
 
 #### Step 4: Solve the Heat Equation
 
-The heat equation can be solved using standard techniques. The solution \( u(x, \tau) \) will depend on the boundary conditions applied at \( \tau = 0 \) (which corresponds to \( t = T \)).
+The heat equation can be solved using standard techniques. The solution \( $u(x, \tau)$ \) will depend on the boundary conditions applied at \( \tau = 0 \) (which corresponds to \( t = T \)).
 
 For a **call option**:
 
