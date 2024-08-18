@@ -240,7 +240,7 @@ $
 \tau = T - t
 $ 
 
-where \( \tau \) represents the time to maturity.
+where \( $\tau$ \) represents the time to maturity.
 - Define the option price as 
 
 $
