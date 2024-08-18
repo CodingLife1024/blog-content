@@ -266,7 +266,6 @@ in the PDE.
 #### 2. Transformation to Simplify the PDE
 
 We propose that the solution \( $V(S, t)$ \) can be factored into a product of a known function \( $e^{-r(T-t)}$ \) and an unknown function 
-
 $
 u(x, \tau)$:
 
