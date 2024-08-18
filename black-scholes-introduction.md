@@ -233,7 +233,6 @@ where:
 
 #### Step 3: Transforming the PDE
 
-### Transformation to Simplify the PDE
 
 The Black-Scholes partial differential equation (PDE) for the value \( V(S, t) \) of an option is given by:
 
