@@ -272,7 +272,7 @@ $
 V(S, t) = e^{-r(T-t)} u(x, \tau)
 $
 
-Here’s the reasoning behind this transformation:
+Here's the reasoning behind this transformation:
 
 - The term 
 $
