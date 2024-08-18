@@ -276,7 +276,6 @@ $
 Here’s the reasoning behind this transformation:
 
 - The term 
-
 $
 e^{-r(T-t)}
 $
