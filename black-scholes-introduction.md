@@ -169,9 +169,11 @@ $
 
 #### Step 6: The Black-Scholes Equation
 Rearranging the terms, we obtain the Black-Scholes partial differential equation:
+
 $
 \frac{\partial V}{\partial t} + \frac{1}{2} \sigma^2 S_t^2 \frac{\partial^2 V}{\partial S^2} + r S_t \frac{\partial V}{\partial S} - r V = 0
 $
+
 This equation is the foundation for pricing European options.
 
 #### Boundary Conditions
