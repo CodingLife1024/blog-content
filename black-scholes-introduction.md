@@ -190,7 +190,7 @@ $
 
 The Black-Scholes equation, along with the boundary conditions, can be solved to find the price of European options.
 
-#### Solution of the Black-Scholes Equation with Boundary Conditions
+### Solution of the Black-Scholes Equation with Boundary Conditions
 
 To derive the explicit formulas for the European call and put options, we start by solving the Black-Scholes partial differential equation under the given boundary conditions.
 
@@ -218,7 +218,7 @@ $
 
 Here, \( N(d) \) is the cumulative distribution function of the standard normal distribution.
 
-#### Applying the Boundary Conditions
+### Applying the Boundary Conditions
 
 1. **Call Option**: At maturity \( t = T \), the value of a call option is:
 
@@ -238,7 +238,7 @@ Here, \( N(d) \) is the cumulative distribution function of the standard normal 
 
 To solve the Black-Scholes equation with these boundary conditions, we use the method of transforming variables and applying the Feynman-Kac theorem. This method leads to the closed-form solutions above for both call and put options.
 
-#### Final Black-Scholes Formulas
+### Final Black-Scholes Formulas
 
 After applying the boundary conditions and solving the partial differential equation, we obtain the famous Black-Scholes formulas:
 
