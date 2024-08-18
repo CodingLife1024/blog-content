@@ -211,7 +211,7 @@ where:
 
 - \( r \) is the risk-free interest rate,
 
-- \( \sigma \) is the volatility of the asset.
+- \( $\sigma$ \) is the volatility of the asset.
 
 #### Step 2: Boundary Conditions for Call and Put Options
 
