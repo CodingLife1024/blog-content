@@ -233,31 +233,89 @@ where:
 
 #### Step 3: Transforming the PDE
 
-To solve the PDE, we use the following transformation to reduce it to the heat equation:
-- Define a new variable 
+### Transformation to Simplify the PDE
+
+The Black-Scholes partial differential equation (PDE) for the value \( V(S, t) \) of an option is given by:
 
 $
-\tau = T - t
-$ 
-
-where \( $\tau$ \) represents the time to maturity.
-- Define the option price as 
-
-$
-V(S, t) = e^{-r(T-t)} u(x, \tau), 
+\frac{\partial V}{\partial t} + rS \frac{\partial V}{\partial S} + \frac{1}{2} \sigma^2 S^2 \frac{\partial^2 V}{\partial S^2} = rV
 $
 
-where 
+#### 1. Change of Variables
+
+To solve this PDE, we make a change of variables to simplify the equation:
+
+- Let \( \tau = T - t \), where \( \tau \) represents the time to maturity. As time progresses towards maturity, \( \tau \) decreases to zero.
+  
+- Define \( x = \ln(S) \), a logarithmic transformation of the stock price.
+
+This change of variables is useful because it simplifies the nonlinear term \( S \frac{\partial V}{\partial S} \) in the PDE.
+
+#### 2. Transformation to Simplify the PDE
+
+We propose that the solution \( V(S, t) \) can be factored into a product of a known function \( e^{-r(T-t)} \) and an unknown function \( u(x, \tau) \):
 
 $
-x = \ln(S).
+V(S, t) = e^{-r(T-t)} u(x, \tau)
 $
 
-Substituting these transformations into the Black-Scholes PDE, we obtain a PDE in the form of the heat equation:
+Here’s the reasoning behind this transformation:
+
+- The term \( e^{-r(T-t)} \) is chosen because it matches the discounting factor for the option's future payoff under the risk-free rate \( r \). This helps to "remove" the \( rV \) term on the right-hand side of the PDE.
+  
+- The function \( u(x, \tau) \) is an unknown function of the new variables \( x \) and \( \tau \) that we want to solve for.
+
+#### 3. Substituting into the Black-Scholes PDE
+
+Next, we substitute \( V(S, t) = e^{-r(T-t)} u(x, \tau) \) into the original Black-Scholes PDE.
+
+First, we calculate the partial derivatives:
+
+$
+\frac{\partial V}{\partial t} = -re^{-r(T-t)} u(x, \tau) + e^{-r(T-t)} \frac{\partial u}{\partial \tau}
+$
+
+$
+\frac{\partial V}{\partial S} = e^{-r(T-t)} \frac{\partial u}{\partial S} = e^{-r(T-t)} \frac{\partial u}{\partial x} \cdot \frac{1}{S}
+$
+
+$
+\frac{\partial^2 V}{\partial S^2} = e^{-r(T-t)} \left(\frac{\partial^2 u}{\partial x^2} \cdot \frac{1}{S^2} - \frac{\partial u}{\partial x} \cdot \frac{1}{S^2} \right)
+$
+
+Substituting these into the Black-Scholes PDE gives:
+
+$
+\left[-re^{-r(T-t)} u + e^{-r(T-t)} \frac{\partial u}{\partial \tau} \right] + rS e^{-r(T-t)} \frac{1}{S} \frac{\partial u}{\partial x} + \frac{1}{2} \sigma^2 S^2 e^{-r(T-t)} \frac{1}{S^2} \frac{\partial^2 u}{\partial x^2} = r e^{-r(T-t)} u
+$
+
+Simplifying this, we get:
+
+$
+e^{-r(T-t)} \left[\frac{\partial u}{\partial \tau} + \frac{1}{2} \sigma^2 \frac{\partial^2 u}{\partial x^2} \right] = 0
+$
+
+This simplifies to the following heat equation for \( u(x, \tau) \):
 
 $
 \frac{\partial u}{\partial \tau} = \frac{1}{2} \sigma^2 \frac{\partial^2 u}{\partial x^2}
 $
+
+#### 4. Resulting Equation
+
+The transformation 
+
+$
+V(S, t) = e^{-r(T-t)} u(x, \tau)
+$
+
+reduces the Black-Scholes PDE to a simpler form, known as the heat equation, which is much easier to solve. The heat equation is a well-known PDE with established methods for finding solutions, which allows us to proceed with solving for 
+
+$
+u(x, \tau)
+$
+
+and thus obtaining the option price \( V(S, t) \).
 
 #### Step 4: Solve the Heat Equation
 
