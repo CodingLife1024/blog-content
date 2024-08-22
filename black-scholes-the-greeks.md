@@ -1,15 +1,15 @@
 # Black-Scholes Model: The Greeks
-**Date**: 27/08/2024
+## 27/08/2024
 
-## Introduction
+### Introduction
 
 The Black-Scholes model is a mathematical model for pricing options. It provides a theoretical estimate of the price of European-style options. The model calculates the price by solving a partial differential equation and incorporates variables such as the current price of the underlying asset, the option's strike price, time to expiration, risk-free interest rate, and volatility of the asset.
 
 The Greeks are a set of metrics that describe how the price of an option changes as the parameters of the Black-Scholes model change. Each Greek represents a different sensitivity and is crucial for risk management and trading strategies.
 
-## The Greeks
+### The Greeks
 
-### 1. Delta ($\Delta$)
+#### 1. Delta ($\Delta$)
 
 **Formula:**
 
@@ -25,7 +25,7 @@ Delta measures the rate of change of the option price with respect to changes in
 
 Delta is crucial for hedging as it indicates the number of shares needed to hedge the option position. A Delta of 0.5 means that the option price will move by 50% of the change in the underlying asset price.
 
-### 2. Gamma ($\Gamma$)
+#### 2. Gamma ($\Gamma$)
 
 **Formula:**
 
@@ -41,7 +41,7 @@ Gamma measures the rate of change of Delta with respect to changes in the underl
 
 Gamma is important for understanding how Delta changes as the underlying asset price changes. High Gamma means that Delta is very sensitive to price changes, which can lead to larger swings in the option's value.
 
-### 3. Theta ($\Theta$)
+#### 3. Theta ($\Theta$)
 
 **Formula:**
 
@@ -57,7 +57,7 @@ Theta measures the sensitivity of the option price to the passage of time, also 
 
 Theta is significant for option holders because it quantifies how much the option's value decreases as the expiration date approaches. A high Theta means the option is losing value rapidly as time passes.
 
-### 4. Vega ($\nu$)
+#### 4. Vega ($\nu$)
 
 **Formula:**
 
@@ -73,7 +73,7 @@ Vega measures the sensitivity of the option price to changes in the volatility o
 
 Vega is important for understanding how the option price will change with shifts in volatility. Traders often monitor Vega to gauge the potential impact of volatility changes on their positions.
 
-### 5. Rho ($\rho$)
+#### 5. Rho ($\rho$)
 
 **Formula:**
 
