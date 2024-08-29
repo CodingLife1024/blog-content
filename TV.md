@@ -34,6 +34,7 @@
 | &#x2B1C; | Badhaai Do | 2022 |  |
 | &#x2B1C; | The Thing | 1982 |  |
 | &#x2B1C; | Annihilation | 2018 |  |
+| &#x2B1C; | Paths of Glory | 1957 |  |
 
 ## Series
 
