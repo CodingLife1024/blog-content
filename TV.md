@@ -35,6 +35,8 @@
 | &#x2B1C; | The Thing | 1982 |  |
 | &#x2B1C; | Annihilation | 2018 |  |
 | &#x2B1C; | Paths of Glory | 1957 |  |
+| &#x2B1C; | Schindller's List | 1993 |  |
+| &#x2B1C; | The Boy in the Striped Pajamas | 2008 |  |
 
 ## Series
 
