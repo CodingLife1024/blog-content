@@ -8,7 +8,7 @@
 | &#x2705; | The Awakening | 2011 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Impetigore | 2019 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Green Mile | 1999 |  |
-| &#x2B1C; | The Woman in Black | 2012 |  |
+| &#x2705; | The Woman in Black | 2012 | &#11088; &#11088; &#11088; |
 | &#x2B1C; | Dune | 2021 |  |
 | &#x2B1C; | Dune Part two | 2024 |  |
 | &#x2B1C; | The Scent of a Woman | 1992 | |
@@ -26,6 +26,12 @@
 | &#x2705; | Masoom | 1983 | &#11088; |
 | &#x2705; | Mom | 2017 | &#11088; &#11088; |
 | &#x2705; | The VVitch | 2015 | &#11088; &#11088; &#11088; &#11088; |
+| &#x2B1C; | The Lighthouse | 2019 |  |
+| &#x2B1C; | Serial Experiments Lain | 1999 |  |
+| &#x2B1C; | Paranoia Agent | 2004 |  |
+| &#x2B1C; | Kite | 1998 |  |
+| &#x2B1C; | Perfect Blue | 1997 |  |
+| &#x2B1C; | Badhaai Do | 2022 |  |
 
 ## Series
 
