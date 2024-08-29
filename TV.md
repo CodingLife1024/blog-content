@@ -32,6 +32,7 @@
 | &#x2B1C; | Kite | 1998 |  |
 | &#x2B1C; | Perfect Blue | 1997 |  |
 | &#x2B1C; | Badhaai Do | 2022 |  |
+| &#x2B1C; | The Thing | 1982 |  |
 
 ## Series
 
