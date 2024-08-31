@@ -37,6 +37,7 @@
 | &#x2B1C; | Paths of Glory | 1957 |  |
 | &#x2B1C; | Schindller's List | 1993 |  |
 | &#x2B1C; | The Boy in the Striped Pajamas | 2008 |  |
+| &#x2B1C; | The Cement Garden | 1993 |  |
 
 ## Series
 
