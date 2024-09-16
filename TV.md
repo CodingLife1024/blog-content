@@ -55,7 +55,7 @@
 | &#x2705; | Absentia | 2017 - 2020 | &#11088; |
 | &#x2705; | American Horror Story | 2011 - 2024 | &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Haunted | 2009 - 2011 |  |
-| &#x2705; | Penny Dreadful | 2014 - 2016 |  |
+| &#x2705; | Penny Dreadful | 2014 - 2016 | &#11088; &#11088; |
 | &#x2B1C; | Marianne | 2019 |  |
 | &#x2B1C; | The Outsider | 2020 |  |
 | &#x23f8; | Dark | 2017 - 2020 |  |
