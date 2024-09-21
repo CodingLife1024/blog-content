@@ -36,7 +36,7 @@
 | &#x2B1C; | Annihilation | 2018 |  |
 | &#x2B1C; | Paths of Glory | 1957 |  |
 | &#x2B1C; | Schindller's List | 1993 |  |
-| &#x2B1C; | The Boy in the Striped Pajamas | 2008 |  |
+| &#x2705; | The Boy in the Striped Pajamas | 2008 | &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Cement Garden | 1993 |  |
 
 ## Series
@@ -58,4 +58,4 @@
 | &#x2B1C; | Marianne | 2019 |  |
 | &#x2B1C; | The Outsider | 2020 |  |
 | &#x2705; | Dark | 2017 - 2020 | &#11088; &#11088; &#11088; &#11088; &#11088; |
-| &#x2B1C; | Castle Rock | 2018 - 2019 |  |
+| &#x23f8; | Castle Rock | 2018 - 2019 |  |
