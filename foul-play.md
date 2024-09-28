@@ -22,7 +22,7 @@ with the rhythm of proper speech,
 I find truth more often in the raw edges
 of those who spit fire from their mouths.
 Their words, jagged and crude,
-come from a place that’s real,
+come from a place that's real,
 a place where the heart bleeds openly
 without the bandage of polite phrases.
 When someone swears at me, in anger or pain,
@@ -67,7 +67,7 @@ than we give it credit for.
 To swear is to let something out,
 to let the truth crack open
 through the hard surface
-of what we’ve been taught to say.
+of what we've been taught to say.
 
 Maybe the ones who swear
 are the ones who refuse to lie.
@@ -99,7 +99,7 @@ like fireflies in the night—
 their sharpness illuminating a darkness
 that polite language often conceals.
 Their words, raw and unfiltered,
-come from a place that’s achingly real,
+come from a place that's achingly real,
 where hearts bleed openly,
 exposed without the safe cocoon
 of genteel phrases.
@@ -151,9 +151,9 @@ that mean nothing at all?
 People have whispered all my life
 that swearing shows a lack of control,
 a failure to respect,
-but perhaps it’s the opposite;
+but perhaps it's the opposite;
 perhaps it shows more control
-than we’re willing to acknowledge.
+than we're willing to acknowledge.
 To swear is to let something raw and jagged spill out,
 to let the truth crack open
 through the hard shell of propriety,
@@ -183,7 +183,7 @@ Voices sweet as lullabies, softly sung.
 Sugar-coated lies meant to protect,
 A polished facade, a world to perfect.
 I learned the script, a litany of manners:
-“Say ‘please,’ say ‘thank you,’ with no such scanners.”
+“Say ‘please,' say ‘thank you,' with no such scanners.”
 Never let a curse slip from my lips,
 For such words tarnish innocence, as it tips.
 
@@ -205,13 +205,13 @@ The air thick with secrets, resentment profound.
 Their polite exchanges, a dance of deceit,
 Each “How are you?” a velvet-wrapped feat.
 They despise each other but play their part well,
-Smiles painted on faces, a truth they can’t tell.
+Smiles painted on faces, a truth they can't tell.
 
 The irony swells like a bitter laugh caught,
-What’s called “rude” is where truth’s often sought.
+What's called “rude” is where truth's often sought.
 While what we label “polite” tends to choke,
 On lies that grow thicker, a well-crafted cloak.
-What’s worse, I wonder, a curse that bites deep,
+What's worse, I wonder, a curse that bites deep,
 Or kind words that linger, empty promises to keep?
 
 People have whispered, all through my days,
@@ -225,6 +225,6 @@ Maybe those who swear, in their messy embrace,
 Refuse to lie about pain we all face.
 In their harsh, liberating words, I find light,
 A chance to be real in a world void of sight.
-Where shadows conceal what we’re too scared to share,
+Where shadows conceal what we're too scared to share,
 In the truth of their voices, I feel less despair.
 ```
