@@ -39,6 +39,7 @@
 | &#x2705; | The Boy in the Striped Pajamas | 2008 | &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Cement Garden | 1993 |  |
 | &#x2705; | The Fourth Kind | 2009 | &#11088; &#11088; &#11088; &#11088; &#11088; |
+| &#x2705; | As Above So Below | 2014 | &#11088; &#11088; &#11088; &#11088; &#11088; |
 
 ## Series
 
