@@ -183,7 +183,7 @@ Voices sweet as lullabies, softly sung.
 Sugar-coated lies meant to protect,
 A polished facade, a world to perfect.
 I learned the script, a litany of manners:
-“Say ‘please,' say ‘thank you,' with no such scanners.”
+“Say 'please,' say 'thank you,' with no such scanners.”
 Never let a curse slip from my lips,
 For such words tarnish innocence, as it tips.
 
