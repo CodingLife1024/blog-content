@@ -1,7 +1,7 @@
 # Foul Play - My Poems on Swearing
 ## 28/09/2024
 
-Here is a collection of poems I have written about swearing (especially habitual swearing)
+Here is a collection of poems I have written about swearing (especially habitual swearing).
 
 ### In free verse, version 1
 
