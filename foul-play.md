@@ -26,7 +26,7 @@ come from a place that's real,
 a place where the heart bleeds openly
 without the bandage of polite phrases.
 When someone swears at me, in anger or pain,
-I feel the sting, yes—
+I feel the sting, yes-
 but I also feel the honesty.
 There is no hiding there, no pretense,
 just the pure, undiluted truth
@@ -48,7 +48,7 @@ with such practiced grace
 that you could almost believe
 they cared.
 
-The irony swells like a bitter laugh in my chest—
+The irony swells like a bitter laugh in my chest-
 that what we call "rude," "improper,"
 is where the truth slips through,
 and what we call "polite"
@@ -95,7 +95,7 @@ But now, after years of navigating
 the landscape of polite exchanges,
 I find truth hidden in the hard edges,
 in the jagged syllables that tumble from lips
-like fireflies in the night—
+like fireflies in the night-
 their sharpness illuminating a darkness
 that polite language often conceals.
 Their words, raw and unfiltered,
@@ -105,7 +105,7 @@ exposed without the safe cocoon
 of genteel phrases.
 When someone swears at me,
 in anger or frustration,
-I feel the sting, yes—
+I feel the sting, yes-
 but I also sense the sincerity,
 the bare bones of emotion laid bare,
 while the polite ones cloak their venom
@@ -136,7 +136,7 @@ that can fool the world
 but never themselves.
 
 The irony swells like a bitter laugh
-caught in my throat—
+caught in my throat-
 that what we call "rude," "improper,"
 is where the truth dares to emerge,
 while what we label "polite"
