@@ -25,7 +25,7 @@ Am I truly a part of this?
 
 In Hindi, I find friends and laughter,
 Words that crackle like the streets I grew up on.
-We share jokes, stories, memories—
+We share jokes, stories, memories-
 But the language wears two faces.
 In its everyday form, it feels like a second home,
 But when it speaks its purest version,
