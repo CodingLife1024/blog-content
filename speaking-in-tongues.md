@@ -13,7 +13,7 @@ Soft syllables of comfort and kin,
 A language that reminds me of arguments and discussions,
 Of sticky afternoons spent in hot summers.
 But when the pages open,
-The script dances in front of my eyes—
+The script dances in front of my eyes-
 Unreadable, unreachable.
 I am a guest at my own table, my own home,
 A tongue that knows how to speak,
