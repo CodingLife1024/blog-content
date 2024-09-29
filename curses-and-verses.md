@@ -73,7 +73,7 @@ Maybe the ones who swear
 are the ones who refuse to lie.
 ```
 
-In free verse, version 2
+### In free verse, version 2
 
 #### Hard Edges
 
@@ -171,7 +171,7 @@ a chance to be real in a world
 that often prefers shadows.
 ```
 
-In Rhyme
+### In Rhyme
 
 #### Hard Edges - Rhymed Version
 
