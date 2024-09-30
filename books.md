@@ -13,3 +13,4 @@
 | &#x2705; | Num8ers | 2009 | Rachel Ward | &#11088; |
 | &#x2B1C; | Naked Economics | 2013 | Charles WheelanBurton G. Malkiel |  |
 | &#x2B1C; | Freakonomics | 2005 | Steven D. Levitt, Stephen J. Dubner |  |
+| &#x2B1C; | Sapiens | 2011 | Yuval Noah Harari |  |
