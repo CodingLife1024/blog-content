@@ -14,7 +14,7 @@
 | &#x2B1C; | The Scent of a Woman | 1992 | |
 | &#x2705; | My Neighbor Totoro | 1988 | &#11088; &#11088; &#11088; |
 | &#x2705; | Only Yesterday | 1991 | &#11088; &#11088; |
-| &#x2705; | Kiki's Delivery Service | 1989 | &#11088; &#11088; &#11088; &#11088; |
+| &#x2705; | Kiki's Delivery Service | 1989 | &#11088; &#11088; &#11088; &#11088; | 
 | &#x2705; | Grave of the Fireflies | 1988 | &#11088; &#11088; &#11088; |
 | &#x2705; | The Boy and the Heron | 2023 | &#11088; &#11088; |
 | &#x2705; | The Secret World of Arrietty | 2010 | &#11088; &#11088; &#11088; &#11088; |
