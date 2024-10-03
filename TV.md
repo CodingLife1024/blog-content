@@ -69,3 +69,10 @@
 | &#x2B1C; | Sharp Objects | 2018 |  |
 | &#x2B1C; | True Detective | 2014 -  |  |
 | &#x2B1C; | The Terror | 2018 - 2019 |  |
+| &#x2B1C; | The Leftovers | 2014 - 2017 |  |
+| &#x2B1C; | Black Mirror | 2011 -  |  |
+| &#x2B1C; | The Exorcist | 2016 - 2017 |  |
+| &#x2B1C; | Stranger Things | 2016 -  |  |
+| &#x2B1C; | Servant | 2019 -  |  |
+| &#x2B1C; | Channel Zero | 2016 - 2018 |  |
+| &#x2B1C; | Fortitude | 2015 - 2018 |  |
