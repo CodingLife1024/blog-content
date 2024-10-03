@@ -62,3 +62,10 @@
 | &#x2B1C; | The Outsider | 2020 |  |
 | &#x2705; | Dark | 2017 - 2020 | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x23f8; | Castle Rock | 2018 - 2019 |  |
+| &#x2B1C; | The Sinner | 2017 - 2021 |  |
+| &#x2B1C; | Hannibal | 2013 - 2015 |  |
+| &#x2B1C; | The Witcher | 2019 -  |  |
+| &#x2B1C; | Bates Motel | 2013 - 2017 |  |
+| &#x2B1C; | Sharp Objects | 2018 |  |
+| &#x2B1C; | True Detective | 2014 -  |  |
+| &#x2B1C; | The Terror | 2018 - 2019 |  |
