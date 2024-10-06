@@ -42,6 +42,7 @@
 | &#x2705; | As Above So Below | 2014 | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Innkeepers | 2011 | &#11088; |
 | &#x2B1C; | Jojo Rabbit | 2019 |  |
+| &#x2B1C; | Martyrs | 2008 |  |
 
 ## Series
 
