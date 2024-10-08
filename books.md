@@ -14,3 +14,5 @@
 | &#x2B1C; | Naked Economics | 2013 | Charles WheelanBurton G. Malkiel |  |
 | &#x2B1C; | Freakonomics | 2005 | Steven D. Levitt, Stephen J. Dubner |  |
 | &#x2B1C; | Sapiens | 2011 | Yuval Noah Harari |  |
+| &#x23F8; | Reminders of Him | 2022 | Colleen Hoover |  |
+| &#x2705; | Verity | 2021 | Colleen Hoover | &#11088; &#11088; |
