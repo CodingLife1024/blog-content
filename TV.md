@@ -45,7 +45,7 @@
 | &#x2B1C; | Martyrs | 2008 |  |
 | &#x2705; | Lanke Mungo | 2008 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | Raazi | 2018 |  |
-| &#x2B1C; | Interstellar | 2014 |  |
+| &#x2705; | Interstellar | 2014 | &#11088; &#11088; &#11088; &#11088; |
 
 ## Series
 
@@ -66,7 +66,7 @@
 | &#x2B1C; | Marianne | 2019 |  |
 | &#x2B1C; | The Outsider | 2020 |  |
 | &#x2705; | Dark | 2017 - 2020 | &#11088; &#11088; &#11088; &#11088; &#11088; |
-| &#x23f8; | Castle Rock | 2018 - 2019 |  |
+| &#x2705; | Castle Rock | 2018 - 2019 | &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Sinner | 2017 - 2021 |  |
 | &#x2B1C; | Hannibal | 2013 - 2015 |  |
 | &#x2B1C; | The Witcher | 2019 -  |  |
@@ -75,7 +75,7 @@
 | &#x2B1C; | True Detective | 2014 -  |  |
 | &#x2B1C; | The Terror | 2018 - 2019 |  |
 | &#x2B1C; | The Leftovers | 2014 - 2017 |  |
-| &#x2B1C; | Black Mirror | 2011 -  |  |
+| &#x23f8; | Black Mirror | 2011 -  |  |
 | &#x2B1C; | The Exorcist | 2016 - 2017 |  |
 | &#x2B1C; | Stranger Things | 2016 -  |  |
 | &#x2B1C; | Servant | 2019 -  |  |
