@@ -47,6 +47,7 @@
 | &#x2B1C; | Raazi | 2018 |  |
 | &#x2705; | Interstellar | 2014 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | Innocence | 2004 |  |
+| &#x2B1C; | Incendies | 2010 |  |
 
 ## Series
 
