@@ -2,7 +2,7 @@
 
 ## Movies
 
-|          | Movie Name | Year of Release | My Rating |
+|          | Movie Name | Year of Release | My Rating | 
 |----------|------------|-----------------|-----------|
 | &#x2705; | The Falling | 2014 | &#11088; &#11088; &#11088; | 
 | &#x2705; | The Awakening | 2011 | &#11088; &#11088; &#11088; &#11088; |
