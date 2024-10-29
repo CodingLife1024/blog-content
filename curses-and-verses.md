@@ -183,7 +183,7 @@ Voices sweet as lullabies, softly sung.
 Sugar-coated lies meant to protect,
 A polished facade, a world to perfect.
 I learned the script, a litany of manners:
-“Say 'please,' say 'thank you,' with no such scanners.”
+"Say 'please,' say 'thank you,' with no such scanners."
 Never let a curse slip from my lips,
 For such words tarnish innocence, as it tips.
 
@@ -203,13 +203,13 @@ Each layer a fragile shield, concealing their tasks.
 I think of my family, gathered around,
 The air thick with secrets, resentment profound.
 Their polite exchanges, a dance of deceit,
-Each “How are you?” a velvet-wrapped feat.
+Each "How are you?" a velvet-wrapped feat.
 They despise each other but play their part well,
 Smiles painted on faces, a truth they can't tell.
 
 The irony swells like a bitter laugh caught,
-What's called “rude” is where truth's often sought.
-While what we label “polite” tends to choke,
+What's called "rude" is where truth's often sought.
+While what we label "polite" tends to choke,
 On lies that grow thicker, a well-crafted cloak.
 What's worse, I wonder, a curse that bites deep,
 Or kind words that linger, empty promises to keep?
