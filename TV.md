@@ -30,6 +30,7 @@
 | &#x2B1C; | Serial Experiments Lain | 1999 |  |
 | &#x2B1C; | Paranoia Agent | 2004 |  |
 | &#x2B1C; | Kite | 1998 |  |
+| &#x2705; | Soft & Quiet | 2022 | &#11088; &#11088; |
 | &#x2B1C; | Perfect Blue | 1997 |  |
 | &#x2B1C; | Badhaai Do | 2022 |  |
 | &#x2B1C; | The Thing | 1982 |  |
