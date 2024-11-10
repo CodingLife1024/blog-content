@@ -37,6 +37,7 @@
 | &#x2B1C; | Annihilation | 2018 |  |
 | &#x2B1C; | Paths of Glory | 1957 |  |
 | &#x2B1C; | Schindller's List | 1993 |  |
+| &#x2705; | I Saw the TV Glow | 2022 | &#11088; &#11088; |
 | &#x2705; | The Boy in the Striped Pajamas | 2008 | &#11088; &#11088; &#11088; |
 | &#x2705; | The Cement Garden | 1993 | &#11088; &#11088; &#11088; |
 | &#x2705; | The Fourth Kind | 2009 | &#11088; &#11088; &#11088; &#11088; |
