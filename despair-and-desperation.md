@@ -34,8 +34,7 @@ even if it's only until I learn not to need you to breathe.
 
 #### I Swear
 
-```
-I swear, I'll find a way to be the friend you want, a version of me you don't mind keeping around-
+I swear, I'll find a way to be the friend you want, a version of me you don't mind keeping around- 
 I'll tuck my pain into corners, lock every sadness away like it never mattered.
 I know you're tired of hearing the same story, tired of me filling every silence
 with everything I can't keep inside. I see the way you flinch, the way your eyes wander,
@@ -81,13 +80,11 @@ I swear, I'll do anything, I'll change in ways you never asked me to,
 I'll be quieter, softer, more like the person you thought I was-
 if it means I don't have to let you go, if it means I don't have to face
 the silence of being completely, truly alone.
-```
 
 ### Free Verse, Version 3
 
 #### I Swear
 
-```
 I swear,
 this time I'll be quiet,
 hold back the flood of all the things I cannot say,
@@ -113,5 +110,4 @@ I won't let it reach you.
 I'll be the friend you need,
 someone who won't drown you in his tides,
 someone whose hands don't shake as he clings,
-begging for you not to go.
-```
+begging for you not to go. 
