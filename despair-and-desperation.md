@@ -5,32 +5,30 @@
 
 #### I Swear
 
-```
-I swear, I'll do anything-no, really, anything you ask,
-if it keeps you here just a little longer, just one more night.
-I'll hold back every word, every ache that spills out without asking,
-swallow down this loneliness that swells, desperate to be seen.
-I know I wear you down, cling too tight, let my sadness spill over,
-but I've never learned how to be alone without disappearing,
-never learned how to stand without someone to hold me up.
+I swear, I'll do anything—no, really, anything you ask,  
+if it keeps you here just a little longer, just one more night.  
+I'll hold back every word, every ache that spills out without asking,  
+swallow down this loneliness that swells, desperate to be seen.  
+I know I wear you down, cling too tight, let my sadness spill over,  
+but I've never learned how to be alone without disappearing,  
+never learned how to stand without someone to hold me up.  
 
-If I promise to be quiet, to lock every broken piece away-
-could you stay, please? I'll bury my fear, I'll hide the worst of me,
-I'll be the friend who smiles, nods, doesn't talk about himself.
-I'll laugh at all the jokes, pretend I don't feel myself fading,
-if it means you won't go.
+If I promise to be quiet, to lock every broken piece away—  
+could you stay, please? I'll bury my fear, I'll hide the worst of me,  
+I'll be the friend who smiles, nods, doesn't talk about himself.  
+I'll laugh at all the jokes, pretend I don't feel myself fading,  
+if it means you won't go.  
 
-I swear, I can change. I'll be lighter, softer, someone you don't tire of,
-someone who isn't so small, so sad, so hungry for the kind of love
-that feels less like pity. I know you feel the weight of me; I know it's too much.
-I just don't know how to let go, don't know how to be whole on my own.
+I swear, I can change. I'll be lighter, softer, someone you don't tire of,  
+someone who isn't so small, so sad, so hungry for the kind of love  
+that feels less like pity. I know you feel the weight of me; I know it's too much.  
+I just don't know how to let go, don't know how to be whole on my own.  
 
-So please, just for now, be the thread I hold on to,
-the one place I don't feel like a burden, the last piece of light
-in a life that's just rooms filled with silence. I swear I won't be this way forever.
-I just need you not to leave, to stay, even if it's only out of kindness-
-even if it's only until I learn not to need you to breathe.
-```
+So please, just for now, be the thread I hold on to,  
+the one place I don't feel like a burden, the last piece of light  
+in a life that's just rooms filled with silence. I swear I won't be this way forever.  
+I just need you not to leave, to stay, even if it's only out of kindness—  
+even if it's only until I learn not to need you to breathe.  
 
 ### Free Verse, Version 2
 
