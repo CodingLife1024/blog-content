@@ -3,11 +3,11 @@
 
 ### Free Verse, Version 1
 
-__rigerig__
+__rigerig__: iuhweoguberu
 
 #### I Swear
 
-```latex
+```
 \begin{verse}
 I swear, I'll do anything—no, really, anything you ask, \\
 if it keeps you here just a little longer, just one more night. \\
