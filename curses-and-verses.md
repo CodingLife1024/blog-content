@@ -3,11 +3,10 @@
 
 Here is a collection of poems I have written about swearing (especially habitual swearing).
 
-### In free verse, version 1
+### Free Verse, Version 1
 
-#### Hard Edges 
+#### Hard Edges
 
-```
 I was taught early,
 like every child, that swearing was wrong,
 "Never let those words touch your tongue,"
@@ -71,13 +70,11 @@ of what we've been taught to say.
 
 Maybe the ones who swear
 are the ones who refuse to lie.
-```
 
-### In free verse, version 2
+### Free Verse, Version 2
 
 #### Hard Edges
 
-```
 I was taught early,
 like every child, that swearing was wrong,
 "Never let those words touch your tongue,"
@@ -169,13 +166,11 @@ In their words, harsh yet liberating,
 I find a flicker of hope,
 a chance to be real in a world
 that often prefers shadows.
-```
 
-### In Rhyme
+### Rhymed Version
 
 #### Hard Edges - Rhymed Version
 
-```
 I was taught early, like every child,
 That swearing was wrong, so tame and mild.
 "Never let those words touch your tongue,"
@@ -227,4 +222,4 @@ In their harsh, liberating words, I find light,
 A chance to be real in a world void of sight.
 Where shadows conceal what we're too scared to share,
 In the truth of their voices, I feel less despair.
-```
+
