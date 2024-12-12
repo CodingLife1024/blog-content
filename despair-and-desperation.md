@@ -34,7 +34,7 @@ even if it's only until I learn not to need you to breathe.
 
 #### I Swear
 
-I swear, I'll find a way to be the friend you want, a version of me you don't mind keeping around—  
+I swear, I'll find a way to be the friend you want, a version of me you don't mind keeping around-  
 I'll tuck my pain into corners, lock every sadness away like it never mattered.  
 I know you're tired of hearing the same story, tired of me filling every silence  
 with everything I can't keep inside. I see the way you flinch, the way your eyes wander,  
@@ -46,7 +46,7 @@ I swear, I'll be different. I'll fold my fears into my pockets,
 I'll swallow the sadness that claws at my throat just to sit with you,  
 silent, harmless, like a shadow that doesn't demand to be seen.  
 
-Just—please—don't go. I know it's pathetic to beg like this,  
+Just-please-don't go. I know it's pathetic to beg like this,  
 to cling to someone who's already half gone, who's already exhausted,  
 but you're the last bit of light left in a world that's darkened beyond what I can bear.  
 I'll be quieter, smaller, someone who doesn't need to be held up,  
@@ -69,7 +69,7 @@ But I've never known how to hold onto anything that didn't slip away,
 never learned how to be whole without someone to anchor me,  
 someone to keep me from falling apart entirely.  
 
-So, please, I'm begging—don't leave. Stay, if only out of pity, if only because I swear  
+So, please, I'm begging-don't leave. Stay, if only out of pity, if only because I swear  
 I'll hold all my broken pieces out of sight, out of mind,  
 I'll be someone you don't have to worry about, someone you don't resent for needing too much.  
 Let me hold onto you just a little longer,  
@@ -77,7 +77,7 @@ until I learn not to need you to feel like I'm worth something,
 until I find a way to exist without you filling every hollow place inside me.  
 
 I swear, I'll do anything, I'll change in ways you never asked me to,  
-I'll be quieter, softer, more like the person you thought I was—  
+I'll be quieter, softer, more like the person you thought I was-  
 if it means I don't have to let you go, if it means I don't have to face  
 the silence of being completely, truly alone.  
 
@@ -100,7 +100,7 @@ Please, stay here, let me hold this last thread
 while everything else unravels.  
 I know the weight I carry spills onto your shoulders,  
 it's too much, too often, I know.  
-But you—  
+But you-  
 you are the only one who sees,  
 even as you turn your face away.  
 
