@@ -31,7 +31,7 @@ the one place I don't feel like a burden, the last piece of light \\
 in a life that's just rooms filled with silence. I swear I won't be this way forever. \\
 I just need you not to leave, to stay, even if it's only out of kindness— \\
 even if it's only until I learn not to need you to breathe. \\
-\end{verse} 
+\end{verse}
 
 ### Free Verse, Version 2
 
