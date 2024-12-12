@@ -5,11 +5,11 @@
 
 #### I Swear
 
-I swear, I'll do anything—no, really, anything you ask, 
-if it keeps you here just a little longer, just one more night. 
-I'll hold back every word, every ache that spills out without asking, 
-swallow down this loneliness that swells, desperate to be seen. 
-I know I wear you down, cling too tight, let my sadness spill over, 
+I swear, I'll do anything—no, really, anything you ask,     
+if it keeps you here just a little longer, just one more night.     
+I'll hold back every word, every ache that spills out without asking,       
+swallow down this loneliness that swells, desperate to be seen.     
+I know I wear you down, cling too tight, let my sadness spill over,     
 but I've never learned how to be alone without disappearing, 
 never learned how to stand without someone to hold me up. 
 
