@@ -7,17 +7,17 @@ Here is a collection of poems I have written about swearing (especially habitual
 
 #### Hard Edges
 
-I was taught early,
-like every child, that swearing was wrong,
-"Never let those words touch your tongue,"
-they said, voices sweet, soft,
-like the lull of bedtime stories.
-I learned the script well:
-Say "please," say "thank you,"
-and never, ever let a curse slip out.
+I was taught early,  
+like every child, that swearing was wrong,  
+"Never let those words touch your tongue,"  
+they said, voices sweet, soft,  
+like the lull of bedtime stories.  
+I learned the script well:  
+Say "please," say "thank you,"  
+and never, ever let a curse slip out.  
 
-But now, after years of hearing the world hum
-with the rhythm of proper speech,
+But now, after years of hearing the world hum  
+with the rhythm of proper speech,  
 I find truth more often in the raw edges
 of those who spit fire from their mouths.
 Their words, jagged and crude,
