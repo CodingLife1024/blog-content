@@ -27,7 +27,6 @@
 | &#x2705; | Mom | 2017 | &#11088; &#11088; |
 | &#x2705; | The VVitch | 2015 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Lighthouse | 2019 |  |
-| &#x2B1C; | Serial Experiments Lain | 1999 |  |
 | &#x2B1C; | Paranoia Agent | 2004 |  |
 | &#x2B1C; | Kite | 1998 |  |
 | &#x2705; | Soft & Quiet | 2022 | &#11088; &#11088; |
@@ -56,7 +55,7 @@
 |          | Series Name | Year Running | My Rating |
 |----------|-------------|--------------|-----------|
 | &#x2705; | Criminal Minds | 2005 - 2021 | &#11088; &#11088; &#11088; |
-| &#x2B1C; | Money Heist | 2017 - 2021 |  |
+| &#x23f8; | Money Heist | 2017 - 2021 |  |
 | &#x2B1C; | Anne with an E | 2017 - 2020 |  |
 | &#x2705; | Dublin Murders | 2019 | &#11088; &#11088; |
 | &#x23f8; | Lie to Me | 2009 - 2011 | &#11088; |
@@ -85,3 +84,4 @@
 | &#x2B1C; | Servant | 2019 -  |  |
 | &#x2B1C; | Channel Zero | 2016 - 2018 |  |
 | &#x2B1C; | Fortitude | 2015 - 2018 |  |
+| &#x23f8; | Serial Experiments Lain | 1999 |  |
