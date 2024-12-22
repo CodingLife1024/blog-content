@@ -1,6 +1,10 @@
 # AI Art: Experiences and Controversies
 __04/04/2024__
 
+$
+\sigma = \sqrt{\frac{1}{T} \sum_{t=1}^{T} (r_t - \bar{r})^2}
+$
+
 About a year ago, I almost completely gave up sketching. It seemed to take too much time and a lot of my time was spent in thinking of things to sketch while not actively sketching. Then came the added guilt of not finishing a sketch fast enough or doing it too long. Art is something to be enjoyed, not something to be done like a duty. The last time I actively sketched was in October 2022 (for Inktober'22). I do not remember the last time I sketched. 
 
 I discovered AI art about that time. Initially I used Nightcafe, then started using Leonardo AI as well. Some platforms use Generative Adversarial Networks (GANs), a type of AI architecture capable of producing realistic images by pitting two neural networks against each other. Others employed style transfer techniques, enabling the transformation of ordinary images into works of art inspired by renowned artists or artistic styles.
