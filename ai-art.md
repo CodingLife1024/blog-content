@@ -1,5 +1,5 @@
 # AI Art: Experiences and Controversies
-__04/04/2024__
+## 04/04/2024
 
 $
 \sigma = \sqrt{\frac{1}{T} \sum_{t=1}^{T} (r_t - \bar{r})^2}
