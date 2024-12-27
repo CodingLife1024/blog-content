@@ -99,12 +99,6 @@ Theta measures the sensitivity of the option price to the passage of time.
 
 - **Effect on Option Pricing**: Short-dated options have higher Theta compared to long-dated options, as the time decay accelerates as the expiration date nears.
 
-##### Additional Information:
-
-- **Volatility Sensitivity**: Vega measures the sensitivity of an option's price to changes in the volatility of the underlying asset. It is highest for at-the-money options and decreases as the option moves in- or out-of-the-money.
-
-- **Impact of Volatility**: High Vega indicates that the option's price is highly sensitive to changes in volatility. In markets with high volatility, options with high Vega can experience significant price changes even if the underlying asset's price remains stable.
-
 #### 4. Vega ($\nu$)
 
 **Formula:**
@@ -126,9 +120,9 @@ Vega measures the sensitivity of the option price to changes in the volatility o
 
 ##### Additional Information:
 
-- **Interest Rate Sensitivity**: Rho measures the sensitivity of an option's price to changes in the risk-free interest rate. It is generally more significant for long-term options, where the impact of interest rate changes on the present value of the strike price is more pronounced.
+- **Volatility Sensitivity**: Vega measures the sensitivity of an option's price to changes in the volatility of the underlying asset. It is highest for at-the-money options and decreases as the option moves in- or out-of-the-money.
 
-- **Call vs. Put Rho**: For call options, Rho is positive, indicating that an increase in interest rates will increase the option's price. For put options, Rho is negative, meaning an increase in interest rates will decrease the option's price.
+- **Impact of Volatility**: High Vega indicates that the option's price is highly sensitive to changes in volatility. In markets with high volatility, options with high Vega can experience significant price changes even if the underlying asset's price remains stable.
 
 #### 5. Rho ($\rho$)
 
@@ -147,3 +141,9 @@ Rho measures the sensitivity of the option price to changes in the risk-free int
   \rho = \frac{\partial C}{\partial r} = K T e^{-r T} N(d_2)
   $$
   - Derive $d_2$ as previously mentioned.
+
+##### Additional Information:
+
+- **Interest Rate Sensitivity**: Rho measures the sensitivity of an option's price to changes in the risk-free interest rate. It is generally more significant for long-term options, where the impact of interest rate changes on the present value of the strike price is more pronounced.
+
+- **Call vs. Put Rho**: For call options, Rho is positive, indicating that an increase in interest rates will increase the option's price. For put options, Rho is negative, meaning an increase in interest rates will decrease the option's price.
