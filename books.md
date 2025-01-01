@@ -8,7 +8,7 @@
 | &#x23F8; | She Devils | 1996 | Anne McDuff |  |
 | &#x2B1C; | Carmilla | 1897 | Sheridan Le Fanu |  |
 | &#x2B1C; | My Year of Rest and Relaxation | 2018 | Ottessa Moshfegh |  |
-| &#x2B1C; | Naked Economics | 2013 | Charles WheelanBurton G. Malkiel |  |
+| &#x2B1C; | Naked Economics | 2013 | Charles Wheelan\nBurton G. Malkiel |  |
 | &#x2B1C; | Freakonomics | 2005 | Steven D. Levitt, Stephen J. Dubner |  |
 | &#x2B1C; | Sapiens | 2011 | Yuval Noah Harari |  |
 
