@@ -1,3 +1,49 @@
+# Watchlist for 2025
+
+## Movies
+
+|          | Movie Name | Year of Release | My Rating | 
+|----------|------------|-----------------|-----------|
+| &#x2B1C; | The Green Mile | 1999 |  |
+| &#x2B1C; | Dune | 2021 |  |
+| &#x2B1C; | Dune Part two | 2024 |  |
+| &#x2B1C; | The Scent of a Woman | 1992 | |
+| &#x2B1C; | The Lighthouse | 2019 |  |
+| &#x2B1C; | Paranoia Agent | 2004 |  |
+| &#x2B1C; | Kite | 1998 |  |
+| &#x2B1C; | Perfect Blue | 1997 |  |
+| &#x2B1C; | Badhaai Do | 2022 |  |
+| &#x2B1C; | The Thing | 1982 |  |
+| &#x2B1C; | Annihilation | 2018 |  |
+| &#x2B1C; | Paths of Glory | 1957 |  |
+| &#x2B1C; | Schindller's List | 1993 |  |
+| &#x2B1C; | Innocence | 2004 |  |
+| &#x2B1C; | Incendies | 2010 |  |
+
+## Series
+
+|          | Series Name | Year Running | My Rating |
+|----------|-------------|--------------|-----------|
+| &#x23f8; | Money Heist | 2017 - 2021 |  |
+| &#x2B1C; | Anne with an E | 2017 - 2020 |  |
+| &#x2B1C; | Marianne | 2019 |  |
+| &#x2B1C; | The Outsider | 2020 |  |
+| &#x2B1C; | The Sinner | 2017 - 2021 |  |
+| &#x2B1C; | Hannibal | 2013 - 2015 |  |
+| &#x2B1C; | The Witcher | 2019 -  |  |
+| &#x2B1C; | Bates Motel | 2013 - 2017 |  |
+| &#x2B1C; | Sharp Objects | 2018 |  |
+| &#x2B1C; | True Detective | 2014 -  |  |
+| &#x2B1C; | The Terror | 2018 - 2019 |  |
+| &#x2B1C; | The Leftovers | 2014 - 2017 |  |
+| &#x23f8; | Black Mirror | 2011 -  |  |
+| &#x2B1C; | The Exorcist | 2016 - 2017 |  |
+| &#x2B1C; | Stranger Things | 2016 -  |  |
+| &#x2B1C; | Servant | 2019 -  |  |
+| &#x2B1C; | Channel Zero | 2016 - 2018 |  |
+| &#x2B1C; | Fortitude | 2015 - 2018 |  |
+| &#x23f8; | Serial Experiments Lain | 1999 |  |
+
 # Watchlist for 2024
 
 ## Movies
@@ -45,7 +91,7 @@
 | &#x2705; | Jojo Rabbit | 2019 | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Martyrs | 2008 | &#11088; &#11088; &#11088; |
 | &#x2705; | Lanke Mungo | 2008 | &#11088; &#11088; &#11088; &#11088; |
-| &#x2B1C; | Raazi | 2018 |  |
+| &#x2705; | Raazi | 2018 | &#11088; &#11088; &#11088; |
 | &#x2705; | Interstellar | 2014 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | Innocence | 2004 |  |
 | &#x2B1C; | Incendies | 2010 |  |
