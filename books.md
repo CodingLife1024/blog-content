@@ -10,6 +10,7 @@
 | &#x2B1C; | My Year of Rest and Relaxation | 2018 | Ottessa Moshfegh |  |
 | &#x2B1C; | Naked Economics | 2013 | Charles Wheelan, Burton G. Malkiel |  |
 | &#x2B1C; | Freakonomics | 2005 | Steven D. Levitt, Stephen J. Dubner |  |
+| &#x2B1C; | White Nights | 1848 | Fyodor Dostoevsky |
 | &#x2B1C; | Sapiens | 2011 | Yuval Noah Harari |  |
 
 
