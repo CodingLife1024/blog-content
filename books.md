@@ -1,3 +1,14 @@
+# Books for 2025
+
+|          | Book Name | Year of Release | Author | My Rating |
+|----------|-----------|-----------------|--------|-----------|
+| &#x2B1C; | Carmilla | 1897 | Sheridan Le Fanu |  |
+| &#x2B1C; | My Year of Rest and Relaxation | 2018 | Ottessa Moshfegh |  |
+| &#x2B1C; | Naked Economics | 2013 | Charles WheelanBurton G. Malkiel |  |
+| &#x2B1C; | Freakonomics | 2005 | Steven D. Levitt, Stephen J. Dubner |  |
+| &#x2B1C; | Sapiens | 2011 | Yuval Noah Harari |  |
+
+
 # Books for 2024
 
 |          | Book Name | Year of Release | Author | My Rating |
@@ -14,5 +25,5 @@
 | &#x2B1C; | Naked Economics | 2013 | Charles WheelanBurton G. Malkiel |  |
 | &#x2B1C; | Freakonomics | 2005 | Steven D. Levitt, Stephen J. Dubner |  |
 | &#x2B1C; | Sapiens | 2011 | Yuval Noah Harari |  |
-| &#x23F8; | Reminders of Him | 2022 | Colleen Hoover |  |
+| &#x2705; | Reminders of Him | 2022 | Colleen Hoover | &#11088; &#11088; &#11088; |
 | &#x2705; | Verity | 2021 | Colleen Hoover | &#11088; &#11088; |
