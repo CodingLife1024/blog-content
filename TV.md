@@ -19,7 +19,7 @@
 
 ## Series
 
-|          | Series Name | Year Running | My Rating |
+|          | Series Name | Years Running | My Rating |
 |----------|-------------|--------------|-----------|
 | &#x23f8; | Money Heist | 2017 - 2021 |  |
 | &#x2B1C; | Anne with an E | 2017 - 2020 |  |
@@ -42,7 +42,7 @@
 
 ## Anime
 
-|          | Anime Name | Year Running | My Rating |
+|          | Anime Name | Years Running | My Rating |
 |----------|-------------|--------------|-----------|
 | &#x2705; | Serial Experiments Lain | 1999 | &#11088; &#11088; &#11088; |
 | &#x2705; | Ghost in the Shell | 1995 | &#11088; &#11088; &#11088; &#11088; |
@@ -104,7 +104,7 @@
 
 ## Series
 
-|          | Series Name | Year Running | My Rating |
+|          | Series Name | Years Running | My Rating |
 |----------|-------------|--------------|-----------|
 | &#x2705; | Criminal Minds | 2005 - 2021 | &#11088; &#11088; &#11088; |
 | &#x23f8; | Money Heist | 2017 - 2021 |  |
