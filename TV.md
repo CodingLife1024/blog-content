@@ -9,9 +9,6 @@
 | &#x2B1C; | Dune Part two | 2024 |  |
 | &#x2B1C; | The Scent of a Woman | 1992 | |
 | &#x2B1C; | The Lighthouse | 2019 |  |
-| &#x2B1C; | Paranoia Agent | 2004 |  |
-| &#x2B1C; | Kite | 1998 |  |
-| &#x2B1C; | Perfect Blue | 1997 |  |
 | &#x2B1C; | Badhaai Do | 2022 |  |
 | &#x2B1C; | The Thing | 1982 |  |
 | &#x2B1C; | Annihilation | 2018 |  |
@@ -42,7 +39,16 @@
 | &#x2B1C; | Servant | 2019 -  |  |
 | &#x2B1C; | Channel Zero | 2016 - 2018 |  |
 | &#x2B1C; | Fortitude | 2015 - 2018 |  |
-| &#x23f8; | Serial Experiments Lain | 1999 |  |
+
+## Anime
+
+|          | Anime Name | Year Running | My Rating |
+|----------|-------------|--------------|-----------|
+| &#x2705; | Serial Experiments Lain | 1999 | &#11088; &#11088; &#11088; |
+| &#x2705; | Ghost in the Shell | 1995 | &#11088; &#11088; &#11088; &#11088; |
+| &#x2B1C; | Paranoia Agent | 2004 |  |
+| &#x2B1C; | Kite | 1998 |  |
+| &#x2B1C; | Perfect Blue | 1997 |  |
 
 # Watchlist for 2024
 
