@@ -11,7 +11,7 @@
 | &#x2B1C; | Naked Economics | 2013 | Charles Wheelan, Burton G. Malkiel |  |
 | &#x2B1C; | Freakonomics | 2005 | Steven D. Levitt, Stephen J. Dubner |  |
 | &#x2B1C; | White Nights | 1848 | Fyodor Dostoevsky |
-| &#x2B1C; | Sapiens | 2011 | Yuval Noah Harari |  |
+| &#x23F8; | Sapiens | 2011 | Yuval Noah Harari |  |
 
 
 # Books for 2024
