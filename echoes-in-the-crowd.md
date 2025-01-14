@@ -1,4 +1,4 @@
-# Echoes in the Crowd: A Journey Through Solitude
+# Echoes in the Crowd: On Solitude and Belonging
 ## 14/01/2025
 
 ### The Nameless Traveler
