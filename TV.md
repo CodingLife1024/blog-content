@@ -49,6 +49,7 @@
 | &#x2B1C; | Paranoia Agent | 2004 |  |
 | &#x2B1C; | Kite | 1998 |  |
 | &#x2B1C; | Perfect Blue | 1997 |  |
+| &#x23f8; | Hunter x Hunter | 2011 - 2014 |  |
 
 # Watchlist for 2024
 
