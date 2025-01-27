@@ -50,7 +50,7 @@
 | &#x2B1C; | Kite | 1998 |  |
 | &#x2B1C; | Perfect Blue | 1997 |  |
 | &#x23f8; | Hunter x Hunter | 2011 - 2014 |  |
-| &#x2B1C; | Berserk | 1997 |  |
+| &#x2B1C; | Berserk | 2016 - 2017 |  |
 | &#x2B1C; | Jujutsu Kaisen | 2020 - 2024 |  |
 | &#x2B1C; | Naruto Shippuden  | 2007 - 2017 |  |
 | &#x2B1C; | Steins;Gate | 2011 - 2015 |  |
