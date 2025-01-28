@@ -55,6 +55,8 @@
 | &#x2B1C; | Naruto Shippuden  | 2007 - 2017 |  |
 | &#x2B1C; | Steins;Gate | 2011 - 2015 |  |
 | &#x23f8; | Attack on Titan | 2013 - 2023 |  |
+| &#x2B1C; | One Piece  | 1999 - |  |
+| &#x2B1C; | JoJo's Bizarre Adventure | 2012 - |  |
 
 # Watchlist for 2024
 
