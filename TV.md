@@ -16,7 +16,7 @@
 | &#x2B1C; | Paths of Glory | 1957 |  |
 | &#x2B1C; | Schindller's List | 1993 |  |
 | &#x2B1C; | Innocence | 2004 |  |
-| &#x2B1C; | Incendies | 2010 |  |
+| &#x2705; | Incendies | 2010 | &#11088; &#11088; &#11088; &#11088; &#11088; |
 
 ## Series
 
