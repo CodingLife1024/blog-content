@@ -56,7 +56,7 @@
 | &#x2B1C; | Jujutsu Kaisen | 2020 - 2024 |  |
 | &#x2B1C; | Naruto Shippuden  | 2007 - 2017 |  |
 | &#x2B1C; | Steins;Gate | 2011 - 2015 |  |
-| &#x23f8; | Attack on Titan | 2013 - 2023 |  |
+| &#x2705; | Attack on Titan | 2013 - 2023 | &#11088; &#11088; &#11088; |
 | &#x2B1C; | One Piece  | 1999 - |  |
 | &#x2B1C; | JoJo's Bizarre Adventure | 2012 - |  |
 
