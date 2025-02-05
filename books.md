@@ -13,7 +13,7 @@
 | &#x2B1C; | White Nights | 1848 | Fyodor Dostoevsky |
 | &#x23F8; | Sapiens | 2011 | Yuval Noah Harari |  |
 | &#x2705; | Blandings Castle | 1935 | P. G. Wodehouse | &#11088; &#11088; &#11088; &#11088; |
-
+| &#x2705; | The Meiji Guillotine Murders | 2024 | Futaro Yamada | &#11088; &#11088; &#11088; |
 
 # Books for 2024
 
