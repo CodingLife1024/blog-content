@@ -5,16 +5,16 @@
 | &#x2705; | Days at the Morisaki Bookshop | 2023 | Satoshi Yagisawa | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | More Days at the Morisaki Bookshop | 2024 | Satoshi Yagisawa | &#11088; &#11088; &#11088; |
 | &#x2705; | Cities Rethought | 2024 | Gautam Bhan, Michael Keith, Susan Powell, Edgar Pieterse | &#11088; &#11088; &#11088; &#11088; |
-| &#x23F8; | She Devils | 1996 | Anne McDuff |  |
+| &#x23F8; | She Devils | 1996 | Anne McDuff | <p><progress value="40" max="100"></progress>40%</p> |
 | &#x2B1C; | Carmilla | 1897 | Sheridan Le Fanu |  |
 | &#x2B1C; | My Year of Rest and Relaxation | 2018 | Ottessa Moshfegh |  |
 | &#x2B1C; | Naked Economics | 2013 | Charles Wheelan, Burton G. Malkiel |  |
 | &#x2B1C; | Freakonomics | 2005 | Steven D. Levitt, Stephen J. Dubner |  |
 | &#x2B1C; | White Nights | 1848 | Fyodor Dostoevsky |
-| &#x23F8; | Sapiens | 2011 | Yuval Noah Harari |  |
+| &#x23F8; | Sapiens | 2011 | Yuval Noah Harari | <p><progress value="5" max="100"></progress>5%</p> |
 | &#x2705; | Blandings Castle | 1935 | P. G. Wodehouse | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Meiji Guillotine Murders | 2024 | Futaro Yamada | &#11088; &#11088; |
-| &#x23F8; | Kafka on the Shore | 2002 | Haruki Murakami |  |
+| &#x23F8; | Kafka on the Shore | 2002 | Haruki Murakami | <p><progress value="30" max="100"></progress>30%</p> |
 
 # Books for 2024
 
