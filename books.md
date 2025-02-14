@@ -14,9 +14,22 @@
 | &#x23F8; | Sapiens | 2011 | Yuval Noah Harari | <p><progress value="5" max="100"></progress>5%</p> |
 | &#x2705; | Blandings Castle | 1935 | P. G. Wodehouse | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Meiji Guillotine Murders | 2024 | Futaro Yamada | &#11088; &#11088; |
+| &#x23F8; | A Good Girl's Guide to Murder | 2019 | Holly Jackson | <p><progress value="10" max="100"></progress>10%</p> |
 | &#x2705; | Kafka on the Shore | 2002 | Haruki Murakami | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | Norwegian Wood | 1987 | Haruki Murakami |  |
-| &#x23F8; | A Good Girl's Guide to Murder | 2019 | Holly Jackson | <p><progress value="10" max="100"></progress>10%</p> |
+| &#x2B1C; | Hear the Wind Sing | 1979 | Haruki Murakami |  |
+| &#x2B1C; | Pinball, 1973 | 1980 | Haruki Murakami |  |
+| &#x2B1C; | A Wild Sheep Chase | 1982 | Haruki Murakami |  |
+| &#x2B1C; | Hard-Boiled Wonderland and the End of the World | 1985 | Haruki Murakami |  |
+| &#x2B1C; | Dance Dance Dance | 1988 | Haruki Murakami |  |
+| &#x2B1C; | South of the Border, West of the Sun | 1992 | Haruki Murakami |  |
+| &#x2B1C; | The Wind-Up Bird Chronicle | 1994 | Haruki Murakami |  |
+| &#x2B1C; | Sputnik Sweetheart | 1999 | Haruki Murakami |  |
+| &#x2B1C; | After Dark | 2004 | Haruki Murakami |  |
+| &#x2B1C; | 1Q84 | 2009 | Haruki Murakami |  |
+| &#x2B1C; | Colorless Tsukuru Tazaki and His Years of Pilgrimage | 2013 | Haruki Murakami |  |
+| &#x2B1C; | Killing Commendatore | 2017 | Haruki Murakami |  |
+| &#x2B1C; | The City and Its Uncertain Walls | 2023 | Haruki Murakami |  |
 
 # Books for 2024
 
