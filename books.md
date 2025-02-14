@@ -23,7 +23,7 @@
 |          | Book Name | Year of Release | Author | My Rating |
 |----------|-----------|-----------------|--------|-----------|
 | &#x2705; | A Game of Thrones | 1996 | George R R Martin | &#11088; &#11088; &#11088; |
-| &#x23F8; | A Clash of Kings | 1998 | George R R Martin | &#11088; |
+| &#x2705; | A Clash of Kings | 1998 | George R R Martin | &#11088; |
 | &#x2B1C; | A Storm of Swords | 2000 | George R R Martin |  |
 | &#x2B1C; | A Feast for Crows | 2005 | George R R Martin |  |
 | &#x2B1C; | A Dance with Dragons | 2011 | George R R Martin |  |
