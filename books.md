@@ -14,7 +14,7 @@
 | &#x23F8; | Sapiens | 2011 | Yuval Noah Harari | <p><progress value="5" max="100"></progress>5%</p> |
 | &#x2705; | Blandings Castle | 1935 | P. G. Wodehouse | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Meiji Guillotine Murders | 2024 | Futaro Yamada | &#11088; &#11088; |
-| &#x23F8; | Kafka on the Shore | 2002 | Haruki Murakami | <p><progress value="30" max="100"></progress>30%</p> |
+| &#x2705; | Kafka on the Shore | 2002 | Haruki Murakami | &#11088; &#11088; &#11088; &#11088; &#11088; |
 
 # Books for 2024
 
