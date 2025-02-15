@@ -14,7 +14,7 @@
 | &#x23F8; | Sapiens | 2011 | Yuval Noah Harari | <p><progress value="5" max="100"></progress>5%</p> |
 | &#x2705; | Blandings Castle | 1935 | P. G. Wodehouse | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Meiji Guillotine Murders | 2024 | Futaro Yamada | &#11088; &#11088; |
-| &#x23F8; | A Good Girl's Guide to Murder | 2019 | Holly Jackson | <p><progress value="10" max="100"></progress>10%</p> |
+| &#x23F8; | A Good Girl's Guide to Murder | 2019 | Holly Jackson | <p><progress value="20" max="100"></progress>20%</p> |
 | &#x2705; | Kafka on the Shore | 2002 | Haruki Murakami | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | Norwegian Wood | 1987 | Haruki Murakami |  |
 | &#x2B1C; | Hear the Wind Sing | 1979 | Haruki Murakami |  |
