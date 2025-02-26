@@ -47,6 +47,7 @@
 | &#x2B1C; | Servant | 2019 -  |  |
 | &#x2B1C; | Channel Zero | 2016 - 2018 |  |
 | &#x2B1C; | Fortitude | 2015 - 2018 |  |
+| &#x2705; | The Whispers | 2015 | &#11088; &#11088; &#11088; |
 
 ## Anime
 
