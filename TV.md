@@ -30,7 +30,7 @@
 |          | Series Name | Years Running | My Rating |
 |----------|-------------|---------------|-----------|
 | &#x23f8; | Money Heist | 2017 - 2021 |  |
-| &#x23f8; | Anne with an E | 2017 - 2020 |  |
+| &#x2705; | Anne with an E | 2017 - 2020 | &#11088; &#11088; |
 | &#x2B1C; | Marianne | 2019 |  |
 | &#x2B1C; | The Outsider | 2020 |  |
 | &#x2B1C; | The Sinner | 2017 - 2021 |  |
