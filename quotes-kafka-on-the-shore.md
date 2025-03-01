@@ -1,4 +1,4 @@
-# Notes: Kafka on the Shore
+# Quotes: Kafka on the Shore
 ## 02/03/2025
 
 ```
