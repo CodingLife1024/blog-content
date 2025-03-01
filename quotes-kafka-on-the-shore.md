@@ -14,3 +14,5 @@
 "There are a lot of things that aren't your fault. Or mine, either. Not the fault of prophecies, or curses, or DNA, or absurdity. Not the fault of Structuralism or the Third Industrial Revolution. We all die and disappear, but that's because the mechanism of the world itself is built on destruction and loss. Our lives are just shadows of that guiding principle."
 
 "Things outside you are projections of what's inside you, and what's inside you is a projection of what's outside. So when you step into the labyrinth outside you, at the same time you're stepping into the labyrinth inside."
+
+![Kafka on the Shore](https://github.com/CodingLife1024/blog-content/blob/main/images/kafka.png?raw=true)
