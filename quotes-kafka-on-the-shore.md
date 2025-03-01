@@ -8,3 +8,9 @@
 "And once the storm is over, you won't remember how you made it through, how you managed to survive. You won't even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won't be the same person who walked in. That's what this storm's all about."
 
 "Happiness is an allegory, unhappiness a story."
+
+"Kafka,in everybody's life there's a point of no return. And in very few cases, a point where you can't go forward any more. And when we reach that point, all we can do s quietly accept the fact. That's how we survive."
+
+"There are a lot of things that aren't your fault. Or mine, either. Not the fault of prophecies, or curses, or DNA, or absurdity. Not the fault of Structuralism or the Third Industrial Revolution. We all die and disappear, but that's because the mechanism of the world itself is built on destruction and loss. Our lives are just shadows of that guiding principle."
+
+"Things outside you are projections of what's inside you, and what's inside you is a projection of what's outside. So when you step into the labyrinth outside you, at the same time you're stepping into the labyrinth inside."
