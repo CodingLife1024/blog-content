@@ -7,7 +7,7 @@
 | &#x2B1C; | The Green Mile | 1999 | Frank Darabont |  |
 | &#x2B1C; | Dune | 2021 | Denis Villeneuve |  |
 | &#x2705; | Howl's Moving Castle | 2004 | Hayao Miyazaki | &#11088; &#11088; &#11088; &#11088; |
-| &#x2705; | From Up on Poppy Hill | 2011 | Gorō Miyazaki | &#11088; &#11088; &#11088; &#11088; |
+| &#x2705; | From Up on Poppy Hill | 2011 | Goro Miyazaki | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | Dune Part Two | 2024 | Denis Villeneuve |  |
 | &#x2B1C; | The Scent of a Woman | 1992 | Martin Brest |  |
 | &#x2705; | The Lighthouse | 2019 | Robert Eggers | &#11088; |
@@ -16,10 +16,10 @@
 | &#x2B1C; | Annihilation | 2018 | Alex Garland |  |
 | &#x2B1C; | Paths of Glory | 1957 | Stanley Kubrick |  |
 | &#x2B1C; | Schindler's List | 1993 | Steven Spielberg |  |
-| &#x2B1C; | Innocence | 2004 | Lucile Hadžihalilović |  |
+| &#x2B1C; | Innocence | 2004 | Lucile Hadžihalilovic |  |
 | &#x2705; | Incendies | 2010 | Denis Villeneuve | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Ocean Waves | 1993 | Tomomi Mochizuki | &#11088; &#11088; &#11088; |
-| &#x2705; | Whisper of the Heart | 1995 | Yoshifumi Kondō | &#11088; &#11088; |
+| &#x2705; | Whisper of the Heart | 1995 | Yoshifumi Kondo | &#11088; &#11088; |
 | &#x2705; | Mrs. Chatterjee Vs Norway | 2023 | Ashima Chibber | &#11088; &#11088; |
 | &#x2705; | Bottoms | 2023 | Emma Seligman | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Caddo Lake | 2024 | Celine Held, Logan George | &#11088; &#11088; &#11088; &#11088; &#11088; |
