@@ -16,7 +16,7 @@
 | &#x2B1C; | Annihilation | 2018 | Alex Garland |  |
 | &#x2B1C; | Paths of Glory | 1957 | Stanley Kubrick |  |
 | &#x2B1C; | Schindler's List | 1993 | Steven Spielberg |  |
-| &#x2B1C; | Innocence | 2004 | Lucile Hadžihalilovic |  |
+| &#x2B1C; | Innocence | 2004 | Lucile Hadzihalilovic |  |
 | &#x2705; | Incendies | 2010 | Denis Villeneuve | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Ocean Waves | 1993 | Tomomi Mochizuki | &#11088; &#11088; &#11088; |
 | &#x2705; | Whisper of the Heart | 1995 | Yoshifumi Kondo | &#11088; &#11088; |
