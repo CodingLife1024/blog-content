@@ -30,6 +30,7 @@
 | &#x2B1C; | Colorless Tsukuru Tazaki and His Years of Pilgrimage | 2013 | Haruki Murakami |  |
 | &#x2B1C; | Killing Commendatore | 2017 | Haruki Murakami |  |
 | &#x2B1C; | The City and Its Uncertain Walls | 2023 | Haruki Murakami |  |
+| &#x2B1C; | Coraline | 2002 | Neil Gaiman |  |
 
 # Books for 2024
 
