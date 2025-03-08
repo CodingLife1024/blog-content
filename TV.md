@@ -49,6 +49,8 @@
 | &#x2B1C; | Channel Zero | 2016 - 2018 |  |
 | &#x2B1C; | Fortitude | 2015 - 2018 |  |
 | &#x2705; | The Whispers | 2015 | &#11088; &#11088; &#11088; |
+| &#x23f8; | Derry Girls | 2018 - 2022 |  |
+| &#x23f8; | American Gods | 2017 - 2021 |  |
 
 ## Anime
 
