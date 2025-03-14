@@ -16,7 +16,7 @@
 | &#x2705; | The Meiji Guillotine Murders | 2024 | Futaro Yamada | &#11088; &#11088; |
 | &#x2705; | A Good Girl's Guide to Murder | 2019 | Holly Jackson | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Kafka on the Shore | 2002 | Haruki Murakami | &#11088; &#11088; &#11088; &#11088; &#11088; |
-| &#x23F8; | Norwegian Wood | 1987 | Haruki Murakami | <p><progress value="50" max="100"></progress>50%</p> |
+| &#x23F8; | Norwegian Wood | 1987 | Haruki Murakami | <p><progress value="57" max="100"></progress>57%</p> |
 | &#x2B1C; | Hear the Wind Sing | 1979 | Haruki Murakami |  |
 | &#x2B1C; | Pinball, 1973 | 1980 | Haruki Murakami |  |
 | &#x2B1C; | A Wild Sheep Chase | 1982 | Haruki Murakami |  |
