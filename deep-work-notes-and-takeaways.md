@@ -36,3 +36,14 @@ This approach is not for the deep work novice. As I established in the opening t
 #### 2. Ritualize
 
 This strategy suggests the following: To make the most out of your deep work sessions, build rituals of the a level of strictness and idiosyncrasy. There's a good reason for this mimicry. Great minds did so because success in their work depended on their ability to go deep, again and again. Their rituals minimized the friction in this transition to depth, allowing them to go deep more easily and stay in the state longer. If they had instead waited for inspiration to strike before settling in to serious work, their accomplishments would likely have been greatly reduced.
+
+There are some general questions that any effective ritual must address: 
+
+1. **Where you'll work and for how long** - Your ritual needs to specify a location for your deep work efforts.
+
+2. **How you'll work once you start to work** - Your ritual needs rules and processes to keep your efforts structured. For example, you might institute a ban on any Internet use, or maintain a metric such as words produced per twenty-minute interval to keep your concentration honed. Without this structure, you'll have to mentally litigate again and again what you should and should not be doing during these sessions and keep trying to assess whether you're working sufficiently hard. These are unnecessary drains on your willpower reserves.
+
+3. **How you'll support your work** - Your ritual needs to ensure your brain gets the support it needs to keep operating at a high level of depth. For example, the ritual might specify that you start with a cup of coffee.
+
+#### 3. Make Grand Gestures
+
