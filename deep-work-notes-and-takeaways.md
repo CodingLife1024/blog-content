@@ -35,3 +35,4 @@ This approach is not for the deep work novice. As I established in the opening t
 
 #### 2. Ritualize
 
+This strategy suggests the following: To make the most out of your deep work sessions, build rituals of the a level of strictness and idiosyncrasy. There's a good reason for this mimicry. Great minds did so because success in their work depended on their ability to go deep, again and again. Their rituals minimized the friction in this transition to depth, allowing them to go deep more easily and stay in the state longer. If they had instead waited for inspiration to strike before settling in to serious work, their accomplishments would likely have been greatly reduced.
