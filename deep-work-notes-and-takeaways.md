@@ -73,7 +73,7 @@ The 4DX framework is based on the fundamental premise that execution is more dif
 
 "_Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as vitamin D is to the body, and deprived of it we suffer a mental affliction as disfiguring as rickets...it is, paradoxically, necessary to getting any work done._"
 
-This strategy argues that you should inject regular and substantial freedom from professional concerns into your day, providing you with the idleness paradoxically required to get (deep) work done. There are many ways to accomplish this goal. Instead, I want to suggest a more applicable but still quite powerful heuristic: At the end of the workday, shut down your consideration of work issues until the next morning—no after-dinner e-mail check, no mental replays of conversations, and no scheming about how you'll handle an upcoming challenge; shut down work thinking completely. If you need more time, then extend your workday, but once you shut down, your mind must be left free.
+This strategy argues that you should inject regular and substantial freedom from professional concerns into your day, providing you with the idleness paradoxically required to get (deep) work done. There are many ways to accomplish this goal. Instead, I want to suggest a more applicable but still quite powerful heuristic: At the end of the workday, shut down your consideration of work issues until the next morning - no after-dinner e-mail check, no mental replays of conversations, and no scheming about how you'll handle an upcoming challenge; shut down work thinking completely. If you need more time, then extend your workday, but once you shut down, your mind must be left free.
 
 <u>Reason #1: Downtime Aids Insights</u>
 
