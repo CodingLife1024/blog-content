@@ -1,0 +1,37 @@
+# Deep Work: My Takeaways
+## 19/03/2025
+
+As a final-year CSE student drowning in assignments, projects, and coursework, I keep feeling like I'm working all the time but not getting as much done as I should. That's why I picked up "Deep Work" by Cal Newport - to figure out how to get more out of my work hours so I can actually have some time for myself.
+
+### The Rules
+
+#### 1. Work Deeply
+
+"The key to developing a deep work habit is to move beyond good intentions and add _routines_ and _rituals_ to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration. If you suddenly decide, for example, in the middle of a distracted afternoon spent Web browsing, to switch your attention to a cognitively demanding task, you'll draw heavily from your finite willpower to wrest your attention away from the online shininess."
+
+##### 1. Decide on your Depth Philosophy
+
+1. **The Monsatic Philosophy of Deep Work Scheduling** - 
+
+This Philosophy attempts to mazimize deep efforts by eliminating or radically minimizing shallow obligations. This approach is best suited for those whose work thrives on long, uninterrupted stretches of deep focus, like writers, researchers, or theoretical scientists. This works for individuals who can work towards clear goals without other obligations that come with being a member of a larger organization.
+
+2. **The Bimodal Philosophy of Deep Work Scheduling** - 
+
+This philosophy asks that you divide your time, dedicating some clearly defined srtetches to deep pursuits and leaving the rest open to everything else. During the deep time, the bimodal worker will act monastically - seeking intense and uninterrupted concentration. During the shallow time, such focus is not prioritized.  The bimodal philosophy believes that deep work can produce extreme productivity, but only if the subject dedicates enough time to such endeavors to reach maximum cognitive intensity - the state in which real breakthroughs occur. This is why the minimum unit of time for deep work in this philosophy tends to be at least one full day. 
+
+3. **The Rhythmic Philosophy of Deep Work Scheduling** - 
+
+This philosophy argues that the easiest way to consistently start deep work sessions is to transform them into a simple regular habit. The goal, in other words, is to generate a rhythm for this work that removes the need for you to invest energy in deciding if and when you're going to go deep. The chain method is a good example of the rhythmic philosophy of deep work scheduling because it combines a simple scheduling heuristic (do the work every day), with an easy way to remind yourself to do the work: the big red Xs on the calendar.
+
+Another common way to implement the rhythmic philosophy is to replace the visual aid of the chain method with a set starting time that you use every day for deep work. In much the same way that maintaining visual indicators of your work progress can reduce the barrier to entry for going deep, eliminating even the simplest scheduling decisions, such as when during the day to do the work, also reduces this barrier.
+
+The rhythmic philosophy provides an interesting contrast to the bimodal philosophy. It perhaps fails to achieve the most intense levels of deep thinking sought in the daylong concentration sessions favored by the bimodalist. The trade - off, however, is that this approach works better with the reality of human nature. By supporting deep work with rock-solid routines that make sure a little bit gets done on a regular basis, the rhythmic scheduler will often log a larger total number of deep hours per year.
+
+4. **The Journalistic Philosophy of Deep Work Scheduling** - 
+
+This philosophy involves switching into deep work mode whenever possible, fitting focused sessions into a schedule filled with other obligations. It requires the ability to shift gears quickly and dive into cognitively demanding work, even in short bursts. This approach is inspired by journalists, who must produce high-quality writing on tight deadlines despite unpredictable schedules.
+
+This approach is not for the deep work novice. As I established in the opening to this rule, the ability to rapidly switch your mind from shallow to deep mode doesn't come naturally. Without practice, such switches can seriously deplete your finite willpower reserves. This habit also requires a sense of confidence in your abilities - a conviction that what you're doing is important and will succeed. This type of conviction is typically built on a foundation of existing professional accomplishment.
+
+#### 2. Ritualize
+
