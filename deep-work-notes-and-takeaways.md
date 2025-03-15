@@ -65,6 +65,8 @@ This division between what and how is crucial but is overlooked in the professio
 
 <u>Discipline #3: Keep a Compelling Scoreboard</u> - "People play differently when they're keeping score," the 4DX authors explain. They then elaborate that when attempting to drive your team's engagement toward your organization's wildly important goal, it's important that they have a public place to record and track their lead measures. This scoreboard creates a sense of competition that drives them to focus on these measures, even when other demands vie for their attention. It also provides a reinforcing source of motivation. 
 
-<u>Discipline #4: Create a Cadence of Accountability</u> - 
+<u>Discipline #4: Create a Cadence of Accountability</u> - The 4DX authors elaborate that the final step to help maintain a focus on lead measures is to put in place "a rhythm of regular and frequent meetings of any team that owns a wildly important goal." During these meetings, the team members must confront their scoreboard, commit to specific actions to help improve the score before the next meeting, and describe what happened with the commitments they made at the last meeting. They note that this review can be condensed to only a few minutes, but it must be regular for its effect to be felt. The authors argue that it's this discipline where "execution really happens." For an individual focused on his or her own deep work habit, there's likely no team to meet with, but this doesn't exempt you from the need for regular accountability. 
+
+The 4DX framework is based on the fundamental premise that execution is more difficult than strategizing. After hundreds and hundreds of case studies, its  managed to isolate a few basic disciplines that seem to work particularly well in conquering this difficulty. 
 
 #### 6. Be Lazy
