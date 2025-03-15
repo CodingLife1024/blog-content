@@ -73,7 +73,7 @@ The 4DX framework is based on the fundamental premise that execution is more dif
 
 "_Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as vitamin D is to the body, and deprived of it we suffer a mental affliction as disfiguring as rickets...it is, paradoxically, necessary to getting any work done._"
 
-This strategy argues that you should inject regular and substantial freedom from professional concerns into your day, providing you with the idleness paradoxically required to get (deep) work done. There are many ways to accomplish this goal. Instead, I want to suggest a more applicable but still quite powerful heuristic: At the end of the workday, shut down your consideration of work issues until the next morning - no after-dinner e-mail check, no mental replays of conversations, and no scheming about how you'll handle an upcoming challenge; shut down work thinking completely. If you need more time, then extend your workday, but once you shut down, your mind must be left free.
+This strategy argues that you should inject regular and substantial freedom from professional concerns into your day, providing you with the idleness paradoxically required to get (deep) work done. There are many ways to accomplish this goal. Instead, I want to suggest a more applicable but still quite powerful heuristic: At the end of the workday, shut down your consideration of work issues until the next morning - no after-dinner email check, no mental replays of conversations, and no scheming about how you'll handle an upcoming challenge; shut down work thinking completely. If you need more time, then extend your workday, but once you shut down, your mind must be left free.
 
 <u>Reason #1: Downtime Aids Insights</u>
 
@@ -85,4 +85,22 @@ A shutdown habit, therefore, is not necessarily reducing the amount of time you'
 
 <u>Reason #2: Downtime Helps Recharge the Energy Needed to Work Deeply</u> - 
 
-<u>Reason #3: Downtime Aids Insights</u>
+**Attention Restoration Theory (ART)** - This claims that spending time in nature can improve your ability to concentrate. To concentrate requires what ART calls directed attention. This resource is finite: If you exhaust it, you'll struggle to concentrate.
+
+Walking through nature, by contrast, exposes you to what lead author Marc Berman calls "inherently fascinating stimuli." Put another way, when walking through nature, you're freed from having to direct your attention, as there are few challenges to navigate, and experience enough interesting stimuli to keep your mind sufficiently occupied to avoid the need to actively aim your attention. This state allows your directed attention resources time to replenish. 
+
+What's important to our purpose is observing that the implications of ART expand beyond the benefits of nature. The core mechanism of this theory is the idea that you can restore your ability to direct your attention if you give this activity a rest. On the other hand, if you keep interrupting your evening to check and respond to email, or put aside a few hours after dinner to catch up on an approaching deadline, you're robbing your directed attention centers of the uninterrupted rest they need for restoration. Even if these work dashes consume only a small amount of time, they prevent you from reaching the levels of deeper relaxation in which attention restoration can occur. 
+
+<u>Reason #3: The Work That Evening Downtime Replaces Is Usually Not That Important</u> - Deliberate practice is the systematic stretching of your ability for a given skill. It is the activity required to get better at something. Deep work and deliberate practice overlap substantially.
+
+To succeed with this strategy, you must first accept the commitment that once your workday shuts down, you cannot allow even the smallest incursion of professional concerns into your field of attention. Another key commitment for succeeding with this strategy is to support your commitment to shutting down with a strict shutdown ritual that you use at the end of the workday to maximize the probability that you succeed. In more detail, this ritual should ensure that every incomplete task, goal, or project has been reviewed and that for each you have confirmed that either (1) you have a plan you trust for its completion, or (2) it's captured in a place where it will be revisited when the time is right. The process should be an algorithm: a series of steps you always conduct, one after another. 
+
+The Zeigarnik effect - describes the ability of incomplete tasks to dominate our attention. It tells us that if you simply stop whatever you are doing at five p.m. and declare, "I'm done with work until tomorrow," you'll likely struggle to keep your mind clear of professional issues, as the many obligations left unresolved in your mind will, as in Bluma Zeigarnik's experiments, keep battling for your attention throughout the evening (a battle that they'll often win).
+
+"Committing to a specific plan for a goal may therefore not only facilitate attainment of the goal but may also free cognitive resources for other pursuits."
+
+We could significantly reduce the effect's impact by asking the subjects, soon after the interruption, to make a plan for how they would later complete the incomplete task. 
+
+While it doesn't force you to explicitly identify a plan for every single task in your task list (a burdensome requirement), it does force you to capture every task in a common list, and then review these tasks before making a plan for the next day. This ritual ensures that no task will be forgotten: Each will be reviewed daily and tackled when the time is appropriate. Your mind, in other words, is released from its duty to keep track of these obligations at every moment—your shutdown ritual has taken over that responsibility.
+
+Shutdown rituals are necessary for reaping the rewards of systematic idleness.
