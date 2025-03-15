@@ -70,3 +70,19 @@ This division between what and how is crucial but is overlooked in the professio
 The 4DX framework is based on the fundamental premise that execution is more difficult than strategizing. After hundreds and hundreds of case studies, its  managed to isolate a few basic disciplines that seem to work particularly well in conquering this difficulty. 
 
 #### 6. Be Lazy
+
+"_Idleness is not just a vacation, an indulgence or a vice; it is as indispensable to the brain as vitamin D is to the body, and deprived of it we suffer a mental affliction as disfiguring as rickets...it is, paradoxically, necessary to getting any work done._"
+
+This strategy argues that you should inject regular and substantial freedom from professional concerns into your day, providing you with the idleness paradoxically required to get (deep) work done. There are many ways to accomplish this goal. Instead, I want to suggest a more applicable but still quite powerful heuristic: At the end of the workday, shut down your consideration of work issues until the next morning—no after-dinner e-mail check, no mental replays of conversations, and no scheming about how you’ll handle an upcoming challenge; shut down work thinking completely. If you need more time, then extend your workday, but once you shut down, your mind must be left free.
+
+<u>Reason #1: Downtime Aids Insights</u>
+
+"_The scientific literature has emphasized the benefits of conscious deliberation in decision making for hundreds of years...The question addressed here is whether this view is justified. We hypothesize that it is not._"
+
+**Unconscious Thought Theory (UTT)** - At a high level, this theory proposes that for decisions that require the application of strict rules, the conscious mind must be involved. On the other hand, for decisions that involve large amounts of information and multiple vague, and perhaps even conflicting, constraints, your unconscious mind is well suited to tackle the issue. UTT hypothesizes that this is due to the fact that these regions of your brain have more neuronal bandwidth available, allowing them to move around more information and sift through more potential solutions than your conscious centers of thinking. The implication of this line of research is that providing your conscious brain time to rest enables your unconscious mind to take a shift sorting through your most complex professional challenges. 
+
+A shutdown habit, therefore, is not necessarily reducing the amount of time you’re engaged in productive work, but is instead diversifying the type of work you deploy.
+
+<u>Reason #2: Downtime Helps Recharge the Energy Needed to Work Deeply</u> - 
+
+<u>Reason #3: Downtime Aids Insights</u>
