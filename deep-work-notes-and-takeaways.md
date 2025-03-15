@@ -101,6 +101,6 @@ The Zeigarnik effect - describes the ability of incomplete tasks to dominate our
 
 We could significantly reduce the effect's impact by asking the subjects, soon after the interruption, to make a plan for how they would later complete the incomplete task. 
 
-While it doesn't force you to explicitly identify a plan for every single task in your task list (a burdensome requirement), it does force you to capture every task in a common list, and then review these tasks before making a plan for the next day. This ritual ensures that no task will be forgotten: Each will be reviewed daily and tackled when the time is appropriate. Your mind, in other words, is released from its duty to keep track of these obligations at every moment—your shutdown ritual has taken over that responsibility.
+While it doesn't force you to explicitly identify a plan for every single task in your task list (a burdensome requirement), it does force you to capture every task in a common list, and then review these tasks before making a plan for the next day. This ritual ensures that no task will be forgotten: Each will be reviewed daily and tackled when the time is appropriate. Your mind, in other words, is released from its duty to keep track of these obligations at every moment - your shutdown ritual has taken over that responsibility.
 
 Shutdown rituals are necessary for reaping the rewards of systematic idleness.
