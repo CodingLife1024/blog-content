@@ -47,10 +47,24 @@ There are some general questions that any effective ritual must address:
 
 #### 3. Make Grand Gestures
 
-By leveraging a radical change to your normal environment, coupled perhaps with a significant investment of effort or money, all dedicated toward supporting a deep work task, you increase the perceived importance of the task. This boost in importance reduces your mind’s instinct to procrastinate and delivers an injection of motivation and energy.
+By leveraging a radical change to your normal environment, coupled perhaps with a significant investment of effort or money, all dedicated toward supporting a deep work task, you increase the perceived importance of the task. This boost in importance reduces your mind's instinct to procrastinate and delivers an injection of motivation and energy.
 
 #### 4. Don't Work Alone
 
+We can, therefore, still dismiss the depth-destroying open office concept without dismissing the innovation-producing theory of serendipitous creativity. The key is to maintain both in a hub-and-spoke-style arrangement: Expose yourself to ideas in hubs on a regular basis, but maintain a spoke in which to work deeply on what you encounter.
+
+For some types of problems, working with someone else at the proverbial shared whiteboard can push you deeper than if you were working alone. The presence of the other party waiting for your next insight - be it someone physically in the same room or collaborating with you virtually - can short-circuit the natural instinct to avoid depth.
+
 #### 5. Execute Like a Business
+
+This division between what and how is crucial but is overlooked in the professional world. It's often straightforward to identify a strategy needed to achieve a goal, but what trips up companies is figuring out how to execute the strategy once identified.
+
+<u>Discipline #1: Focus on the Wildly Important</u> - As the authors of The 4 Disciplines of Execution explain, "The more you try to do, the less you actually accomplish." They elaborate that execution should be aimed at a small number of "wildly important goals." This simplicity will help focus an organization's energy to a sufficient intensity to ignite real results.
+
+<u>Discipline #2: Act on the Lead Measures</u> - Once you've identified a wildly important goal, you need to measure your success. In 4DX, there are two types of metrics for this purpose: lag measures and lead measures. Lag measures describe the thing you're ultimately trying to improve. Lead measures, on the other hand, "measure the new behaviors that will drive success on the lag measures." For an individual focused on deep work, it's easy to identify the relevant lead measure: time spent in a state of deep work dedicated toward your wildly important goal. 
+
+<u>Discipline #3: Keep a Compelling Scoreboard</u> - "People play differently when they're keeping score," the 4DX authors explain. They then elaborate that when attempting to drive your team's engagement toward your organization's wildly important goal, it's important that they have a public place to record and track their lead measures. This scoreboard creates a sense of competition that drives them to focus on these measures, even when other demands vie for their attention. It also provides a reinforcing source of motivation. 
+
+<u>Discipline #4: Create a Cadence of Accountability</u> - 
 
 #### 6. Be Lazy
