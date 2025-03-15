@@ -1,4 +1,4 @@
-# Deep Work: My Takeaways
+# Deep Work: Notes and Takeaways
 ## 19/03/2025
 
 As a final-year CSE student drowning in assignments, projects, and coursework, I keep feeling like I'm working all the time but not getting as much done as I should. That's why I picked up "Deep Work" by Cal Newport - to figure out how to get more out of my work hours so I can actually have some time for myself.
