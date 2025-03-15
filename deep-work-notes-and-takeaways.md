@@ -47,3 +47,10 @@ There are some general questions that any effective ritual must address:
 
 #### 3. Make Grand Gestures
 
+By leveraging a radical change to your normal environment, coupled perhaps with a significant investment of effort or money, all dedicated toward supporting a deep work task, you increase the perceived importance of the task. This boost in importance reduces your mind’s instinct to procrastinate and delivers an injection of motivation and energy.
+
+#### 4. Don't Work Alone
+
+#### 5. Execute Like a Business
+
+#### 6. Be Lazy
