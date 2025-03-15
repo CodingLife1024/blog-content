@@ -14,7 +14,7 @@
 | &#x2B1C; | Badhaai Do | 2022 | Harshavardhan Kulkarni |  |
 | &#x2B1C; | The Thing | 1982 | John Carpenter |  |
 | &#x2B1C; | Annihilation | 2018 | Alex Garland |  |
-| &#x2B1C; | Paths of Glory | 1957 | Stanley Kubrick |  |
+| &#x2705; | Paths of Glory | 1957 | Stanley Kubrick | &#11088; |
 | &#x2B1C; | Schindler's List | 1993 | Steven Spielberg |  |
 | &#x2B1C; | Innocence | 2004 | Lucile Hadzihalilovic |  |
 | &#x2705; | Incendies | 2010 | Denis Villeneuve | &#11088; &#11088; &#11088; &#11088; &#11088; |
