@@ -7,9 +7,11 @@ This is the second part of the Book Summary
 
 #### 2. Embrace Boredom
 
-"The key to developing a deep work habit is to move beyond good intentions and add _routines_ and _rituals_ to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration. If you suddenly decide, for example, in the middle of a distracted afternoon spent Web browsing, to switch your attention to a cognitively demanding task, you'll draw heavily from your finite willpower to wrest your attention away from the online shininess."
+Efforts to deepen your focus will struggle if you don't simultaneously wean your mind from a dependence on distraction. Much in the same way that athletes must take care of their bodies outside of their training sessions, you'll struggle to achieve the deepest levels of concentration if you spend the rest of your time fleeing the slightest hint of boredom.
 
-##### 1. Decide on your Depth Philosophy
+"_So we have scales that allow us to divide up people into people who multitask all the time and people who rarely do, and the differences are remarkable. People who multitask all the time can't filter out irrelevancy. They can't manage a working memory. They're chronically distracted. They initiate much larger parts of their brain that are irrelevant to the task at hand...they're pretty much mental wrecks._"
+
+##### 1.  Don't Take Breaks from Distraction. Instead Take Breaks from Focus.
 
 1. **The Monsatic Philosophy of Deep Work Scheduling** - 
 
