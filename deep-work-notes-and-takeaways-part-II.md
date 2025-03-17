@@ -59,6 +59,6 @@ Assuming you're able to solve your next-step question, the final step of this st
 
 ##### 4. Memorize a Deck of Cards
 
-"_We found that one of the biggest differences between memory athletes and the rest of us is in a cognitive ability that’s not a direct measure of memory at all but of attention._"
+"_We found that one of the biggest differences between memory athletes and the rest of us is in a cognitive ability that's not a direct measure of memory at all but of attention._"
 
 A side effect of memory training, in other words, is an improvement in your general ability to concentrate. This ability can then be fruitfully applied to any task demanding deep work. 
