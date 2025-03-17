@@ -35,17 +35,17 @@ To simply wait and be bored has become a novel experience in modern life, but fr
 
 ##### 2. Work Like Teddy Roosevelt
 
-Identify a deep task (that is, something that requires deep work to complete) that's high on your priority list. Estimate how long you'd normally put aside for an obligation of this type, then give yourself a hard deadline that drastically reduces this time. If possible, commit publicly to the deadline—for example, by telling the person expecting the finished project when they should expect it.
+Identify a deep task (that is, something that requires deep work to complete) that's high on your priority list. Estimate how long you'd normally put aside for an obligation of this type, then give yourself a hard deadline that drastically reduces this time. If possible, commit publicly to the deadline - for example, by telling the person expecting the finished project when they should expect it.
 
-At this point, there should be only one possible way to get the deep task done in time: working with great intensity—no e-mail breaks, no daydreaming, no Facebook browsing, no repeated trips to the coffee machine. 
+At this point, there should be only one possible way to get the deep task done in time: working with great intensity - no e-mail breaks, no daydreaming, no Facebook browsing, no repeated trips to the coffee machine. 
 
-Try this experiment no more than once a week at first—giving your brain practice with intensity, but also giving it (and your stress levels) time to rest in between. Once you feel confident in your ability to trade concentration for completion time, increase the frequency of these Roosevelt dashes. Remember, however, to always keep your self-imposed deadlines right at the edge of feasibility. You should be able to consistently beat the buzzer (or at least be close), but to do so should require teeth-gritting concentration.
+Try this experiment no more than once a week at first - giving your brain practice with intensity, but also giving it (and your stress levels) time to rest in between. Once you feel confident in your ability to trade concentration for completion time, increase the frequency of these Roosevelt dashes. Remember, however, to always keep your self-imposed deadlines right at the edge of feasibility. You should be able to consistently beat the buzzer (or at least be close), but to do so should require teeth-gritting concentration.
 
-Deep work requires levels of concentration well beyond where most knowledge workers are comfortable. Roosevelt dashes leverage artificial deadlines to help you systematically increase the level you can regularly achieve—providing, in some sense, interval training for the attention centers of your brain.
+Deep work requires levels of concentration well beyond where most knowledge workers are comfortable. Roosevelt dashes leverage artificial deadlines to help you systematically increase the level you can regularly achieve - providing, in some sense, interval training for the attention centers of your brain.
 
 ##### 3. Meditate Productively
 
-The goal of productive meditation is to take a period in which you're occupied physically but not mentally—walking, jogging, driving, showering—and focus your attention on a single well-defined professional problem. Finding time for this strategy is easy, as it takes advantage of periods that would otherwise be wasted, and if done right, can actually increase your professional productivity instead of taking time away from your work.
+The goal of productive meditation is to take a period in which you're occupied physically but not mentally - walking, jogging, driving, showering - and focus your attention on a single well-defined professional problem. Finding time for this strategy is easy, as it takes advantage of periods that would otherwise be wasted, and if done right, can actually increase your professional productivity instead of taking time away from your work.
 
 <u>Suggestion #1: Be Wary of Distractions and Looping</u> - 
 
