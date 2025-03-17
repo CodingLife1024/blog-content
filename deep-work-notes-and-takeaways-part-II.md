@@ -33,7 +33,7 @@ Schedule lots of long Internet blocks. The key here isn't to avoid or even to re
 
 To simply wait and be bored has become a novel experience in modern life, but from the perspective of concentration training, it's incredibly valuable.
 
-#### 2. Work Like Teddy Roosevelt
+##### 2. Work Like Teddy Roosevelt
 
 Identify a deep task (that is, something that requires deep work to complete) that's high on your priority list. Estimate how long you'd normally put aside for an obligation of this type, then give yourself a hard deadline that drastically reduces this time. If possible, commit publicly to the deadline—for example, by telling the person expecting the finished project when they should expect it.
 
@@ -43,5 +43,10 @@ Try this experiment no more than once a week at first—giving your brain practi
 
 Deep work requires levels of concentration well beyond where most knowledge workers are comfortable. Roosevelt dashes leverage artificial deadlines to help you systematically increase the level you can regularly achieve—providing, in some sense, interval training for the attention centers of your brain.
 
-#### 3. Meditate Productively
+##### 3. Meditate Productively
 
+The goal of productive meditation is to take a period in which you’re occupied physically but not mentally—walking, jogging, driving, showering—and focus your attention on a single well-defined professional problem. Finding time for this strategy is easy, as it takes advantage of periods that would otherwise be wasted, and if done right, can actually increase your professional productivity instead of taking time away from your work.
+
+<u>Suggestion #1: Be Wary of Distractions and Looping</u> - When faced with a hard problem, your mind, as it was evolved to do, will attempt to avoid excess expenditure of energy when possible. One way it might attempt to sidestep this expenditure is by avoiding diving deeper into the problem by instead looping over and over again on what you already know about it. For example, when working on a proof, my mind has a tendency to rehash simple preliminary results, again and again, to avoid the harder work of building on these results toward the needed solution. You must be on your guard for looping, as it can quickly subvert an entire productive meditation session. 
+
+<u>Suggestion #2: Structure Your Deep Thinking</u> - When faced with a hard problem, your mind, as it was evolved to do, will attempt to avoid excess expenditure of energy when possible. One way it might attempt to sidestep this expenditure is by avoiding diving deeper into the problem by instead looping over and over again on what you already know about it. For example, when working on a proof, my mind has a tendency to rehash simple preliminary results, again and again, to avoid the harder work of building on these results toward the needed solution. You must be on your guard for looping, as it can quickly subvert an entire productive meditation session. 
