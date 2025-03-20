@@ -25,7 +25,7 @@
 | &#x2705; | Caddo Lake | 2024 | Celine Held, Logan George | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Mrs. | 2024 | Arati Kadav | &#11088; &#11088; &#11088; |
 | &#x2705; | The Mandela Effect | 2019 | David Guy Levy | &#11088; &#11088; &#11088; &#11088; |
-
+| &#x2705; | Zindagi Na Milegi Dobara | 2011 | Zoya Akhtar | &#11088; &#11088; |
 
 ## Series
 
