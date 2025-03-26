@@ -28,3 +28,5 @@
 "If I have left a wound inside you, it is not just your wound but mine as well."
 
 "I dream. Sometimes I think that's the only right thing to do."
+
+![Norwegian Wood](https://github.com/CodingLife1024/blog-content/blob/main/images/norwegian-wood.webp?raw=true)
