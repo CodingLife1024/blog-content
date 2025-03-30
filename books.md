@@ -31,7 +31,7 @@
 | &#x2B1C; | Killing Commendatore | 2017 | Haruki Murakami |  |
 | &#x2B1C; | The City and Its Uncertain Walls | 2023 | Haruki Murakami |  |
 | &#x2B1C; | Coraline | 2002 | Neil Gaiman |  |
-| &#x23F8; | Delhi A Soliloquy | 2011 | M. Mukundan | <p><progress value="31" max="100"></progress>31%</p> |
+| &#x2705; | Delhi A Soliloquy | 2011 | M. Mukundan | &#11088; &#11088; &#11088; &#11088; &#11088; |
 
 # Books for 2024
 
