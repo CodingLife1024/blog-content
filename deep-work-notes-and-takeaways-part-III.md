@@ -1,7 +1,7 @@
 # Deep Work: Notes and Takeaways, Part III
 ## 23/03/2025
 
-This is the third part of the Book Summary
+This is the third part of the Book Summary.
 
 ### The Rules
 
