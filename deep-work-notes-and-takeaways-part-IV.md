@@ -47,3 +47,15 @@ Once you know where your activities fall on the deep-to-shallow scale, bias your
 
 ##### 3. Ask Your Boss for a Shallow Work Budget
 
+Here’s an important question that’s rarely asked: What percentage of my time should be spent on shallow work? 
+
+Obeying this budget will likely require changes to your behavior. You’ll almost certainly end up forced into saying no to projects that seem infused with shallowness while also more aggressively reducing the amount of shallowness in your existing projects. 
+
+These changes are all positive for your quest to make deep work central to your working life. On the one hand, they don’t ask you to abandon your core shallow obligations—a move that would cause problems and resentment—as you’re still spending a lot of time on such efforts. On the other hand, they do force you to place a hard limit on the amount of less urgent obligations you allow to slip insidiously into your schedule. 
+
+If you work for yourself, this exercise will force you to confront the reality of how little time in your “busy” schedule you’re actually producing value. These hard numbers will provide you the confidence needed to start scaling back on the shallow activities that are sapping your time.
+
+##### 4. Finish Your Work by Five Thirty
+
+##### 5. Become Hard to Reach
+
