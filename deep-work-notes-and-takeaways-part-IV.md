@@ -1,5 +1,5 @@
 # Deep Work: Notes and Takeaways, Part IV
-## 31/03/2025
+## 01/04/2025
 
 This is the fourth and final part of the Book Summary.
 
@@ -42,3 +42,8 @@ Without structure, it's easy to allow your time to devolve into the shallow - em
 The motivation for this strategy is the recognition that a deep work habit requires you to treat your time with respect.
 
 ##### 2. Quantify the Depth of Every Activity
+
+Once you know where your activities fall on the deep-to-shallow scale, bias your time toward the former. How one biases away from shallow and toward depth is not always obvious—even after you know how to accurately label your commitments.
+
+##### 3. Ask Your Boss for a Shallow Work Budget
+
