@@ -43,19 +43,29 @@ The motivation for this strategy is the recognition that a deep work habit requi
 
 ##### 2. Quantify the Depth of Every Activity
 
-Once you know where your activities fall on the deep-to-shallow scale, bias your time toward the former. How one biases away from shallow and toward depth is not always obvious—even after you know how to accurately label your commitments.
+Once you know where your activities fall on the deep-to-shallow scale, bias your time toward the former. How one biases away from shallow and toward depth is not always obvious - even after you know how to accurately label your commitments.
 
 ##### 3. Ask Your Boss for a Shallow Work Budget
 
-Here’s an important question that’s rarely asked: What percentage of my time should be spent on shallow work? 
+Here's an important question that's rarely asked: What percentage of my time should be spent on shallow work? 
 
-Obeying this budget will likely require changes to your behavior. You’ll almost certainly end up forced into saying no to projects that seem infused with shallowness while also more aggressively reducing the amount of shallowness in your existing projects. 
+Obeying this budget will likely require changes to your behavior. You'll almost certainly end up forced into saying no to projects that seem infused with shallowness while also more aggressively reducing the amount of shallowness in your existing projects. 
 
-These changes are all positive for your quest to make deep work central to your working life. On the one hand, they don’t ask you to abandon your core shallow obligations—a move that would cause problems and resentment—as you’re still spending a lot of time on such efforts. On the other hand, they do force you to place a hard limit on the amount of less urgent obligations you allow to slip insidiously into your schedule. 
+These changes are all positive for your quest to make deep work central to your working life. On the one hand, they don't ask you to abandon your core shallow obligations - a move that would cause problems and resentment - as you're still spending a lot of time on such efforts. On the other hand, they do force you to place a hard limit on the amount of less urgent obligations you allow to slip insidiously into your schedule. 
 
-If you work for yourself, this exercise will force you to confront the reality of how little time in your “busy” schedule you’re actually producing value. These hard numbers will provide you the confidence needed to start scaling back on the shallow activities that are sapping your time.
+If you work for yourself, this exercise will force you to confront the reality of how little time in your “busy” schedule you're actually producing value. These hard numbers will provide you the confidence needed to start scaling back on the shallow activities that are sapping your time.
 
 ##### 4. Finish Your Work by Five Thirty
+
+**Fixed-schedule productivity** - fix the firm goal of not working past a certain time, then work backward to find productivity strategies that allow me to satisfy this declaration.
+
+Another tactic that works well is to be clear in my refusal but ambiguous in my explanation for the refusal. The key is to avoid providing enough specificity about the excuse that the requester has the opportunity to defuse it. 
+
+By ruthlessly reducing the shallow while preserving the deep, this strategy frees up our time without diminishing the amount of new value we generate. Indeed, I would go so far as to argue that the reduction in shallow frees up more energy for the deep alternative, allowing us to produce more than if we had defaulted to a more typical crowded schedule. Second, the limits to our time necessitate more careful thinking about our organizational habits, also leading to more value produced as compared to longer but less organized schedules.
+
+In most knowledge work jobs, it can be difficult in the moment to turn down a shallow commitment that seems harmless in isolation - be it accepting an invitation to get coffee or agreeing to “jump on a call.” A commitment to fixed-schedule productivity, however, shifts you into a scarcity mind-set. Suddenly any obligation beyond your deepest efforts is suspect and seen as potentially disruptive. Your default answer becomes no, the bar for gaining access to your time and attention rises precipitously, and you begin to organize the efforts that pass these obstacles with a ruthless efficiency.
+
+Fixed-schedule productivity, in other words, is a meta-habit that's simple to adopt but broad in its impact. If you have to choose just one behavior that reorients your focus toward the deep, this one should be high on the list of possibilities. 
 
 ##### 5. Become Hard to Reach
 
