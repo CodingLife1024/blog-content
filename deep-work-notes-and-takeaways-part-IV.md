@@ -40,3 +40,5 @@ The goal of a schedule is to force your behavior into a rigid plan. This type of
 Without structure, it's easy to allow your time to devolve into the shallow - email, social media, Web surfing. This type of shallow behavior, though satisfying in the moment, is not conducive to creativity. With structure, on the other hand, you can ensure that you regularly schedule blocks to grapple with a new idea, or work deeply on something challenging, or brainstorm for a fixed period - the type of commitment more likely to instigate innovation. 
 
 The motivation for this strategy is the recognition that a deep work habit requires you to treat your time with respect.
+
+##### 2. Quantify the Depth of Every Activity
