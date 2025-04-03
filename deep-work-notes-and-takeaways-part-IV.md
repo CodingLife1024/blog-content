@@ -69,3 +69,16 @@ Fixed-schedule productivity, in other words, is a meta-habit that's simple to ad
 
 ##### 5. Become Hard to Reach
 
+**Tip #1: Make People Who Send You E-mail Do More Work**
+
+**Tip #2: Do More Work When You Send or Reply to Emails**
+
+Interrogative e-mails like these generate an initial instinct to dash off the quickest possible response that will clear the message—temporarily—out of your inbox. A quick response will, in the short term, provide you with some minor relief because you're bouncing the responsibility implied by the message off your court and back onto the sender's.
+
+The right strategy when faced with a question of this type is to pause a moment before replying and take the time to answer the following key prompt:
+
+_"What is the project represented by this message, and what is the most efficient (in terms of messages generated) process for bringing this project to a successful conclusion?"_
+
+Once you've answered this question for yourself, replace a quick response with one that takes the time to describe the process you identified, points out the current step, and emphasizes the step that comes next.
+
+**Tip #3: Don't Respond**
