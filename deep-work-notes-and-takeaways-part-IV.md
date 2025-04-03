@@ -1,5 +1,5 @@
 # Deep Work: Notes and Takeaways, Part IV
-## 01/04/2025
+## 03/04/2025
 
 This is the fourth and final part of the Book Summary.
 
@@ -73,7 +73,7 @@ Fixed-schedule productivity, in other words, is a meta-habit that's simple to ad
 
 **Tip #2: Do More Work When You Send or Reply to Emails**
 
-Interrogative e-mails like these generate an initial instinct to dash off the quickest possible response that will clear the message—temporarily—out of your inbox. A quick response will, in the short term, provide you with some minor relief because you're bouncing the responsibility implied by the message off your court and back onto the sender's.
+Interrogative e-mails like these generate an initial instinct to dash off the quickest possible response that will clear the message-temporarily-out of your inbox. A quick response will, in the short term, provide you with some minor relief because you're bouncing the responsibility implied by the message off your court and back onto the sender's.
 
 The right strategy when faced with a question of this type is to pause a moment before replying and take the time to answer the following key prompt:
 
