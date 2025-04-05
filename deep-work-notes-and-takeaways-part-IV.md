@@ -69,7 +69,7 @@ Fixed-schedule productivity, in other words, is a meta-habit that's simple to ad
 
 ##### 5. Become Hard to Reach
 
-**Tip #1: Make People Who Send You E-mail Do More Work**
+**Tip #1: Make People Who Send You Email Do More Work**
 
 **Tip #2: Do More Work When You Send or Reply to Emails**
 
