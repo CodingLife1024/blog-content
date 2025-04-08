@@ -32,7 +32,7 @@
 | &#x2B1C; | The City and Its Uncertain Walls | 2023 | Haruki Murakami |  |
 | &#x2B1C; | Coraline | 2002 | Neil Gaiman |  |
 | &#x2705; | Delhi A Soliloquy | 2011 | M. Mukundan | &#11088; &#11088; &#11088; &#11088; &#11088; |
-| &#x23F8; | The Garden of Evening Mists | 2011 | Tan Twan Eng | <p><progress value="5" max="100"></progress>5%</p> |
+| &#x23F8; | The Garden of Evening Mists | 2011 | Tan Twan Eng | <p><progress value="50" max="100"></progress>50%</p> |
 
 # Books for 2024
 
