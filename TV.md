@@ -27,6 +27,7 @@
 | &#x2705; | The Mandela Effect | 2019 | David Guy Levy | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Zindagi Na Milegi Dobara | 2011 | Zoya Akhtar | &#11088; &#11088; |
 | &#x2705; | Darna Zaroori Hai | 2006 | J.D. Chakravarthi, Manish Gupta, Sajid Khan, Jijy Philip, Prawaal Raman, Vivek Shah, Ram Gopal Varma | &#11088; &#11088; |
+| &#x2705; | Jain Bhim | 2021 | T. J. Gnanavel | &#11088; &#11088; &#11088; |
 
 ## Series
 
