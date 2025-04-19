@@ -11,7 +11,7 @@
 | &#x2B1C; | Naked Economics | 2013 | Charles Wheelan, Burton G. Malkiel |  |
 | &#x2B1C; | Freakonomics | 2005 | Steven D. Levitt, Stephen J. Dubner |  |
 | &#x2B1C; | White Nights | 1848 | Fyodor Dostoevsky |  |
-| &#x23F8; | Sapiens | 2011 | Yuval Noah Harari | <p><progress value="40" max="100"></progress>40%</p> |
+| &#x23F8; | Sapiens | 2011 | Yuval Noah Harari | <p><progress value="50" max="100"></progress>50%</p> |
 | &#x2705; | Blandings Castle | 1935 | P. G. Wodehouse | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Meiji Guillotine Murders | 2024 | Futaro Yamada | &#11088; &#11088; |
 | &#x2705; | A Good Girl's Guide to Murder | 2019 | Holly Jackson | &#11088; &#11088; &#11088; &#11088; |
