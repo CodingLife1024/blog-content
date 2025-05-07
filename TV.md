@@ -29,6 +29,7 @@
 | &#x2705; | Darna Zaroori Hai | 2006 | J.D. Chakravarthi, Manish Gupta, Sajid Khan, Jijy Philip, Prawaal Raman, Vivek Shah, Ram Gopal Varma | &#11088; &#11088; |
 | &#x2705; | Jain Bhim | 2021 | T. J. Gnanavel | &#11088; &#11088; &#11088; |
 | &#x2705; | Makmum | 2019 | Hadrah Daeng Ratu | &#11088; &#11088; &#11088; &#11088; |
+| &#x2705; | Prey for the Devil | 2022 | Daniel Stamm | &#11088; &#11088; &#11088; |
 
 ## Series
 
