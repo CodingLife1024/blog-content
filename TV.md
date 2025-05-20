@@ -11,6 +11,7 @@
 | &#x2B1C; | Dune Part Two | 2024 | Denis Villeneuve |  |
 | &#x2B1C; | The Scent of a Woman | 1992 | Martin Brest |  |
 | &#x2705; | The Lighthouse | 2019 | Robert Eggers | &#11088; |
+| &#x2705; | Inglourious Basterds | 2009 | Quentin Tarantino | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | Badhaai Do | 2022 | Harshavardhan Kulkarni |  |
 | &#x2B1C; | The Thing | 1982 | John Carpenter |  |
 | &#x2B1C; | Annihilation | 2018 | Alex Garland |  |
