@@ -34,6 +34,7 @@
 | &#x2705; | Prisoners | 2013 | Denis Villeneuve | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Monsters | 2023 | Hirokazu Kore-eda | &#11088; &#11088; |
 | &#x2705; | Portrait of a Lady on Fire | 2019 | Celine Sciamma | &#11088; &#11088; &#11088; &#11088; &#11088; |
+| &#x2705; | Carol | 2015 | Todd Haynes | &#11088; &#11088; &#11088; &#11088; |
 
 ## Series
 
