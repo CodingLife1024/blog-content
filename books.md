@@ -34,7 +34,7 @@
 | &#x2705; | Delhi A Soliloquy | 2011 | M. Mukundan | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Garden of Evening Mists | 2011 | Tan Twan Eng | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Victory City | 2023 | Salman Rushdie | &#11088; &#11088; &#11088; &#11088; &#11088; |
-| &#x23F8; | Newton and the Counterfeiter | 2009 | Thomas Levenson | <p><progress value="10" max="100"></progress>10%</p> |
+| &#x23F8; | Newton and the Counterfeiter | 2009 | Thomas Levenson | <p><progress value="30" max="100"></progress>30%</p> |
 
 # Books for 2024
 
