@@ -7,6 +7,7 @@
 | &#x2705; | Late Night with the Devil | 2024 | Colin Cairnes, Cameron Cairnes | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Green Mile | 1999 | Frank Darabont |  |
 | &#x2B1C; | Dune | 2021 | Denis Villeneuve |  |
+| &#x2B1C; | Skinamarink | 2022 | Kyle Edward Ball |  |
 | &#x2705; | Howl's Moving Castle | 2004 | Hayao Miyazaki | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | From Up on Poppy Hill | 2011 | Goro Miyazaki | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | Dune Part Two | 2024 | Denis Villeneuve |  |
