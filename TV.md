@@ -4,6 +4,7 @@
 
 |          | Movie Name | Year of Release | Director(s) | My Rating | 
 |----------|------------|-----------------|-------------|-----------|
+| &#x2705; | Late Night with the Devil | 2024 | Colin Cairnes, Cameron Cairnes | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Green Mile | 1999 | Frank Darabont |  |
 | &#x2B1C; | Dune | 2021 | Denis Villeneuve |  |
 | &#x2705; | Howl's Moving Castle | 2004 | Hayao Miyazaki | &#11088; &#11088; &#11088; &#11088; |
