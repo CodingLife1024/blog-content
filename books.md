@@ -2,7 +2,7 @@
 
 |          | Book Name | Year of Release | Author | My Rating |
 |----------|-----------|-----------------|--------|-----------|
-| &#x23F8; | Em and The Big Hoom | 2012 | Jerry Pinto | <p><progress value="59" max="100"></progress>59%</p> |
+| &#x23F8; | Em and The Big Hoom | 2012 | Jerry Pinto | <p><progress value="70" max="100"></progress>70%</p> |
 | &#x2705; | Days at the Morisaki Bookshop | 2023 | Satoshi Yagisawa | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | More Days at the Morisaki Bookshop | 2024 | Satoshi Yagisawa | &#11088; &#11088; &#11088; |
 | &#x2705; | Cities Rethought | 2024 | Gautam Bhan, Michael Keith, Susan Powell, Edgar Pieterse | &#11088; &#11088; &#11088; &#11088; |
