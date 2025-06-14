@@ -4,7 +4,8 @@
 
 |          | Movie Name | Year of Release | Director(s) | My Rating | 
 |----------|------------|-----------------|-------------|-----------|
-| &#x2705; | The Lord of the Rings: The Fellowship of the Ring | 2002 | Peter Jackson | &#11088; &#11088; &#11088; |
+| &#x2705; | The Lord of the Rings: The Two Towers | 2002 | Peter Jackson | &#11088; &#11088; &#11088; &#11088; |
+| &#x2705; | The Lord of the Rings: The Fellowship of the Ring | 2001 | Peter Jackson | &#11088; &#11088; &#11088; |
 | &#x2705; | Late Night with the Devil | 2024 | Colin Cairnes, Cameron Cairnes | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Green Mile | 1999 | Frank Darabont |  |
 | &#x2B1C; | Dune | 2021 | Denis Villeneuve |  |
