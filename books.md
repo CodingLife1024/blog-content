@@ -8,7 +8,7 @@
 | &#x2705; | Cities Rethought | 2024 | Gautam Bhan, Michael Keith, Susan Powell, Edgar Pieterse | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | She Devils | 1996 | Anne McDuff | &#11088; &#11088; &#11088; |
 | &#x2B1C; | Carmilla | 1897 | Sheridan Le Fanu |  |
-| &#x2B1C; | My Year of Rest and Relaxation | 2018 | Ottessa Moshfegh |  |
+| &#x2B1C; | My Year of Rest and Relaxation | 2018 | Ottessa Moshfegh | <p><progress value="55" max="100"></progress>55%</p> |
 | &#x2B1C; | Naked Economics | 2013 | Charles Wheelan, Burton G. Malkiel |  |
 | &#x2B1C; | Freakonomics | 2005 | Steven D. Levitt, Stephen J. Dubner |  |
 | &#x2B1C; | White Nights | 1848 | Fyodor Dostoevsky |  |
