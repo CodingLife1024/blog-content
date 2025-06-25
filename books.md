@@ -2,6 +2,7 @@
 
 |          | Book Name | Year of Release | Author | My Rating |
 |----------|-----------|-----------------|--------|-----------|
+| &#x23F8; | The Elementals | 1981 | Michael McDowell | <p><progress value="10" max="100"></progress>10%</p> |
 | &#x2705; | Em and The Big Hoom | 2012 | Jerry Pinto | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Days at the Morisaki Bookshop | 2023 | Satoshi Yagisawa | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | More Days at the Morisaki Bookshop | 2024 | Satoshi Yagisawa | &#11088; &#11088; &#11088; |
