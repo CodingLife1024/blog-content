@@ -4,6 +4,7 @@
 
 |          | Movie Name | Year of Release | Director(s) | My Rating | 
 |----------|------------|-----------------|-------------|-----------|
+| &#x2705; | The First Omen | 2024 | Arkasha Stevenson | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Lord of the Rings: The Return of the King | 2003 | Peter Jackson | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Lord of the Rings: The Two Towers | 2002 | Peter Jackson | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Lord of the Rings: The Fellowship of the Ring | 2001 | Peter Jackson | &#11088; &#11088; &#11088; |
