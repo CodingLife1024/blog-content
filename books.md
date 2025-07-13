@@ -2,7 +2,7 @@
 
 |          | Book Name | Year of Release | Author | My Rating |
 |----------|-----------|-----------------|--------|-----------|
-| &#x23F8; | The Tombs of Atuan | 1970 | Ursula K. Le Guin | <p><progress value="3" max="100"></progress>3%</p> |
+| &#x23F8; | The Tombs of Atuan | 1970 | Ursula K. Le Guin | <p><progress value="20" max="100"></progress>20%</p> |
 | &#x2705; | A Wizard of Earthsea | 1968 | Ursula K. Le Guin | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Satapau Moonstone | 2019 | Sujata Massey | &#11088; &#11088; &#11088; |
 | &#x23F8; | The Elementals | 1981 | Michael McDowell | <p><progress value="10" max="100"></progress>10%</p> |
