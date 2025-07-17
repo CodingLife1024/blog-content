@@ -2,10 +2,10 @@
 
 |          | Book Name | Year of Release | Author | My Rating |
 |----------|-----------|-----------------|--------|-----------|
-| &#x23F8; | The Tombs of Atuan | 1970 | Ursula K. Le Guin | <p><progress value="20" max="100"></progress>20%</p> |
+| &#x23F8; | The Tombs of Atuan | 1970 | Ursula K. Le Guin | <p><progress value="20" max="100"></progress>70%</p> |
 | &#x2705; | A Wizard of Earthsea | 1968 | Ursula K. Le Guin | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Satapau Moonstone | 2019 | Sujata Massey | &#11088; &#11088; &#11088; |
-| &#x23F8; | The Elementals | 1981 | Michael McDowell | <p><progress value="10" max="100"></progress>10%</p> |
+| &#x23F8; | The Elementals | 1981 | Michael McDowell | <p><progress value="50" max="100"></progress>50%</p> |
 | &#x2705; | Em and The Big Hoom | 2012 | Jerry Pinto | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | Days at the Morisaki Bookshop | 2023 | Satoshi Yagisawa | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | More Days at the Morisaki Bookshop | 2024 | Satoshi Yagisawa | &#11088; &#11088; &#11088; |
