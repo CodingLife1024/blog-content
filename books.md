@@ -3,7 +3,7 @@
 |          | Book Name | Year of Release | Author | My Rating |
 |----------|-----------|-----------------|--------|-----------|
 | &#x23F8; | A Choir of Ill Children | 2003 | Tom Piccirilli | <p><progress value="50" max="100"></progress>50%</p> |
-| &#x23F8; | The Farthest Shore | 1972 | Ursula K. Le Guin | <p><progress value="6" max="100"></progress>6%</p> |
+| &#x23F8; | The Farthest Shore | 1972 | Ursula K. Le Guin | <p><progress value="56" max="100"></progress>56%</p> |
 | &#x2705; | The Tombs of Atuan | 1970 | Ursula K. Le Guin | &#11088; &#11088; &#11088; |
 | &#x2705; | A Wizard of Earthsea | 1968 | Ursula K. Le Guin | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Satapau Moonstone | 2019 | Sujata Massey | &#11088; &#11088; &#11088; |
