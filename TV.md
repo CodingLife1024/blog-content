@@ -4,6 +4,8 @@
 
 |          | Movie Name | Year of Release | Director(s) | My Rating | 
 |----------|------------|-----------------|-------------|-----------|
+| &#x2705; | It Chapter Two | 2019 | Andy Muschietti | &#11088; &#11088; |
+| &#x2705; | The Possession of Hannah Grace | 2018 | Diederik van Rooijen | &#11088; &#11088; &#11088; |
 | &#x2705; | Weapons | 2025 | Zach Cregger | &#11088; &#11088; &#11088; |
 | &#x2705; | Aap Jaisa Koi | 2024 | Vivek Soni | &#11088; |
 | &#x2705; | The Girl in the Mirror | 2020 | Oliver Coltress | &#11088; &#11088; &#11088; &#11088; |
@@ -56,7 +58,7 @@
 |----------|-------------|---------------|-----------|
 | &#x23f8; | Money Heist | 2017 - 2021 |  |
 | &#x2705; | Anne with an E | 2017 - 2020 | &#11088; &#11088; |
-| &#x2B1C; | Marianne | 2019 |  |
+| &#x2705; | Marianne | 2019 | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | The Outsider | 2020 |  |
 | &#x2B1C; | The Sinner | 2017 - 2021 |  |
 | &#x2B1C; | Hannibal | 2013 - 2015 |  |
