@@ -2,7 +2,7 @@
 
 |          | Book Name | Year of Release | Author | My Rating |
 |----------|-----------|-----------------|--------|-----------|
-| &#x23F8; | Tehanu | 1990 | Ursula K. Le Guin | <p><progress value="10" max="100"></progress>10%</p> |
+| &#x23F8; | Tehanu | 1990 | Ursula K. Le Guin | <p><progress value="8" max="100"></progress>8%</p> |
 | &#x23F8; | A Choir of Ill Children | 2003 | Tom Piccirilli | <p><progress value="50" max="100"></progress>50%</p> |
 | &#x2705; | The Farthest Shore | 1972 | Ursula K. Le Guin | &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Tombs of Atuan | 1970 | Ursula K. Le Guin | &#11088; &#11088; &#11088; |
