@@ -4,6 +4,7 @@
 
 |          | Movie Name | Year of Release | Director(s) | My Rating | 
 |----------|------------|-----------------|-------------|-----------|
+| &#x2705; | Maa | 2025 | Vishal Furia | &#11088; |
 | &#x2705; | It Chapter Two | 2019 | Andy Muschietti | &#11088; &#11088; |
 | &#x2705; | The Possession of Hannah Grace | 2018 | Diederik van Rooijen | &#11088; &#11088; &#11088; |
 | &#x2705; | Weapons | 2025 | Zach Cregger | &#11088; &#11088; &#11088; |
