@@ -2,6 +2,17 @@
 
 |          | Book Name | Year of Release | Author | My Rating |
 |----------|-----------|-----------------|--------|-----------|
+| &#x2B1C; | Rocannon's World | 1966 | Ursula K. Le Guin |  |
+| &#x2B1C; | Planet of Exile | 1966 | Ursula K. Le Guin |  |
+| &#x2B1C; | City of Illusions | 1967 | Ursula K. Le Guin |  |
+| &#x2B1C; | The Left Hand of Darkness | 1969 | Ursula K. Le Guin |  |
+| &#x2B1C; | The Dispossessed | 1974 | Ursula K. Le Guin |  |
+| &#x2B1C; | The Word for World is Forest | 1972 | Ursula K. Le Guin |  |
+| &#x2B1C; | Four Ways to Forgiveness | 1995 | Ursula K. Le Guin |  |
+| &#x2B1C; | The Telling  | 2000 | Ursula K. Le Guin |  |
+| &#x2B1C; | The Lathe of Heaven | 1971 | Ursula K. Le Guin |  |
+| &#x2B1C; | The Beginning Place | 1980 | Ursula K. Le Guin |  |
+| &#x2B1C; | Always Coming Home | 1985 | Ursula K. Le Guin |  |
 | &#x2B1C; | Tales from Earthsea | 2001 | Ursula K. Le Guin |  |
 | &#x2B1C; | The Other Wind | 2001 | Ursula K. Le Guin |  |
 | &#x2705; | Tehanu | 1990 | Ursula K. Le Guin | &#11088; &#11088; &#11088; &#11088; &#11088; |
