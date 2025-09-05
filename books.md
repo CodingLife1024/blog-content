@@ -13,8 +13,8 @@
 | &#x2B1C; | The Lathe of Heaven | 1971 | Ursula K. Le Guin |  |
 | &#x2B1C; | The Beginning Place | 1980 | Ursula K. Le Guin |  |
 | &#x2B1C; | Always Coming Home | 1985 | Ursula K. Le Guin |  |
-| &#x23F8; | Tales from Earthsea | 2001 | Ursula K. Le Guin | <p><progress value="0" max="100"></progress>0%</p> |
-| &#x23F8; | The Other Wind | 2001 | Ursula K. Le Guin | <p><progress value="0" max="100"></progress>0%</p> |
+| &#x23F8; | Tales from Earthsea | 2001 | Ursula K. Le Guin | <p><progress value="10" max="100"></progress>10%</p> |
+| &#x23F8; | The Other Wind | 2001 | Ursula K. Le Guin | <p><progress value="20" max="100"></progress>20%</p> |
 | &#x2705; | Tehanu | 1990 | Ursula K. Le Guin | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | A Choir of Ill Children | 2003 | Tom Piccirilli | &#11088; |
 | &#x2705; | The Farthest Shore | 1972 | Ursula K. Le Guin | &#11088; &#11088; &#11088; &#11088; |
