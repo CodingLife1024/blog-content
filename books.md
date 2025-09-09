@@ -14,7 +14,7 @@
 | &#x2B1C; | The Beginning Place | 1980 | Ursula K. Le Guin |  |
 | &#x2B1C; | Always Coming Home | 1985 | Ursula K. Le Guin |  |
 | &#x23F8; | Tales from Earthsea | 2001 | Ursula K. Le Guin | <p><progress value="15" max="100"></progress>15%</p> |
-| &#x23F8; | The Other Wind | 2001 | Ursula K. Le Guin | <p><progress value="25" max="100"></progress>25%</p> |
+| &#x23F8; | The Other Wind | 2001 | Ursula K. Le Guin | <p><progress value="75" max="100"></progress>75%</p> |
 | &#x2705; | Tehanu | 1990 | Ursula K. Le Guin | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | A Choir of Ill Children | 2003 | Tom Piccirilli | &#11088; |
 | &#x2705; | The Farthest Shore | 1972 | Ursula K. Le Guin | &#11088; &#11088; &#11088; &#11088; |
