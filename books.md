@@ -5,7 +5,7 @@
 | &#x2B1C; | Rocannon's World | 1966 | Ursula K. Le Guin |  |
 | &#x2B1C; | Planet of Exile | 1966 | Ursula K. Le Guin |  |
 | &#x2B1C; | City of Illusions | 1967 | Ursula K. Le Guin |  |
-| &#x23F8; | The Left Hand of Darkness | 1969 | Ursula K. Le Guin | <p><progress value="41" max="100"></progress>41%</p> |
+| &#x23F8; | The Left Hand of Darkness | 1969 | Ursula K. Le Guin | <p><progress value="81" max="100"></progress>81%</p> |
 | &#x2B1C; | The Dispossessed | 1974 | Ursula K. Le Guin |  |
 | &#x2B1C; | The Word for World is Forest | 1972 | Ursula K. Le Guin |  |
 | &#x2B1C; | Four Ways to Forgiveness | 1995 | Ursula K. Le Guin |  |
