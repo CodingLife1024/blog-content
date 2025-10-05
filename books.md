@@ -7,7 +7,7 @@
 | &#x2B1C; | Planet of Exile | 1966 | Ursula K. Le Guin |  |
 | &#x2B1C; | City of Illusions | 1967 | Ursula K. Le Guin |  |
 | &#x2705; | The Left Hand of Darkness | 1969 | Ursula K. Le Guin | &#11088; &#11088; &#11088; &#11088; |
-| &#x2B1C; | The Dispossessed | 1974 | Ursula K. Le Guin |  |
+| &#x23F8; | The Dispossessed | 1974 | Ursula K. Le Guin | <p><progress value="0" max="100"></progress>0%</p> |
 | &#x2B1C; | The Word for World is Forest | 1972 | Ursula K. Le Guin |  |
 | &#x2B1C; | Four Ways to Forgiveness | 1995 | Ursula K. Le Guin |  |
 | &#x2B1C; | The Telling  | 2000 | Ursula K. Le Guin |  |
