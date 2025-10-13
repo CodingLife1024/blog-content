@@ -2,7 +2,7 @@
 
 |          | Book Name | Year of Release | Author | My Rating |
 |----------|-----------|-----------------|--------|-----------|
-| &#x23F8; | Breasts and Eggs | 2019 | Mieko Kawakami | <p><progress value="35" max="100"></progress>35%</p> |
+| &#x2705; | Breasts and Eggs | 2019 | Mieko Kawakami | &#11088; &#11088; &#11088; |
 | &#x2B1C; | Rocannon's World | 1966 | Ursula K. Le Guin |  |
 | &#x2B1C; | Planet of Exile | 1966 | Ursula K. Le Guin |  |
 | &#x2B1C; | City of Illusions | 1967 | Ursula K. Le Guin |  |
