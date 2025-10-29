@@ -58,7 +58,7 @@
 |          | Series Name | Years Running | My Rating |
 |----------|-------------|---------------|-----------|
 | &#x23f8; | Money Heist | 2017 - 2021 |  |
-| &#x23f8; | Travelers | 2016 - 2019   |  |
+| &#x2705; | Travelers | 2016 - 2019   | &#11088; &#11088; &#11088; |
 | &#x23f8; | The Umbrella Academy | 2019 - present |       |
 | &#x23f8; | Wayward Pines  | 2015 - 2016   |           |
 | &#x2705; | Wednesday | 2022 - | &#11088; &#11088; &#11088; &#11088; |
