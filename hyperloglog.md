@@ -122,8 +122,8 @@ def add(self, item):
 Steps:
 1. Hash the item
 2. **Lower p bits** --> register index
-3. **Remaining bits** --> input to ρ(w)
-4. Update the register if we found a larger ρ
+3. **Remaining bits** --> input to $ \rho(w) $
+4. Update the register if we found a larger $ \rho $
 
 ---
 
