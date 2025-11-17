@@ -3,10 +3,10 @@
 
 **HyperLogLog (HLL)** is a fascinating probabilistic algorithm for estimating the **number of unique elements** in a dataset — using *very little memory*.  
 
-In this post, we'll walk through a **custom Python implementation** of HyperLogLog, and then compare it with a popular library (`datasketch`). By the end, you’ll understand:
+In this post, we'll walk through a **custom Python implementation** of HyperLogLog, and then compare it with a popular library (`datasketch`). By the end, you'll understand:
 
 - How HyperLogLog works
-- Why it’s so memory-efficient
+- Why it's so memory-efficient
 - The meaning of each part of the code
 
 ---
@@ -22,7 +22,7 @@ import time
 from datasketch import HyperLogLog as LibHLL
 ```
 
-Here’s why we need each import:
+Here's why we need each import:
 - `hashlib` → for hashing items into a fixed-size bit string (SHA-1)
 - `math` → for logarithms and powers
 - `random` & `time` → to generate sample data
@@ -41,7 +41,7 @@ class HyperLogLog:
 #### Parameters:
 - **p**: precision parameter (number of bits to determine the register index)  
   → The number of registers is \( m = 2^p \).
-- **hash_bits**: total number of bits we’ll take from the hash output (SHA-1 gives 160 bits).
+- **hash_bits**: total number of bits we'll take from the hash output (SHA-1 gives 160 bits).
 
 > **Memory note:** With `p=14`, we have \( m = 16384 \) registers — still tiny compared to storing millions of elements.
 
@@ -149,9 +149,9 @@ def count(self):
 ```
 
 The core estimation formula is:
-\[
+$
 E = \alpha_m \cdot m^2 \cdot \frac{1}{\sum_{j=1}^m 2^{-M_j}}
-\]
+$
 where \( M_j \) is the value in register j.
 
 ---
@@ -224,8 +224,134 @@ Both implementations produce **very close** results — showing our custom code 
 
 ---
 
+## Proof of Time Complexity and Analysis of the HyperLogLog Algorithm
+
+### 1. Time Complexity
+
+HyperLogLog is designed to be extremely efficient, both in time and memory.  
+Its operations rely on constant-time arithmetic and hashing, which leads to the following complexities:
+
+---
+
+### **1.1. `add(item)` Operation**
+
+Each insertion performs:
+
+1. Hashing the input → `O(1)`  
+   (Cryptographic hash functions such as SHA-1 run in constant time for fixed-size inputs)
+2. Splitting the hash into index bits and remaining bits → `O(1)`
+3. Computing the ρ(w) value → `O(1)`  
+   (Bit-length and leading-zero computations are constant time on fixed-size integers)
+4. Updating a register → `O(1)`
+
+**Therefore:**
+
+$
+\text{Time(add)} = O(1)
+$
+
+This constant-time behavior is what makes HLL suitable for streaming and real-time analytics.
+
+---
+
+### **1.2. `count()` Operation**
+
+The count function:
+
+- Loops through **all m registers**
+- Computes \( 2^{-M_j} \) for each register → constant time
+- Sums them up
+
+Since the number of registers is:
+
+$
+m = 2^p
+$
+
+and **p is a small constant** (commonly 4–16), the loop is considered *effectively constant time* in practice.
+
+Formally:
+
+$
+\text{Time(count)} = O(m) = O(2^p)
+$
+
+For typical p:
+
+| p | m (registers) | Runtime classification |
+|---|--------------|------------------------|
+| 4 | 16           | constant-time |
+| 10 | 1024        | constant-time |
+| 14 | 16384       | still constant for modern hardware |
+
+---
+
+### **2. Memory Complexity**
+
+HyperLogLog stores **m registers**, each holding an integer that fits in 5–6 bits.
+
+Total memory:
+
+$
+O(m) = O(2^p)
+$
+
+For p = 14:
+
+- m = 16,384 registers  
+- Using 6 bits per register  
+- Total ≈ **12 KB**
+
+This is why HLL can process *billions* of elements while using only a few kilobytes of RAM.
+
+---
+
+### 3. Accuracy and Error Bounds
+
+HyperLogLog provides an asymptotic relative error of:
+
+$
+\text{Standard Error} = \frac{1.04}{\sqrt{m}}
+$
+
+For p = 14:
+
+$
+m = 16,384 \quad \Rightarrow \quad \text{Error} \approx 0.81\%
+$
+
+This error is *independent* of the size of the dataset — a major strength of HLL.
+
+---
+
+### 4. Algorithmic Analysis Summary
+
+| Property | Value |
+|---------|-------|
+| **Insert time** | \(O(1)\) |
+| **Query time** | \(O(2^p)\), effectively constant |
+| **Memory** | \(O(2^p)\) |
+| **Relative error** | \( \approx 1.04 / \sqrt{2^p} \) |
+| **Mergeability** | Yes — via element-wise max of registers |
+
+---
+
+### 5. Why HyperLogLog Is Efficient
+
+- Hashing ensures uniform randomness.
+- Register updates are constant time.
+- Using leading zeros captures the “rarity” of hash prefixes.
+- The probabilistic nature avoids storing actual data.
+- Mergeability makes it perfect for distributed and streaming systems (e.g., MapReduce, Spark, Flink).
+
+---
+
+### Final Insight
+
+HyperLogLog’s clever design shifts the complexity away from the data size and into a fixed number of small registers. This makes it one of the most powerful algorithms for approximate cardinality estimation in modern large-scale systems.
+
 ### Key Takeaways
 
 - HyperLogLog is **memory-efficient** and **mergeable**.
-- It’s perfect for counting unique elements in **large datasets**.
+- It's perfect for counting unique elements in **large datasets**.
 - Implementing it from scratch deepens understanding — but for production, use a battle-tested library.
