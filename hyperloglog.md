@@ -224,16 +224,16 @@ Both implementations produce **very close** results — showing our custom code 
 
 ---
 
-## Proof of Time Complexity and Analysis of the HyperLogLog Algorithm
+### Proof of Time Complexity and Analysis of the HyperLogLog Algorithm
 
-### 1. Time Complexity
+#### 1. Time Complexity
 
 HyperLogLog is designed to be extremely efficient, both in time and memory.  
 Its operations rely on constant-time arithmetic and hashing, which leads to the following complexities:
 
 ---
 
-### **1.1. `add(item)` Operation**
+#### **1.1. `add(item)` Operation**
 
 Each insertion performs:
 
@@ -254,7 +254,7 @@ This constant-time behavior is what makes HLL suitable for streaming and real-ti
 
 ---
 
-### **1.2. `count()` Operation**
+#### **1.2. `count()` Operation**
 
 The count function:
 
@@ -286,7 +286,7 @@ For typical p:
 
 ---
 
-### **2. Memory Complexity**
+#### **2. Memory Complexity**
 
 HyperLogLog stores **m registers**, each holding an integer that fits in 5–6 bits.
 
@@ -306,7 +306,7 @@ This is why HLL can process *billions* of elements while using only a few kiloby
 
 ---
 
-### 3. Accuracy and Error Bounds
+#### 3. Accuracy and Error Bounds
 
 HyperLogLog provides an asymptotic relative error of:
 
@@ -324,7 +324,7 @@ This error is *independent* of the size of the dataset — a major strength of H
 
 ---
 
-### 4. Algorithmic Analysis Summary
+#### 4. Algorithmic Analysis Summary
 
 | Property | Value |
 |---------|-------|
