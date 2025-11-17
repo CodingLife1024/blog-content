@@ -259,7 +259,7 @@ This constant-time behavior is what makes HLL suitable for streaming and real-ti
 The count function:
 
 - Loops through **all m registers**
-- Computes \( 2^{-M_j} \) for each register --> constant time
+- Computes $ 2^{-M_j} $ for each register --> constant time
 - Sums them up
 
 Since the number of registers is:
