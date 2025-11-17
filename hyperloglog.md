@@ -23,10 +23,10 @@ from datasketch import HyperLogLog as LibHLL
 ```
 
 Here's why we need each import:
-- `hashlib` → for hashing items into a fixed-size bit string (SHA-1)
-- `math` → for logarithms and powers
-- `random` & `time` → to generate sample data
-- `datasketch.HyperLogLog` → to compare our custom HLL with a well-tested implementation
+- `hashlib` --> for hashing items into a fixed-size bit string (SHA-1)
+- `math` --> for logarithms and powers
+- `random` & `time` --> to generate sample data
+- `datasketch.HyperLogLog` --> to compare our custom HLL with a well-tested implementation
 
 ---
 
@@ -40,7 +40,7 @@ class HyperLogLog:
 
 #### Parameters:
 - **p**: precision parameter (number of bits to determine the register index)  
-  → The number of registers is \( m = 2^p \).
+  --> The number of registers is \( m = 2^p \).
 - **hash_bits**: total number of bits we'll take from the hash output (SHA-1 gives 160 bits).
 
 > **Memory note:** With `p=14`, we have \( m = 16384 \) registers - still tiny compared to storing millions of elements.
@@ -121,8 +121,8 @@ def add(self, item):
 
 Steps:
 1. Hash the item
-2. **Lower p bits** → register index
-3. **Remaining bits** → input to ρ(w)
+2. **Lower p bits** --> register index
+3. **Remaining bits** --> input to ρ(w)
 4. Update the register if we found a larger ρ
 
 ---
@@ -237,12 +237,12 @@ Its operations rely on constant-time arithmetic and hashing, which leads to the 
 
 Each insertion performs:
 
-1. Hashing the input → `O(1)`  
+1. Hashing the input --> `O(1)`  
    (Cryptographic hash functions such as SHA-1 run in constant time for fixed-size inputs)
-2. Splitting the hash into index bits and remaining bits → `O(1)`
-3. Computing the ρ(w) value → `O(1)`  
+2. Splitting the hash into index bits and remaining bits --> `O(1)`
+3. Computing the ρ(w) value --> `O(1)`  
    (Bit-length and leading-zero computations are constant time on fixed-size integers)
-4. Updating a register → `O(1)`
+4. Updating a register --> `O(1)`
 
 **Therefore:**
 
@@ -259,7 +259,7 @@ This constant-time behavior is what makes HLL suitable for streaming and real-ti
 The count function:
 
 - Loops through **all m registers**
-- Computes \( 2^{-M_j} \) for each register → constant time
+- Computes \( 2^{-M_j} \) for each register --> constant time
 - Sums them up
 
 Since the number of registers is:
@@ -340,7 +340,7 @@ This error is *independent* of the size of the dataset - a major strength of HLL
 
 - Hashing ensures uniform randomness.
 - Register updates are constant time.
-- Using leading zeros captures the “rarity” of hash prefixes.
+- Using leading zeros captures the "rarity" of hash prefixes.
 - The probabilistic nature avoids storing actual data.
 - Mergeability makes it perfect for distributed and streaming systems (e.g., MapReduce, Spark, Flink).
 
