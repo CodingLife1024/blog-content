@@ -300,7 +300,7 @@ For p = 14:
 
 - m = 16,384 registers  
 - Using 6 bits per register  
-- Total ≈ **12 KB**
+- Total $ \approx $ **12 KB**
 
 This is why HLL can process *billions* of elements while using only a few kilobytes of RAM.
 
