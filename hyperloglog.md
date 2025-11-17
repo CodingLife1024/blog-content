@@ -90,7 +90,7 @@ We:
 
 ---
 
-#### Finding the **ρ(w)** function
+#### Finding the **$ \rho(w) $** function
 
 ```python
 def _rho(self, w, max_bits):
@@ -101,7 +101,7 @@ def _rho(self, w, max_bits):
     return leading_zeros + 1
 ```
 
-ρ(w) = position of the **first 1-bit** in w (counting from the left).  
+$ \rho(w) $ = position of the **first 1-bit** in w (counting from the left).  
 This is the **core** of HLL - it estimates the "rarity" of a hash prefix.
 
 ---
