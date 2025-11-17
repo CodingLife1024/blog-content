@@ -268,7 +268,7 @@ $
 m = 2^p
 $
 
-and **p is a small constant** (commonly 4–16), the loop is considered *effectively constant time* in practice.
+and **p is a small constant** (commonly 4-16), the loop is considered *effectively constant time* in practice.
 
 Formally:
 
@@ -288,7 +288,7 @@ For typical p:
 
 #### **2. Memory Complexity**
 
-HyperLogLog stores **m registers**, each holding an integer that fits in 5–6 bits.
+HyperLogLog stores **m registers**, each holding an integer that fits in 5-6 bits.
 
 Total memory:
 
