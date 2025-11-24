@@ -149,9 +149,9 @@ def count(self):
 ```
 
 The core estimation formula is:
-$
+$$
 E = \alpha_m \cdot m^2 \cdot \frac{1}{\sum_{j=1}^m 2^{-M_j}}
-$
+$$
 where \( M_j \) is the value in register j.
 
 ---
