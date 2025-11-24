@@ -43,7 +43,7 @@
 | &#x2B1C; | Pinball, 1973 | 1980 | Haruki Murakami |  |
 | &#x2B1C; | A Wild Sheep Chase | 1982 | Haruki Murakami |  |
 | &#x2B1C; | Hard-Boiled Wonderland and the End of the World | 1985 | Haruki Murakami |  |
-| &#x2B1C; | Dance Dance Dance | 1988 | Haruki Murakami |  |
+| &#x23F8; | Dance Dance Dance | 1988 | Haruki Murakami | <p><progress value="0" max="100"></progress>0%</p> |
 | &#x2B1C; | South of the Border, West of the Sun | 1992 | Haruki Murakami |  |
 | &#x2B1C; | The Wind-Up Bird Chronicle | 1994 | Haruki Murakami |  |
 | &#x2B1C; | Sputnik Sweetheart | 1999 | Haruki Murakami |  |
@@ -51,7 +51,7 @@
 | &#x2B1C; | 1Q84 | 2009 | Haruki Murakami |  |
 | &#x2B1C; | Colorless Tsukuru Tazaki and His Years of Pilgrimage | 2013 | Haruki Murakami |  |
 | &#x2B1C; | Killing Commendatore | 2017 | Haruki Murakami |  |
-| &#x2B1C; | The City and Its Uncertain Walls | 2023 | Haruki Murakami |  |
+| &#x23F8; | The City and Its Uncertain Walls | 2023 | Haruki Murakami | <p><progress value="0" max="100"></progress>0%</p> |
 | &#x2B1C; | Coraline | 2002 | Neil Gaiman |  |
 | &#x2705; | Delhi A Soliloquy | 2011 | M. Mukundan | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Garden of Evening Mists | 2011 | Tan Twan Eng | &#11088; &#11088; &#11088; &#11088; |
