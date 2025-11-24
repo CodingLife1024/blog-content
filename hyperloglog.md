@@ -328,7 +328,7 @@ This error is *independent* of the size of the dataset - a major strength of HLL
 
 | Property | Value |
 |---------|-------|
-| **Insert time** | $ (O(1)) $ |
+| **Insert time** | $(O(1))$ |
 | **Query time** | $ O(2^p) $, effectively constant |
 | **Memory** | $ $O(2^p) $ |
 | **Relative error** | $ \approx 1.04 / \sqrt{2^p} $ |
