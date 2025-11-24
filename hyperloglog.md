@@ -40,7 +40,7 @@ class HyperLogLog:
 
 #### Parameters:
 - **p**: precision parameter (number of bits to determine the register index)  
-  --> The number of registers is \( m = 2^p \).
+  --> The number of registers is $$ \( m = 2^p \) $$.
 - **hash_bits**: total number of bits we'll take from the hash output (SHA-1 gives 160 bits).
 
 > **Memory note:** With `p=14`, we have \( m = 16384 \) registers - still tiny compared to storing millions of elements.
