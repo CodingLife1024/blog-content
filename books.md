@@ -52,7 +52,7 @@
 | &#x2B1C; | 1Q84 | 2009 | Haruki Murakami |  |
 | &#x2B1C; | Colorless Tsukuru Tazaki and His Years of Pilgrimage | 2013 | Haruki Murakami |  |
 | &#x2B1C; | Killing Commendatore | 2017 | Haruki Murakami |  |
-| &#x23F8; | The City and Its Uncertain Walls | 2023 | Haruki Murakami | <p><progress value="30" max="100"></progress>30%</p> |
+| &#x2705; | The City and Its Uncertain Walls | 2023 | Haruki Murakami | &#11088; &#11088; &#11088; &#11088; |
 | &#x2B1C; | Coraline | 2002 | Neil Gaiman |  |
 | &#x2705; | Delhi A Soliloquy | 2011 | M. Mukundan | &#11088; &#11088; &#11088; &#11088; &#11088; |
 | &#x2705; | The Garden of Evening Mists | 2011 | Tan Twan Eng | &#11088; &#11088; &#11088; &#11088; |
