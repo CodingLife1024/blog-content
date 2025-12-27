@@ -1,3 +1,33 @@
+# Books for 2026
+
+|          | Book Name | Year of Release | Author | My Rating |
+|----------|-----------|-----------------|--------|-----------|
+| &#x2B1C; | Rocannon's World | 1966 | Ursula K. Le Guin |  |
+| &#x2B1C; | Planet of Exile | 1966 | Ursula K. Le Guin |  |
+| &#x2B1C; | City of Illusions | 1967 | Ursula K. Le Guin |  |
+| &#x2B1C; | The Word for World is Forest | 1972 | Ursula K. Le Guin |  |
+| &#x2B1C; | Four Ways to Forgiveness | 1995 | Ursula K. Le Guin |  |
+| &#x2B1C; | The Telling | 2000 | Ursula K. Le Guin |  |
+| &#x2B1C; | The Lathe of Heaven | 1971 | Ursula K. Le Guin |  |
+| &#x2B1C; | The Beginning Place | 1980 | Ursula K. Le Guin |  |
+| &#x2B1C; | Always Coming Home | 1985 | Ursula K. Le Guin |  |
+| &#x2B1C; | Carmilla | 1897 | Sheridan Le Fanu |  |
+| &#x2B1C; | Naked Economics | 2013 | Charles Wheelan, Burton G. Malkiel |  |
+| &#x2B1C; | Freakonomics | 2005 | Steven D. Levitt, Stephen J. Dubner |  |
+| &#x2B1C; | White Nights | 1848 | Fyodor Dostoevsky |  |
+| &#x2B1C; | Hear the Wind Sing | 1979 | Haruki Murakami |  |
+| &#x2B1C; | Pinball, 1973 | 1980 | Haruki Murakami |  |
+| &#x2B1C; | A Wild Sheep Chase | 1982 | Haruki Murakami |  |
+| &#x2B1C; | Hard-Boiled Wonderland and the End of the World | 1985 | Haruki Murakami |  |
+| &#x2B1C; | South of the Border, West of the Sun | 1992 | Haruki Murakami |  |
+| &#x2B1C; | The Wind-Up Bird Chronicle | 1994 | Haruki Murakami |  |
+| &#x2B1C; | Sputnik Sweetheart | 1999 | Haruki Murakami |  |
+| &#x2B1C; | After Dark | 2004 | Haruki Murakami |  |
+| &#x2B1C; | 1Q84 | 2009 | Haruki Murakami |  |
+| &#x2B1C; | Colorless Tsukuru Tazaki and His Years of Pilgrimage | 2013 | Haruki Murakami |  |
+| &#x2B1C; | Killing Commendatore | 2017 | Haruki Murakami |  |
+| &#x2B1C; | Coraline | 2002 | Neil Gaiman |  |
+
 # Books for 2025
 
 |          | Book Name | Year of Release | Author | My Rating |
