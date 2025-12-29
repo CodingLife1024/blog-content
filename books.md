@@ -73,7 +73,7 @@
 | &#x2B1C; | Pinball, 1973 | 1980 | Haruki Murakami |  |
 | &#x2B1C; | A Wild Sheep Chase | 1982 | Haruki Murakami |  |
 | &#x2B1C; | Hard-Boiled Wonderland and the End of the World | 1985 | Haruki Murakami |  |
-| &#x23F8; | Dance Dance Dance | 1988 | Haruki Murakami | <p><progress value="30" max="100"></progress>30%</p> |
+| &#x23F8; | Dance Dance Dance | 1988 | Haruki Murakami | <p><progress value="45" max="100"></progress>45%</p> |
 | &#x23F8; | The Memory Police | 1994 | Yoko Ogawa | <p><progress value="10" max="100"></progress>10%</p> |
 | &#x2B1C; | South of the Border, West of the Sun | 1992 | Haruki Murakami |  |
 | &#x2B1C; | The Wind-Up Bird Chronicle | 1994 | Haruki Murakami |  |
