@@ -27,6 +27,14 @@
 | &#x2B1C; | Colorless Tsukuru Tazaki and His Years of Pilgrimage | 2013 | Haruki Murakami |  |
 | &#x2B1C; | Killing Commendatore | 2017 | Haruki Murakami |  |
 | &#x2B1C; | Coraline | 2002 | Neil Gaiman |  |
+| &#x2B1C; | American Gods | 2001 | Neil Gaiman |  |
+| &#x2B1C; | Neverwhere | 1996 | Neil Gaiman |  |
+| &#x2B1C; | The Graveyard Book | 2008 | Neil Gaiman |  |
+| &#x2B1C; | Stardust | 1999 | Neil Gaiman |  |
+| &#x2B1C; | The Kite Runner | 2003 | Khaled Hosseini |  |
+| &#x2B1C; | A Thousand Splendid Suns | 2007 | Khaled Hosseini |  |
+| &#x2B1C; | And the Mountains Echoed | 2013 | Khaled Hosseini |  |
+| &#x2B1C; | Sea Prayer | 2018 | Khaled Hosseini |  |
 
 # Books for 2025
 
