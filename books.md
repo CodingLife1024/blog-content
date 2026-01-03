@@ -2,11 +2,11 @@
 
 |          | Book Name | Year of Release | Author | My Rating |
 |----------|-----------|-----------------|--------|-----------|
-| &#x2B1C; | Rocannon's World | 1966 | Ursula K. Le Guin |  |
+| &#x23F8; | Rocannon's World | 1966 | Ursula K. Le Guin | <p><progress value="0" max="100"></progress>0%</p> |
 | &#x2B1C; | Planet of Exile | 1966 | Ursula K. Le Guin |  |
-| &#x2B1C; | City of Illusions | 1967 | Ursula K. Le Guin |  |
+| &#x23F8; | City of Illusions | 1967 | Ursula K. Le Guin | <p><progress value="0" max="100"></progress>0%</p> |
 | &#x2B1C; | The Word for World is Forest | 1972 | Ursula K. Le Guin |  |
-| &#x2B1C; | Four Ways to Forgiveness | 1995 | Ursula K. Le Guin |  |
+| &#x23F8; | Four Ways to Forgiveness | 1995 | Ursula K. Le Guin | <p><progress value="0" max="100"></progress>0%</p> |
 | &#x2B1C; | The Telling | 2000 | Ursula K. Le Guin |  |
 | &#x2B1C; | The Lathe of Heaven | 1971 | Ursula K. Le Guin |  |
 | &#x2B1C; | The Beginning Place | 1980 | Ursula K. Le Guin |  |
@@ -27,6 +27,20 @@
 | &#x2B1C; | Colorless Tsukuru Tazaki and His Years of Pilgrimage | 2013 | Haruki Murakami |  |
 | &#x2B1C; | Killing Commendatore | 2017 | Haruki Murakami |  |
 | &#x2B1C; | Coraline | 2002 | Neil Gaiman |  |
+| &#x2B1C; | American Gods | 2001 | Neil Gaiman |  |
+| &#x2B1C; | Neverwhere | 1996 | Neil Gaiman |  |
+| &#x2B1C; | The Graveyard Book | 2008 | Neil Gaiman |  |
+| &#x2B1C; | Stardust | 1999 | Neil Gaiman |  |
+| &#x2B1C; | The Kite Runner | 2003 | Khaled Hosseini |  |
+| &#x2B1C; | A Thousand Splendid Suns | 2007 | Khaled Hosseini |  |
+| &#x2B1C; | And the Mountains Echoed | 2013 | Khaled Hosseini |  |
+| &#x2B1C; | Sea Prayer | 2018 | Khaled Hosseini |  |
+| &#x2B1C; | Never Let Me Go | 2005 | Kazuo Ishiguro |  |
+| &#x2B1C; | The Remains of the Day | 1989 | Kazuo Ishiguro |  |
+| &#x2B1C; | Parable of the Sower | 1993 | Octavia E. Butler |  |
+| &#x2B1C; | Invisible Cities | 1972 | Italo Calvino |  |
+| &#x2B1C; | The Shadow Lines | 1988 | Amitav Ghosh |  |
+| &#x2B1C; | The Hour of the Star | 1977 | Clarice Lispector |  |
 
 # Books for 2025
 
@@ -73,7 +87,7 @@
 | &#x2B1C; | Pinball, 1973 | 1980 | Haruki Murakami |  |
 | &#x2B1C; | A Wild Sheep Chase | 1982 | Haruki Murakami |  |
 | &#x2B1C; | Hard-Boiled Wonderland and the End of the World | 1985 | Haruki Murakami |  |
-| &#x23F8; | Dance Dance Dance | 1988 | Haruki Murakami | <p><progress value="45" max="100"></progress>45%</p> |
+| &#x2705; | Dance Dance Dance | 1988 | Haruki Murakami | &#11088; &#11088; &#11088; &#11088; |
 | &#x23F8; | The Memory Police | 1994 | Yoko Ogawa | <p><progress value="10" max="100"></progress>10%</p> |
 | &#x2B1C; | South of the Border, West of the Sun | 1992 | Haruki Murakami |  |
 | &#x2B1C; | The Wind-Up Bird Chronicle | 1994 | Haruki Murakami |  |
